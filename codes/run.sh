@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # change directories below
-export ANN='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/Annotations/'
-export DOC='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/Articles/'
-export POS_OUT='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/Positives/'
-export NEG_OUT='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/Negatives/'
+export ANN='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/annotations/'
+export DOC='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/articles/'
+export POS_OUT='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/positives/'
+export NEG_OUT='/Users/jiyuc/Documents/GitHub/BioConsistency/corpus/negatives/'
 
 # DO NOT change lines below
 # generate negative instances
