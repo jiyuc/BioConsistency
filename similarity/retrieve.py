@@ -1,32 +1,11 @@
-from textblob import TextBlob
 import glob
 from sklearn.feature_extraction.text import TfidfVectorizer
 from obj.instance import Instance
+from tool.preprocess import normalise
 
 class Retriever:
     def __init__(self):
-        #self.stop_words = self.load_stopwords('/Users/jiyuc/Documents/GitHub/BioCGOES/tools/stopwords.txt')
         return
-
-    def load_stopwords(self,stop_word_path):
-        """
-        This method will load NCBI created stopwords txt file into a set()
-
-        :return: a set of stopwords
-        """
-        stop_words = set()
-        with open(stop_word_path,'r',encoding='utf-8') as rf:
-            for line in rf:
-                line = line.strip()
-                stop_words.add(line)
-        rf.close()
-        return stop_words
-
-    def preprocessor(self,text):
-        text = TextBlob(text) # preprocessing using textblob
-        text = [w.lemmatize('v').lower() for w in text.words] # lemmatising verbs
-        #text = [w for w in text if w not in self.stop_words] # remove stopwords
-        return ' '.join(text)
 
     def fit_tf_idf(self,document):
         """
@@ -77,11 +56,11 @@ class Retriever:
             return []
         if not document:
             return []
-        sents = [self.preprocessor(s.evidence.text) for s in document]
+        sents = [normalise(s.evidence.text) for s in document]
         tf_idf_vectorizer = self.fit_tf_idf(sents)
         tf_idf_matrix = self.transform_tf_idf(tf_idf_vectorizer,sents)
 
-        query = self.preprocessor(query)
+        query = normalise(query)
         scores = list()
         for i in range(tf_idf_matrix.shape[0]):
             score = 0
@@ -108,7 +87,7 @@ class Retriever:
 
 
 if __name__ == '__main__':
-    query = 'Through genetic analysis, we have identified a new subunit of the Aurora B kinase complex, CSC-1.'
+    query = 'Here we show that Cryptocephal (CRC), the Drosophila homolog of ATF4, is an ecdysone receptor coactivator that is specific for isoform B2.'
 
     # load raw texts
     document_path = '/Users/jiyuc/Documents/GitHub/BioCGOES/train_corpus/Negatives/*.txt'
