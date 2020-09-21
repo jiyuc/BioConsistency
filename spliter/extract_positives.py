@@ -1,10 +1,14 @@
-import pandas as pd
 import bioc
 import glob
-from extract_negatives import NegativeEx
-from instance import Instance
+import os
+import sys
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+from spliter.extract_negatives import NegativeEx
+from obj.instance import Instance
 from tqdm import tqdm
-from command_parse import parse_command
+from tool.command_parse import parse_command
 
 class PositiveEx:
     def __init__(self):

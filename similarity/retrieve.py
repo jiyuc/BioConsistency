@@ -1,7 +1,7 @@
 from textblob import TextBlob
 import glob
 from sklearn.feature_extraction.text import TfidfVectorizer
-from instance import Instance
+from obj.instance import Instance
 
 class Retriever:
     def __init__(self):

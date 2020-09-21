@@ -1,5 +1,5 @@
-from goa import GOA
-from evidence import Evidence
+from obj.goa import GOA
+from obj.evidence import Evidence
 
 class Instance:
     """

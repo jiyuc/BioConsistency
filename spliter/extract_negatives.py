@@ -1,9 +1,14 @@
 import glob
 import bioc
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 from textblob import TextBlob
 from tqdm import tqdm
-from instance import Instance
-from command_parse import parse_command
+from obj.instance import Instance
+from tool.command_parse import parse_command
 
 
 class NegativeEx:
