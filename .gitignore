@@ -7,6 +7,10 @@ __pycache__/
 corpus/positives
 corpus/negatives
 
+# intelliJ
+.idea
+.DS_Store
+
 # C extensions
 *.so
 
