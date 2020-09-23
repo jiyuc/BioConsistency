@@ -3,6 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from obj.instance import Instance
 from tool.preprocess import normalise
 
+
 class Retriever:
     def __init__(self):
         return
@@ -84,6 +85,9 @@ class Retriever:
                 wf.write('\t'.join(str(score),instance.tostring())+'\n')
         wf.close()
         return
+
+
+
 
 
 if __name__ == '__main__':

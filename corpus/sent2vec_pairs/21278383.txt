@@ -1,0 +1,35 @@
+21278383_1|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Tes(500040)|#gene_synonym
+##EndOfRet##
+21278383_2|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Arp7A(298017)|#gene_synonym
+##EndOfRet##
+21278383_3|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Actl7a(298017)|#gene_synonym
+##EndOfRet##
+21278383_4|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Mena(360891)|#gene_synonym
+##EndOfRet##
+21278383_5|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Enah(360891)|#gene_synonym
+##EndOfRet##
+21278383_6|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Tes(500040)|#gene_synonym
+##EndOfRet##
+21278383_7|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Arp7A(298017)|#gene_synonym
+##EndOfRet##
+21278383_8|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Actl7a(298017)|#gene_synonym
+##EndOfRet##
+21278383_9|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Mena(360891)|#gene_synonym
+##EndOfRet##
+21278383_10|21278383|13859|#section_info|0:0|Immunoprecipitations from testes extracts confirmed that Arp7A is indeed complexed with Tes and Mena (Fig. 2A).|#main_body|GO:0005515|protein binding|#go_definition|IPI|GOA|Enah(360891)|#gene_synonym
+##EndOfRet##
+21278383_11|21278383|15408|#section_info|0:0|A, immunoblot analysis of Tes immunoprecipitations (IP) with the indicated antibodies reveals that Arp7A, Tes, and Mena are complexed to each other in rat testes extracts. |#fig_caption|GO:0005515|protein binding|#go_definition|IPI|GOA|Tes(500040)|#gene_synonym
+0.62	21278383_144|21278383|21077|RESULTS|0:0|C, immunoblot analysis reveals that the GST-1-65 resin binds GFP-tagged LIM2 but not the LIM1, LIM2-C328A, or LIM3 domains of Tes.|#fig_caption|#go_id|#go_term|#go_definition|#evidence_code|#evidence_type|#gene_name|#gene_synonym
+##EndOfRet##
+21278383_12|21278383|15408|#section_info|0:0|A, immunoblot analysis of Tes immunoprecipitations (IP) with the indicated antibodies reveals that Arp7A, Tes, and Mena are complexed to each other in rat testes extracts. |#fig_caption|GO:0005515|protein binding|#go_definition|IPI|GOA|Arp7A(298017)|#gene_synonym
+0.62	21278383_144|21278383|21077|RESULTS|0:0|C, immunoblot analysis reveals that the GST-1-65 resin binds GFP-tagged LIM2 but not the LIM1, LIM2-C328A, or LIM3 domains of Tes.|#fig_caption|#go_id|#go_term|#go_definition|#evidence_code|#evidence_type|#gene_name|#gene_synonym
+##EndOfRet##
+21278383_13|21278383|15408|#section_info|0:0|A, immunoblot analysis of Tes immunoprecipitations (IP) with the indicated antibodies reveals that Arp7A, Tes, and Mena are complexed to each other in rat testes extracts. |#fig_caption|GO:0005515|protein binding|#go_definition|IPI|GOA|Actl7a(298017)|#gene_synonym
+0.62	21278383_144|21278383|21077|RESULTS|0:0|C, immunoblot analysis reveals that the GST-1-65 resin binds GFP-tagged LIM2 but not the LIM1, LIM2-C328A, or LIM3 domains of Tes.|#fig_caption|#go_id|#go_term|#go_definition|#evidence_code|#evidence_type|#gene_name|#gene_synonym
+##EndOfRet##
+21278383_14|21278383|15408|#section_info|0:0|A, immunoblot analysis of Tes immunoprecipitations (IP) with the indicated antibodies reveals that Arp7A, Tes, and Mena are complexed to each other in rat testes extracts. |#fig_caption|GO:0005515|protein binding|#go_definition|IPI|GOA|Mena(360891)|#gene_synonym
+0.62	21278383_144|21278383|21077|RESULTS|0:0|C, immunoblot analysis reveals that the GST-1-65 resin binds GFP-tagged LIM2 but not the LIM1, LIM2-C328A, or LIM3 domains of Tes.|#fig_caption|#go_id|#go_term|#go_definition|#evidence_code|#evidence_type|#gene_name|#gene_synonym
+##EndOfRet##
+21278383_15|21278383|15408|#section_info|0:0|A, immunoblot analysis of Tes immunoprecipitations (IP) with the indicated antibodies reveals that Arp7A, Tes, and Mena are complexed to each other in rat testes extracts. |#fig_caption|GO:0005515|protein binding|#go_definition|IPI|GOA|Enah(360891)|#gene_synonym
+0.62	21278383_144|21278383|21077|RESULTS|0:0|C, immunoblot analysis reveals that the GST-1-65 resin binds GFP-tagged LIM2 but not the LIM1, LIM2-C328A, or LIM3 domains of Tes.|#fig_caption|#go_id|#go_term|#go_definition|#evidence_code|#evidence_type|#gene_name|#gene_synonym
+##EndOfRet##

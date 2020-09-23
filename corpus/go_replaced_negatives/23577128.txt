@@ -1,0 +1,3 @@
+23577128_56|23577128|41260|#section_info|0:0|Male movement during mating depends on functionally redundant cholinergic receptors.|#main_body|GO:0034606|response to hermaphrodite contact|#go_definition|NONE|GOA|acr-16(179235)|#gene_synonym
+23577128_57|23577128|41260|#section_info|0:0|Male movement during mating depends on functionally redundant cholinergic receptors.|#main_body|GO:0034608|vulval location|#go_definition|NONE|GOA|acr-18(191604)|#gene_synonym
+23577128_58|23577128|41260|#section_info|0:0|Male movement during mating depends on functionally redundant cholinergic receptors.|#main_body|GO:0034608|vulval location|#go_definition|NONE|GOA|unc-29(172703)|#gene_synonym

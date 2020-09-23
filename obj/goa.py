@@ -1,3 +1,5 @@
+import json
+import requests, sys
 class Gene():
     """
     Define gene class
@@ -79,3 +81,63 @@ class GOA:
         gene = '|'.join(template[5:])
         goa.gene = Gene().fromstring(gene)
         return goa
+
+    def query_go(self,query,flag='swap'):
+        if flag == 'swap':
+            requestURL = "https://www.ebi.ac.uk/QuickGO/services/ontology/go/search?query={}&limit=1&page=1".format(query)
+
+        elif flag == 'child':
+            requestURL = "https://www.ebi.ac.uk/QuickGO/services/ontology/go/terms/{}/children".format(query.replace(":","%3A"))
+
+        try:
+            r = requests.get(requestURL, headers={"Accept": "application/json"})
+        except:
+            return None
+        if not r.ok:
+            #r.raise_for_status()
+            #sys.exit()
+            return None
+        responseBody = r.text
+        #print(responseBody)
+        goa = self.process_quickgo(responseBody,flag)
+        return goa
+
+
+    def process_quickgo(self,reponseBody,flag):
+        reponseBody = json.loads(reponseBody)
+        # swap negative & positive regulation
+        if flag == 'swap':
+            record = reponseBody["results"][0]
+            if record["isObsolete"]:
+                return None
+
+            goa = GOA()
+            goa.go_term = record["name"]
+            goa.go_id = record["id"]
+            goa.go_definition = record["definition"]["text"]
+            return goa
+
+        # replace with child go term
+        elif flag == 'child':
+            goa_list = list()
+            record = reponseBody["results"][0]
+            if "children" not in record.keys():
+                return goa_list
+            for child in record["children"]:
+                if child["relation"] != "is_a":
+                    continue # only replace the parent term with a child term in is_a relation
+
+                goa = GOA()
+                goa.go_term = child["name"]
+                goa.go_id = child["id"]
+                #goa.go_definition = child["definition"]["text"]
+                goa_list.append(goa)
+            return goa_list
+
+
+
+
+
+if __name__ == '__main__':
+    GOA().query_go("negative regulation of feeding behavior")
+
