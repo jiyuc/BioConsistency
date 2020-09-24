@@ -1,0 +1,2 @@
+19307186_1|19307186|14656|#section_info|0:54|Serum Ace activity was measured using a commercial kit|#main_body|GO:0005615|extracellular space|#go_definition|IEP|GOA|Ace(24310)|#gene_synonym
+19307186_4|19307186|28602|#section_info|0:44|a, serum Ace activity in noninduced animals |#fig_caption|GO:0005615|extracellular space|#go_definition|IEP|GOA|Ace(24310)|#gene_synonym

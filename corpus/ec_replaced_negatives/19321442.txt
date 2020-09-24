@@ -1,0 +1,8 @@
+19321442_1|19321442|16186|#section_info|96:144|A, GluR1 surface levels are unaffected by  OGD. |#fig_caption|GO:0009986|cell surface|#go_definition|IEP|GOA|Gria1(50592)|#gene_synonym
+19321442_2|19321442|16186|#section_info|268:398|The top  panel shows a representative Western blot of total GluR1 present in  lysates and surface (biotinylated) GluR1 after OGD. |#fig_caption|GO:0009986|cell surface|#go_definition|IEP|GOA|Gria1(50592)|#gene_synonym
+19321442_3|19321442|16186|#section_info|398:476|The graph shows pooled  data presented as ratios of surface over total GluR1. |#fig_caption|GO:0009986|cell surface|#go_definition|IEP|GOA|Gria1(50592)|#gene_synonym
+19321442_4|19321442|16186|#section_info|484:549|B, GluR2 is rapidly removed from the surface in response to OGD. |#fig_caption|GO:0009986|cell surface|#go_definition|IEP|GOA|Gria2(29627)|#gene_synonym
+19321442_5|19321442|17954|#section_info|0:146|The OGD-induced Reduction in Surface-expressed GluR2 Is  PICK1-dependent:To directly analyze the surface AMPAR subunit  switching induced by OGD, |#main_body|GO:0009986|cell surface|#go_definition|IEP|GOA|Gria2(29627)|#gene_synonym
+19321442_6|19321442|17954|#section_info|312:387|We observed a time-dependent reduction in  GluR2 surface expression by OGD |#main_body|GO:0005623|cell|#go_definition|IEP|GOA|Gria2(29627)|#gene_synonym
+19321442_7|19321442|17954|#section_info|554:627|GluR1 surface expression was unaffected by OGD at all time points  tested|#main_body|GO:0009986|cell surface|#go_definition|IEP|GOA|Gria1(50592)|#gene_synonym
+19321442_8|19321442|17954|#section_info|1256:1348|completely blocked  the reduction in surface-expressed GluR2 in response to OGD  (Fig. 3C). |#main_body|GO:0005623|cell|#go_definition|IEP|GOA|Gria2(29627)|#gene_synonym

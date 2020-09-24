@@ -73,5 +73,7 @@ class Text_Spans:
         ts = Text_Spans()
         if not s or s == "":
             return None
-        ts.text_spans
+        tuples = [t for t in s.split('$$')]
+        spans = [(int(span.split(":")[0]),int(span.split(":")[1])) for span in tuples]
+        ts.text_spans = spans
         return ts

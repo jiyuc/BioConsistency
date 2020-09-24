@@ -82,6 +82,54 @@ def replace_with_go_child(instances):
         processed.append(instance)
     return processed
 
+def select_evidence_code(instance):
+    """
+    This method replace evidence code in an instance according to
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3220872/
+
+    :param instance: a consistent GOA-Evidence instance
+    :return: a modified inconsistent GOA-Evidence instance, or None (if unsuccessful)
+    """
+    if not instance:
+        return None
+
+    evidence = instance.goa.evidence_code
+    exp_codes = ['EXP','IMP','IGI','IPI','IDA','IEP']
+    if evidence not in exp_codes:
+        return None
+
+    if evidence == 'EXP':
+        instance.goa.evidence_code = random.choice(exp_codes[1:])
+    elif evidence == 'IMP':
+        instance.goa.evidence_code = random.choice(exp_codes[2:])
+    elif evidence == 'IGI':
+        instance.goa.evidence_code = random.choice(exp_codes[3:])
+    elif evidence == 'IPI':
+        instance.goa.evidence_code = random.choice(exp_codes[4:])
+    elif evidence == 'IDA':
+        instance.goa.evidence_code = random.choice(exp_codes[5:])
+    elif evidence == 'IEP': # bottom of decision tree, do not modify
+        return None
+    return instance
+
+
+
+def replace_exp_evidence_code(instances):
+    """
+    This rule modify experimental typed evidence code in TPs to form negatives
+
+    :param instances: a list of TP instances
+    :return: a list of evidence_code modified negatives
+    """
+    processed = list()
+    for instance in instances:
+        instance = select_evidence_code(instance)
+        if not instance:
+            continue
+
+        processed.append(instance)
+    return processed
+
 
 def save_processed_totxt(processed,file_directory):
     if not processed:
@@ -99,6 +147,7 @@ if __name__ == '__main__':
     positive_document_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/positives/*.txt'
     swapped_negative_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/go_swapped_negatives/{}.txt'
     go_replaced_negative_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/go_replaced_negatives/{}.txt'
+    ec_replaced_negative_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/ec_replaced_negatives/{}.txt'
     instances = list()
     pos_files = glob.glob(positive_document_path)
     # load positives instances
@@ -107,14 +156,20 @@ if __name__ == '__main__':
             for line in fp:
                 instances.append(Instance().fromstring(line))
 
-    # swap positive & negative regulations in go terms
-    #processes = swap_go_regulation(instances)
+    """# swap positive & negative regulations in go terms
+    processes = swap_go_regulation(instances)
 
     # save the swapped instance as negatives
-    #save_processed_totxt(processes,swapped_negative_path)
+    save_processed_totxt(processes,swapped_negative_path)
 
     # replace go term with child term
     processes = replace_with_go_child(instances)
 
-    # save go replaced instance as negatives
-    save_processed_totxt(processes,go_replaced_negative_path)
+    # save go replaced instances as negatives
+    save_processed_totxt(processes,go_replaced_negative_path)"""
+
+    # replace evidence code according to decision tree
+    processes = replace_exp_evidence_code(instances)
+
+    # save evidence code replaced instances as negatives
+    save_processed_totxt(processes,ec_replaced_negative_path)
