@@ -1,0 +1,6 @@
+T1	ontology_term 97 100	MKK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004708	
+T2	ontology_term 131 134	JNK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004705	
+T3	ontology_term 139 143	MAPK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	

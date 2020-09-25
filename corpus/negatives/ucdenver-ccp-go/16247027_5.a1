@@ -1,0 +1,8 @@
+T1	ontology_term 6 28	chromosome segregation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007059	
+T2	ontology_term 53 72	microtubule bundles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097427	
+T3	ontology_term 53 72	microtubule bundles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0001578	
+T4	ontology_term 102 113	chromosomes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005694	

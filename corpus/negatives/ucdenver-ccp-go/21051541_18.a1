@@ -1,0 +1,6 @@
+T1	ontology_term 52 65	ubiquitinated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031386	
+T2	ontology_term 130 137	regions
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	
+T3	ontology_term 202 211	ubiquitin
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031386	

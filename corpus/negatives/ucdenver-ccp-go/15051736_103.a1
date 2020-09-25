@@ -1,0 +1,4 @@
+T1	ontology_term 19 32	axonal branch
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048668	
+T2	ontology_term 52 60	synapses
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045202	

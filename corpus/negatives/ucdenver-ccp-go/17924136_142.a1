@@ -1,0 +1,6 @@
+T1	ontology_term 46 49	TEM
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097197	
+T2	ontology_term 65 78	plasmodesmata
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009506	
+T3	ontology_term 104 114	symplastic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0055044	

@@ -1,0 +1,6 @@
+T1	ontology_term 66 84	plastid chromosome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009508	
+T2	ontology_term 107 114	plastid
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009536	
+T3	ontology_term 115 130	gene expression
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010467	

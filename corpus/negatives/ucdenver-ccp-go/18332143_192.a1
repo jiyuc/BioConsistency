@@ -1,0 +1,4 @@
+T1	ontology_term 51 68	protein complexes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032991	
+T2	ontology_term 78 89	ATP binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005524	

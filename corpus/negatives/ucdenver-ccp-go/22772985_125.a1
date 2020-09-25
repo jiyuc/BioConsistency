@@ -1,0 +1,4 @@
+T1	ontology_term 103 114	demethylate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070988	
+T2	ontology_term 196 209	demethylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070988	

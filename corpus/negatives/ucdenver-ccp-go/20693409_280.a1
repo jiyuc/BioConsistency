@@ -1,0 +1,6 @@
+T1	ontology_term 6 23	mitogen-activated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045840	
+T2	ontology_term 39 57	signaling cascades
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007165	
+T3	ontology_term 39 57	signaling cascades
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007165	

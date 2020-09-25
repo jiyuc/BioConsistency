@@ -1,0 +1,6 @@
+T1	ontology_term 64 68	MKK6
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004708	
+T2	ontology_term 147 163	T-cell apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070231	
+T3	ontology_term 147 163	T-cell apoptosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0070231	

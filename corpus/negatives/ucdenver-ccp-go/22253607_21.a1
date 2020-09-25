@@ -1,0 +1,16 @@
+T1	ontology_term 21 35	phosphorylates
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 65 78	juxtamembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009897	
+T3	ontology_term 65 78	juxtamembrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009898	
+T4	ontology_term 65 78	juxtamembrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005886	
+T5	ontology_term 65 78	juxtamembrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019897	
+T6	ontology_term 101 108	regions
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0003002	
+T7	ontology_term 237 246	Signaling
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0023052	
+T8	ontology_term 237 246	Signaling
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0023052	

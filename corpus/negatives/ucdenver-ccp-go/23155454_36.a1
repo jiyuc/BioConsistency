@@ -1,0 +1,16 @@
+T1	ontology_term 21 31	organelles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043226	
+T2	ontology_term 40 48	vacuoles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005773	
+T3	ontology_term 50 59	ER bodies
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010168	
+T4	ontology_term 61 66	Golgi
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005794	
+T5	ontology_term 75 87	mitochondria
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005739	
+T6	ontology_term 89 100	peroxisomes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005777	
+T7	ontology_term 89 100	peroxisomes
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005777	
+T8	ontology_term 114 122	plastids
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0009536	

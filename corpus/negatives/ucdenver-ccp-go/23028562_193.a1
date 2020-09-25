@@ -1,0 +1,8 @@
+T1	ontology_term 109 122	cell-membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 220 226	signal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 220 226	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 237 250	extracellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005576	

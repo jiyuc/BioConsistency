@@ -1,0 +1,12 @@
+T1	ontology_term 14 29	phosphorylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 41 49	regulate
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 65 86	transcription factors
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000981	
+T4	ontology_term 122 133	DNA-binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003677	
+T5	ontology_term 144 161	protein stability
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0050821	
+T6	ontology_term 178 190	localization
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051179	

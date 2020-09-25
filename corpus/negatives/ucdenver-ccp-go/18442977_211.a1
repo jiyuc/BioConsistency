@@ -1,0 +1,6 @@
+T1	ontology_term 56 65	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 56 65	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 199 240	mitogen-activated protein kinase cascades
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000165	

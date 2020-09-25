@@ -1,0 +1,4 @@
+T1	ontology_term 72 77	TORC1
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031931	
+T2	ontology_term 114 125	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

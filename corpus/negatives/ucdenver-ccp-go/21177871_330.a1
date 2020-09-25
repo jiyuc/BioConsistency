@@ -1,0 +1,10 @@
+T1	ontology_term 16 19	PKA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004691	
+T2	ontology_term 16 19	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005952	
+T3	ontology_term 20 34	phosphorylates
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 62 79	phosphodiesterase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008081	
+T5	ontology_term 106 109	PDE
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004114	

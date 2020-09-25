@@ -1,0 +1,12 @@
+T1	ontology_term 13 19	CaMKII
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004683	
+T2	ontology_term 13 19	CaMKII
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005954	
+T3	ontology_term 39 47	regulate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 52 71	MAP kinase activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	
+T5	ontology_term 76 89	NMDA receptor
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004972	
+T6	ontology_term 109 122	AMPA receptor
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0032281	

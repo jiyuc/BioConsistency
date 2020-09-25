@@ -1,0 +1,4 @@
+T1	ontology_term 3 11	zygotene
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000238	
+T2	ontology_term 16 25	pachytene
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000239	

@@ -1,0 +1,10 @@
+T1	ontology_term 54 61	meiosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140013	
+T2	ontology_term 54 61	meiosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051321	
+T3	ontology_term 71 84	sliding clamp
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043626	
+T4	ontology_term 71 84	sliding clamp
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0030337	
+T5	ontology_term 110 121	chromosomes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005694	

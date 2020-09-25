@@ -1,0 +1,8 @@
+T1	ontology_term 29 47	meiotic chromosome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000794	
+T2	ontology_term 48 56	synapsis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007129	
+T3	ontology_term 58 67	localizes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051179	
+T4	ontology_term 87 96	chromatin
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000785	

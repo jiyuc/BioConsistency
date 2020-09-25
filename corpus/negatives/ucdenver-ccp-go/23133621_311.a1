@@ -1,0 +1,8 @@
+T1	ontology_term 22 34	immunophilin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003755	
+T2	ontology_term 69 80	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	
+T3	ontology_term 108 111	NAC
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005854	
+T4	ontology_term 117 137	transcription factor
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000981	

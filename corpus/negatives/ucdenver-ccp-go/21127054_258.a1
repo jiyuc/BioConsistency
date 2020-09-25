@@ -1,0 +1,14 @@
+T1	ontology_term 31 35	PI3K
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016303	
+T2	ontology_term 142 150	vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031982	
+T3	ontology_term 158 166	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	
+T4	ontology_term 206 211	PI3Ks
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016303	
+T5	ontology_term 244 261	insulin secretion
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0030073	
+T6	ontology_term 385 403	signaling pathways
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0007165	
+T7	ontology_term 385 403	signaling pathways
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0007165	

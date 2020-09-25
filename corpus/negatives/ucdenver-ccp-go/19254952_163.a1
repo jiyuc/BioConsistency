@@ -1,0 +1,8 @@
+T1	ontology_term 11 18	PKCzeta
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 19 23	RNAi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016246	
+T3	ontology_term 41 56	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 60 63	ERK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	

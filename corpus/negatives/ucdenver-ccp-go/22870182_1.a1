@@ -1,0 +1,6 @@
+T1	ontology_term 8 15	Plastid
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009536	
+T2	ontology_term 36 41	LHCII
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009517	
+T3	ontology_term 60 69	Thylakoid
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009579	

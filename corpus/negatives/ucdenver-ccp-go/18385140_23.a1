@@ -1,0 +1,4 @@
+T1	ontology_term 11 31	catalytically active
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003824	
+T2	ontology_term 32 43	phosphatase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016791	

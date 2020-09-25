@@ -1,0 +1,4 @@
+T1	ontology_term 181 196	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 228 241	intracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	

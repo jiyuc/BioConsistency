@@ -1,0 +1,4 @@
+T1	ontology_term 0 18	Pollen germination
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009846	
+T2	ontology_term 28 34	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	

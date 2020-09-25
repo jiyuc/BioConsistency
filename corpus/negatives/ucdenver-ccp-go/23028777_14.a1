@@ -1,0 +1,16 @@
+T1	ontology_term 27 36	nucleolus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005730	
+T2	ontology_term 37 47	sequesters
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051235	
+T3	ontology_term 85 104	centromere assembly
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0034508	
+T4	ontology_term 109 119	regulation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0065007	
+T5	ontology_term 160 170	cell cycle
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007049	
+T6	ontology_term 247 257	centromere
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000775	
+T7	ontology_term 304 314	centromere
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0000775	
+T8	ontology_term 323 334	kinetochore
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0000776	

@@ -1,0 +1,12 @@
+T1	ontology_term 30 39	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 30 39	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 54 65	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	
+T4	ontology_term 89 112	cell-fate specification
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0001708	
+T5	ontology_term 142 148	growth
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0040007	
+T6	ontology_term 167 174	Activin
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005160	

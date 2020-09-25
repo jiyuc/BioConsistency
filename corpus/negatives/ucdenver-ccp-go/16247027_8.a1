@@ -1,0 +1,6 @@
+T1	ontology_term 4 11	midbody
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030496	
+T2	ontology_term 34 43	localized
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 44 59	membrane fusion
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0061025	

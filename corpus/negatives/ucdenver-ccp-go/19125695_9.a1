@@ -1,0 +1,10 @@
+T1	ontology_term 60 69	regulated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 127 136	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 175 183	regulate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 205 217	localization
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051179	
+T5	ontology_term 229 237	membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016020	

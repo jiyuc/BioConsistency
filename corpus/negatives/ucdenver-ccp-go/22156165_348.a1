@@ -1,0 +1,4 @@
+T1	ontology_term 51 65	RNA processing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006396	
+T2	ontology_term 91 103	chloroplasts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	

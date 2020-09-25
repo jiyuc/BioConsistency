@@ -1,0 +1,4 @@
+T1	ontology_term 20 35	H2O2 scavengers
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042744	
+T2	ontology_term 117 132	gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	

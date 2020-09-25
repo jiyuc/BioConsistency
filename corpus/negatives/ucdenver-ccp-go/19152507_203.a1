@@ -1,0 +1,4 @@
+T1	ontology_term 14 56	glucose-6-phosphate dehydrogenase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004345	
+T2	ontology_term 61 72	cell growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016049	

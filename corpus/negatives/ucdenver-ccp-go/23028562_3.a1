@@ -1,0 +1,4 @@
+T1	ontology_term 36 49	transmembrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044214	
+T2	ontology_term 36 49	transmembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016021	

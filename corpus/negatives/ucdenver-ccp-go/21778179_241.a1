@@ -1,0 +1,4 @@
+T1	ontology_term 15 28	outer envelop
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005640	
+T2	ontology_term 32 39	nucleus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005634	

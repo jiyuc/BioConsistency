@@ -1,0 +1,8 @@
+T1	ontology_term 0 8	Vacuoles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005773	
+T2	ontology_term 22 31	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	
+T3	ontology_term 40 55	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	
+T4	ontology_term 60 75	vacuolar lumens
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005775	

@@ -1,0 +1,10 @@
+T1	ontology_term 94 110	seed germination
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009845	
+T2	ontology_term 185 194	flowering
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010228	
+T3	ontology_term 214 223	fertility
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009566	
+T4	ontology_term 235 250	leaf senescence
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0010150	
+T5	ontology_term 266 278	de-etiolated
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009704	

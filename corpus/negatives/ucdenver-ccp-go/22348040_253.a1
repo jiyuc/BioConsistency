@@ -1,0 +1,10 @@
+T1	ontology_term 9 12	CAT
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004096	
+T2	ontology_term 17 20	CCS
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0052727	
+T3	ontology_term 17 20	CCS
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0052728	
+T4	ontology_term 56 59	SOD
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004784	
+T5	ontology_term 72 75	CAT
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004096	

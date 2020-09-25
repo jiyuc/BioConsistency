@@ -1,0 +1,4 @@
+T1	ontology_term 58 67	localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 75 91	contractile ring
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070938	

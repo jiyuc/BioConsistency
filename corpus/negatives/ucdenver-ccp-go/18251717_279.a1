@@ -1,0 +1,4 @@
+T1	ontology_term 47 75	mitochondrial inner membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005743	
+T2	ontology_term 116 128	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	

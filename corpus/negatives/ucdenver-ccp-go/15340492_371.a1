@@ -1,0 +1,4 @@
+T1	ontology_term 101 105	RNAi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 146 150	RNAi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016246	

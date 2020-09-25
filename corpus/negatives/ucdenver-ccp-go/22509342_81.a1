@@ -1,0 +1,4 @@
+T1	ontology_term 73 79	memory
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007613	
+T2	ontology_term 282 286	pore
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046930	

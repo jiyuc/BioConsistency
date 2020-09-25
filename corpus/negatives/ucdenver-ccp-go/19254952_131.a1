@@ -1,0 +1,8 @@
+T1	ontology_term 12 26	PKC  activator
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1990051	
+T2	ontology_term 12 26	PKC  activator
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004697	
+T3	ontology_term 68 71	ERK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	
+T4	ontology_term 121 124	PKC
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004697	

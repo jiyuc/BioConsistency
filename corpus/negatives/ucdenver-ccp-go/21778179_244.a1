@@ -1,0 +1,4 @@
+T1	ontology_term 35 52	cytokinin binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044373	
+T2	ontology_term 76 85	membranes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	

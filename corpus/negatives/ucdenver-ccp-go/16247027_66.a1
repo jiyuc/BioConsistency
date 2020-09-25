@@ -1,0 +1,4 @@
+T1	ontology_term 15 30	PH domain binds
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042731	
+T2	ontology_term 113 128	plasma membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005886	

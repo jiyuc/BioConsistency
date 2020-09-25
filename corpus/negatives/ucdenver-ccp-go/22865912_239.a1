@@ -1,0 +1,4 @@
+T1	ontology_term 53 67	ABA signalling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009738	
+T2	ontology_term 231 242	protoplasts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	

@@ -1,0 +1,4 @@
+T1	ontology_term 74 83	plastidal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009536	
+T2	ontology_term 292 306	photosynthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015979	

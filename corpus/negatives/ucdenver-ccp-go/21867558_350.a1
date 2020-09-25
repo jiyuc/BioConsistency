@@ -1,0 +1,8 @@
+T1	ontology_term 9 20	chromosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005694	
+T2	ontology_term 29 36	kinesin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003777	
+T3	ontology_term 64 84	spindle organization
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007051	
+T4	ontology_term 89 111	chromosome positioning
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051303	

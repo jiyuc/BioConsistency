@@ -1,0 +1,6 @@
+T1	ontology_term 42 51	secretion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046903	
+T2	ontology_term 56 78	cellular morphogenesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000902	
+T3	ontology_term 82 92	developing
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	

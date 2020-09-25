@@ -1,0 +1,6 @@
+T1	ontology_term 17 27	regulators
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 37 46	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 89 102	transcription
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006351	

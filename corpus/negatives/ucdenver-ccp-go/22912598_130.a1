@@ -1,0 +1,8 @@
+T1	ontology_term 28 37	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 28 37	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 149 169	developmental timing
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040034	
+T4	ontology_term 174 187	metamorphosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007552	

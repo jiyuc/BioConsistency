@@ -1,0 +1,4 @@
+T1	ontology_term 120 124	MT-1
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0047152	
+T2	ontology_term 125 136	transcripts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

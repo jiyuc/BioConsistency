@@ -1,0 +1,10 @@
+T1	ontology_term 32 40	endosome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005768	
+T2	ontology_term 52 58	ligand
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 68 79	endocytosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006897	
+T4	ontology_term 87 90	EGF
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005154	
+T5	ontology_term 101 105	EGFR
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005006	

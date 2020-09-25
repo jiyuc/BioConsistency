@@ -1,0 +1,4 @@
+T1	ontology_term 127 142	gene expression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 262 273	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

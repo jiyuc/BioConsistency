@@ -1,0 +1,6 @@
+T1	ontology_term 18 29	phosphatase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 63 74	degradation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009056	
+T3	ontology_term 87 108	centriole duplication
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007099	

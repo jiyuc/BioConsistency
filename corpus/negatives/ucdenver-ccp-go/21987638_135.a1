@@ -1,0 +1,6 @@
+T1	ontology_term 45 55	interphase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051325	
+T2	ontology_term 81 88	mitosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0140014	
+T3	ontology_term 81 88	mitosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000278	

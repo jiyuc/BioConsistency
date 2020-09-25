@@ -1,0 +1,14 @@
+T1	ontology_term 4 7	SRP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005786	
+T2	ontology_term 8 16	ribosome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005840	
+T3	ontology_term 44 49	binds
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 57 60	SRP
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005786	
+T5	ontology_term 81 92	ER membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005789	
+T6	ontology_term 99 102	SRP
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005786	
+T7	ontology_term 116 133	protein synthesis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0006412	

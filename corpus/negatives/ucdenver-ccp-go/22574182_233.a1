@@ -1,0 +1,4 @@
+T1	ontology_term 9 21	heme binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0020037	
+T2	ontology_term 47 62	cytochrome P450
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019825	

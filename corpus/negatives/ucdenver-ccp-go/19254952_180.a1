@@ -1,0 +1,16 @@
+T1	ontology_term 22 38	RNA interference
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 107 110	ERK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	
+T3	ontology_term 131 135	EGFR
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005006	
+T4	ontology_term 136 151	kinase activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016301	
+T5	ontology_term 136 151	kinase activity
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0033674	
+T6	ontology_term 170 174	EGFR
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005006	
+T7	ontology_term 175 190	transactivation
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_2000144	
+T8	ontology_term 252 255	ERK
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0004707	

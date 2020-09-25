@@ -1,0 +1,4 @@
+T1	ontology_term 48 57	behaviour
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007610	
+T2	ontology_term 81 85	FPSs
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0047221	

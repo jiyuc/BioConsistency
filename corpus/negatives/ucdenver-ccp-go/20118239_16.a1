@@ -1,0 +1,4 @@
+T1	ontology_term 23 45	mannose-binding lectin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005537	
+T2	ontology_term 72 76	bind
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	

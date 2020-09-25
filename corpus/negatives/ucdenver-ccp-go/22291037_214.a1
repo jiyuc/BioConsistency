@@ -1,0 +1,4 @@
+T1	ontology_term 17 32	Golgi-localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051645	
+T2	ontology_term 52 60	exchange
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015297	

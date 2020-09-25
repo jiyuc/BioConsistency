@@ -1,0 +1,6 @@
+T1	ontology_term 161 171	cell death
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008219	
+T2	ontology_term 255 265	cell death
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008219	
+T3	ontology_term 278 303	innate immunity responses
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0045087	

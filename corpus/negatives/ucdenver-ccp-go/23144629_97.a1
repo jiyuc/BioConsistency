@@ -1,0 +1,8 @@
+T1	ontology_term 6 18	Localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 86 95	leptotene
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000237	
+T3	ontology_term 107 115	zygotene
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000238	
+T4	ontology_term 130 139	pachytene
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000239	

@@ -1,0 +1,6 @@
+T1	ontology_term 74 94	transcription factor
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 111 120	regulated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 238 265	lysoplasmalogenase activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0047408	

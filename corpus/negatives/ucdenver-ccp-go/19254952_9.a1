@@ -1,0 +1,6 @@
+T1	ontology_term 33 36	ERK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 56 71	transactivation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_2000144	
+T3	ontology_term 79 103	epidermal growth  factor
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005154	

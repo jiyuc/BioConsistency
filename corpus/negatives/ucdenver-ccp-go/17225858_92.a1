@@ -1,0 +1,8 @@
+T1	ontology_term 30 36	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 40 52	pollen tubes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0090406	
+T3	ontology_term 183 201	pollen germination
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009846	
+T4	ontology_term 206 224	pollen tube growth
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009860	

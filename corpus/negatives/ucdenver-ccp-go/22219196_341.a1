@@ -1,0 +1,4 @@
+T1	ontology_term 56 60	core
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019013	
+T2	ontology_term 107 119	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	

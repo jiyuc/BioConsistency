@@ -1,0 +1,10 @@
+T1	ontology_term 16 25	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 38 41	SCS
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004776	
+T3	ontology_term 73 82	synthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	
+T4	ontology_term 99 119	mitochondrial matrix
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005759	
+T5	ontology_term 161 170	TCA cycle
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006099	

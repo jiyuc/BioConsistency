@@ -1,0 +1,6 @@
+T1	ontology_term 59 68	cytosolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005829	
+T2	ontology_term 69 76	regions
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	
+T3	ontology_term 176 180	core
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0019013	

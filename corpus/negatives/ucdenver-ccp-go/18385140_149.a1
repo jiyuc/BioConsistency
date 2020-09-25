@@ -1,0 +1,4 @@
+T1	ontology_term 4 28	electron transport chain
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0022900	
+T2	ontology_term 29 38	Complex I
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030964	

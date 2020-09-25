@@ -1,0 +1,8 @@
+T1	ontology_term 22 36	salt tolerance
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042538	
+T2	ontology_term 89 100	proton-pump
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005889	
+T3	ontology_term 112 120	antiport
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0015297	
+T4	ontology_term 128 137	tonoplast
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009705	

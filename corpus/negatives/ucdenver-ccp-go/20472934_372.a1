@@ -1,0 +1,16 @@
+T1	ontology_term 57 65	antibody
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 57 65	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 57 65	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 57 65	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 121 136	phosphorylation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016310	
+T6	ontology_term 141 151	regulation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0065007	
+T7	ontology_term 167 181	PKC activation
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_1990051	
+T8	ontology_term 167 181	PKC activation
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0004697	

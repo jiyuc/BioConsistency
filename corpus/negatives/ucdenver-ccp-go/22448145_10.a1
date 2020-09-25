@@ -1,0 +1,16 @@
+T1	ontology_term 36 53	respiratory chain
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070469	
+T2	ontology_term 103 108	mtDNA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000262	
+T3	ontology_term 157 165	regulate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 197 205	regulate
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0065007	
+T5	ontology_term 231 239	cellular
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007349	
+T6	ontology_term 287 292	mtDNA
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000262	
+T7	ontology_term 293 306	transcription
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0006351	
+T8	ontology_term 311 322	translation
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0006412	

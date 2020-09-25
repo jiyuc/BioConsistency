@@ -1,0 +1,6 @@
+T1	ontology_term 157 167	developing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032502	
+T2	ontology_term 168 180	reproductive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000003	
+T3	ontology_term 311 319	regulate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

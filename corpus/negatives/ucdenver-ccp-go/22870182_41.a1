@@ -1,0 +1,4 @@
+T1	ontology_term 37 46	Transport
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006810	
+T2	ontology_term 51 66	Photoprotection
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010117	

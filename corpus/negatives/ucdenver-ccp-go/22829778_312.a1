@@ -1,0 +1,4 @@
+T1	ontology_term 34 55	50S Ribosomal Subunit
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0022625	
+T2	ontology_term 113 121	Ribosome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005840	

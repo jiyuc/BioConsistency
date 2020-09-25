@@ -1,0 +1,4 @@
+T1	ontology_term 17 28	Ski complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0055087	
+T2	ontology_term 64 85	embryonic development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009790	

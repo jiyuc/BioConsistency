@@ -1,0 +1,8 @@
+T1	ontology_term 0 17	Kinase activities
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016301	
+T2	ontology_term 0 17	Kinase activities
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033674	
+T3	ontology_term 53 68	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 102 110	cellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007349	

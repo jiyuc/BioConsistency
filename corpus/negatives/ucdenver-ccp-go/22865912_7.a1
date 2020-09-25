@@ -1,0 +1,10 @@
+T1	ontology_term 115 132	mitogen-activated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045840	
+T2	ontology_term 149 153	MAPK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	
+T3	ontology_term 187 197	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 288 291	SOD
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004784	
+T5	ontology_term 304 307	CAT
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004096	

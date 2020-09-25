@@ -1,0 +1,6 @@
+T1	ontology_term 41 55	late endosomes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005770	
+T2	ontology_term 60 69	lysosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005764	
+T3	ontology_term 138 148	organelles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043226	

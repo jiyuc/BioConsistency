@@ -1,0 +1,6 @@
+T1	ontology_term 8 21	immunophilins
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003755	
+T2	ontology_term 27 42	PPIase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003755	
+T3	ontology_term 86 90	bind
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	

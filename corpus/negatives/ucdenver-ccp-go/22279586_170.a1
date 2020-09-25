@@ -1,0 +1,8 @@
+T1	ontology_term 32 40	exchange
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015297	
+T2	ontology_term 64 73	tonoplast
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009705	
+T3	ontology_term 78 93	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	
+T4	ontology_term 94 102	vesicles
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0031982	

@@ -1,0 +1,4 @@
+T1	ontology_term 54 58	PI3K
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016303	
+T2	ontology_term 117 127	exocytosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006887	

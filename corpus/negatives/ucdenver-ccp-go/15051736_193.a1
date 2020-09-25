@@ -1,0 +1,10 @@
+T1	ontology_term 22 28	flight
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060361	
+T2	ontology_term 46 57	innervation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0060384	
+T3	ontology_term 111 119	synapses
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0045202	
+T4	ontology_term 194 205	innervation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0060384	
+T5	ontology_term 244 252	synapses
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0045202	

@@ -1,0 +1,4 @@
+T1	ontology_term 71 87	hypersensitivity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0002524	
+T2	ontology_term 152 161	sensitive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

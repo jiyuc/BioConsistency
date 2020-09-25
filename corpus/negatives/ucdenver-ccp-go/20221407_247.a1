@@ -1,0 +1,4 @@
+T1	ontology_term 53 64	transporter
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006810	
+T2	ontology_term 106 118	transporters
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	

@@ -1,0 +1,4 @@
+T1	ontology_term 139 154	starch granules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043036	
+T2	ontology_term 218 225	storage
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051235	

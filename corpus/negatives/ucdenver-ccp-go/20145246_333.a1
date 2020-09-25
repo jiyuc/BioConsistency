@@ -1,0 +1,4 @@
+T1	ontology_term 67 93	aspartyl-protease activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004190	
+T2	ontology_term 132 136	core
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019013	

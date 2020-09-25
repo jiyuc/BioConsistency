@@ -1,0 +1,4 @@
+T1	ontology_term 30 48	ER stress response
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0034976	
+T2	ontology_term 72 95	upregulation of Binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051099	

@@ -1,0 +1,14 @@
+T1	ontology_term 76 89	meiotic entry
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051728	
+T2	ontology_term 120 128	prophase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051324	
+T3	ontology_term 236 249	meiotic entry
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051728	
+T4	ontology_term 273 282	leptotene
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000237	
+T5	ontology_term 283 291	zygotene
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000238	
+T6	ontology_term 369 376	meiosis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0140013	
+T7	ontology_term 369 376	meiosis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0051321	

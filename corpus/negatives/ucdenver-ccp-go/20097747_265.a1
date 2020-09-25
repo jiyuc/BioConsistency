@@ -1,0 +1,6 @@
+T1	ontology_term 19 39	chromatin remodeling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006338	
+T2	ontology_term 19 39	chromatin remodeling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006338	
+T3	ontology_term 78 98	transcription factor
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000981	

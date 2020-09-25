@@ -1,0 +1,12 @@
+T1	ontology_term 0 19	Ryanodine receptors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005219	
+T2	ontology_term 21 24	RyR
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1990425	
+T3	ontology_term 76 89	intracellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005622	
+T4	ontology_term 121 134	intracellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005622	
+T5	ontology_term 135 142	signals
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 135 142	signals
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	

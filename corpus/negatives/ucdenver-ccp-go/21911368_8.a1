@@ -1,0 +1,8 @@
+T1	ontology_term 0 10	DNA repair
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006281	
+T2	ontology_term 90 102	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 107 115	plastids
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009536	
+T4	ontology_term 140 150	organelles
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0043226	

@@ -1,0 +1,6 @@
+T1	ontology_term 109 118	behaviors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007610	
+T2	ontology_term 136 154	olfactory learning
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008355	
+T3	ontology_term 159 165	memory
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007613	

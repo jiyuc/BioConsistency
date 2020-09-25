@@ -1,0 +1,10 @@
+T1	ontology_term 11 20	lysosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005764	
+T2	ontology_term 38 47	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	
+T3	ontology_term 61 70	apoptosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0097194	
+T4	ontology_term 61 70	apoptosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006915	
+T5	ontology_term 164 203	mitochondrial membrane permeabilization
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0035794	

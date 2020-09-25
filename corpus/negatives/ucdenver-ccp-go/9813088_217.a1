@@ -1,0 +1,10 @@
+T1	ontology_term 60 66	fusome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045169	
+T2	ontology_term 97 106	membranes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 111 119	spectrin
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008091	
+T4	ontology_term 158 170	microtubules
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005874	
+T5	ontology_term 184 209	mitochondrial derivatives
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016007	

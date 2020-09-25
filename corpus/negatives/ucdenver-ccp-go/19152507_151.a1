@@ -1,0 +1,4 @@
+T1	ontology_term 188 197	membranes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 239 255	cytochrome P450s
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019825	

@@ -1,0 +1,8 @@
+T1	ontology_term 94 98	EGFR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005006	
+T2	ontology_term 99 114	transactivation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_2000144	
+T3	ontology_term 152 161	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 152 161	signaling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	

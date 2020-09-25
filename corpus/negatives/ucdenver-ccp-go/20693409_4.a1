@@ -1,0 +1,10 @@
+T1	ontology_term 11 26	gene expression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 30 43	NADPH oxidase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016174	
+T3	ontology_term 30 43	NADPH oxidase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008753	
+T4	ontology_term 83 88	MAPKK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004708	
+T5	ontology_term 107 117	apoplastic
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0048046	

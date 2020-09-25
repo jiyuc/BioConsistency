@@ -1,0 +1,4 @@
+T1	ontology_term 28 37	localizes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 76 91	central spindle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051233	

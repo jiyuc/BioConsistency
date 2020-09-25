@@ -1,0 +1,4 @@
+T1	ontology_term 16 20	tRNA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030533	
+T2	ontology_term 80 86	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	

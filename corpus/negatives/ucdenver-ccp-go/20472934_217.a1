@@ -1,0 +1,26 @@
+T1	ontology_term 6 17	phosphatase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 47 52	lysis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019835	
+T3	ontology_term 119 127	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003823	
+T4	ontology_term 119 127	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0042571	
+T5	ontology_term 119 127	antibody
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019814	
+T6	ontology_term 119 127	antibody
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0019815	
+T7	ontology_term 164 172	antibody
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0003823	
+T8	ontology_term 164 172	antibody
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0042571	
+T9	ontology_term 164 172	antibody
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0019814	
+T10	ontology_term 164 172	antibody
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0019815	
+T11	ontology_term 190 204	phosphorylated
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0016310	
+T12	ontology_term 218 221	GDI
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0005092	
+T13	ontology_term 257 272	phosphorylation
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0016310	

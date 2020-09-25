@@ -1,0 +1,14 @@
+T1	ontology_term 146 152	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 156 168	pollen tubes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0090406	
+T3	ontology_term 421 432	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	
+T4	ontology_term 503 510	storage
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051235	
+T5	ontology_term 564 575	development
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0032502	
+T6	ontology_term 587 605	pollen tube growth
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009860	
+T7	ontology_term 708 726	pollen tube growth
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0009860	

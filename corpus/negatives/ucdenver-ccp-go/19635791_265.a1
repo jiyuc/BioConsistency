@@ -1,0 +1,8 @@
+T1	ontology_term 49 58	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 73 85	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 127 139	mitochondria
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005739	
+T4	ontology_term 196 208	mitochondria
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005739	

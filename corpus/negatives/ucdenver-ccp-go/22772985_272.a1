@@ -1,0 +1,6 @@
+T1	ontology_term 48 59	methylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032259	
+T2	ontology_term 63 78	heterochromatin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000792	
+T3	ontology_term 83 94	euchromatin
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000791	

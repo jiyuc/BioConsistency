@@ -1,0 +1,8 @@
+T1	ontology_term 5 14	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 24 37	translational
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006412	
+T3	ontology_term 51 74	transcriptional control
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006355	
+T4	ontology_term 144 154	regulation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0065007	

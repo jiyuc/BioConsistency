@@ -1,0 +1,8 @@
+T1	ontology_term 11 15	SAPK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 16 19	JNK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004705	
+T3	ontology_term 27 36	localized
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051179	
+T4	ontology_term 40 52	mitochondria
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005739	

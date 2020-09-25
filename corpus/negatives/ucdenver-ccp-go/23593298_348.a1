@@ -1,0 +1,4 @@
+T1	ontology_term 0 11	Proteasomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000502	
+T2	ontology_term 38 58	transcription factor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000981	

@@ -1,0 +1,8 @@
+T1	ontology_term 61 72	sensitivity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046960	
+T2	ontology_term 76 88	inflammation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006954	
+T3	ontology_term 140 143	age
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007568	
+T4	ontology_term 140 143	age
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007568	

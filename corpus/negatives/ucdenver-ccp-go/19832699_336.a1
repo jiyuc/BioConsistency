@@ -1,0 +1,6 @@
+T1	ontology_term 4 41	mitochondrial permeability transition
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0035794	
+T2	ontology_term 42 46	pore
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046930	
+T3	ontology_term 63 73	cell death
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008219	

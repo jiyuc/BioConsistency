@@ -1,0 +1,4 @@
+T1	ontology_term 14 43	histone deacetylase complexes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000118	
+T2	ontology_term 47 58	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

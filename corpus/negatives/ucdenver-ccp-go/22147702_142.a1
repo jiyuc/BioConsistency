@@ -1,0 +1,10 @@
+T1	ontology_term 28 36	cellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007349	
+T2	ontology_term 37 58	retinaldehyde-binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016918	
+T3	ontology_term 99 108	cytosolic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005829	
+T4	ontology_term 109 122	lipid-binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008289	
+T5	ontology_term 183 195	localization
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051179	

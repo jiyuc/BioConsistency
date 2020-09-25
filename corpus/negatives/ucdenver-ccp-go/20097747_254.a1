@@ -1,0 +1,4 @@
+T1	ontology_term 296 311	gene expression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 316 325	secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046903	

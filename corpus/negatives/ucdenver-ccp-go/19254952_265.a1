@@ -1,0 +1,12 @@
+T1	ontology_term 24 27	ERK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 28 37	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 28 37	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 38 47	regulates
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0065007	
+T5	ontology_term 53 64	translation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006412	
+T6	ontology_term 69 87	protein  synthesis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0006412	

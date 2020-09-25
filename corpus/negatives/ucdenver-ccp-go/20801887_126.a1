@@ -1,0 +1,4 @@
+T1	ontology_term 23 31	vesicles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031982	
+T2	ontology_term 79 87	vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031982	

@@ -1,0 +1,4 @@
+T1	ontology_term 39 42	CBP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008140	
+T2	ontology_term 89 92	CBP
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008140	

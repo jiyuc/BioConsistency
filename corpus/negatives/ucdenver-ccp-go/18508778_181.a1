@@ -1,0 +1,10 @@
+T1	ontology_term 63 67	SNAP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005483	
+T2	ontology_term 94 99	SNARE
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005484	
+T3	ontology_term 100 107	vesicle
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031982	
+T4	ontology_term 179 183	SNAP
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005483	
+T5	ontology_term 227 231	SNAP
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005483	

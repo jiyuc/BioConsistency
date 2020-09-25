@@ -1,0 +1,4 @@
+T1	ontology_term 15 23	spindles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005819	
+T2	ontology_term 74 80	asters
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005818	

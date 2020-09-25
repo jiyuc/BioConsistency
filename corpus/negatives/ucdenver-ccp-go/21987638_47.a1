@@ -1,0 +1,12 @@
+T1	ontology_term 32 36	RNAi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 49 53	RNAi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016246	
+T3	ontology_term 105 121	mitotic spindles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0072686	
+T4	ontology_term 130 141	centrosomes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005813	
+T5	ontology_term 194 198	RNAi
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016246	
+T6	ontology_term 218 228	cell death
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0008219	

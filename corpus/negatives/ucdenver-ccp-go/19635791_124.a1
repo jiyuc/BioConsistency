@@ -1,0 +1,4 @@
+T1	ontology_term 17 31	PEPCK activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004611	
+T2	ontology_term 141 161	transporter activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005215	

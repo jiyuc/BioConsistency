@@ -1,0 +1,16 @@
+T1	ontology_term 4 31	sister chromatids segregate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000819	
+T2	ontology_term 48 55	meiosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0140013	
+T3	ontology_term 48 55	meiosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051321	
+T4	ontology_term 93 98	ovule
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0030728	
+T5	ontology_term 100 107	meiosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0140013	
+T6	ontology_term 100 107	meiosis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051321	
+T7	ontology_term 123 130	mitosis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0140014	
+T8	ontology_term 123 130	mitosis
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0000278	

@@ -1,0 +1,12 @@
+T1	ontology_term 18 33	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 53 59	efflux
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0140352	
+T3	ontology_term 53 59	efflux
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0140115	
+T4	ontology_term 60 71	transporter
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006810	
+T5	ontology_term 101 117	plasma membranes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005886	
+T6	ontology_term 125 145	sucrose transporters
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0015770	

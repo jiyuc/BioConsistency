@@ -1,0 +1,6 @@
+T1	ontology_term 19 26	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 27 37	methylated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032259	
+T3	ontology_term 53 64	translation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006412	

@@ -1,0 +1,10 @@
+T1	ontology_term 21 30	localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 40 59	dense core vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031045	
+T3	ontology_term 84 94	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 151 179	dense core vesicle  membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0032127	
+T5	ontology_term 220 225	pores
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0046930	

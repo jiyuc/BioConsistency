@@ -1,0 +1,8 @@
+T1	ontology_term 23 33	PKCepsilon
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 98 101	PKC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004697	
+T3	ontology_term 123 138	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	
+T4	ontology_term 169 178	cytosolic
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005829	

@@ -1,0 +1,6 @@
+T1	ontology_term 164 172	cellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007349	
+T2	ontology_term 173 180	vesicle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031982	
+T3	ontology_term 208 223	vesicle docking
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0048278	

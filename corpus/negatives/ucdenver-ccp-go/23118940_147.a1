@@ -1,0 +1,6 @@
+T1	ontology_term 25 40	cell elongation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009826	
+T2	ontology_term 65 85	on carbon metabolism
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006730	
+T3	ontology_term 65 85	on carbon metabolism
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006730	

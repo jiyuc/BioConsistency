@@ -1,0 +1,4 @@
+T1	ontology_term 25 39	DNA  synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0071897	
+T2	ontology_term 48 51	ERK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	

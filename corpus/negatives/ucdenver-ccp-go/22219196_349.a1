@@ -1,0 +1,4 @@
+T1	ontology_term 42 63	ATP synthase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046961	
+T2	ontology_term 255 276	ATP synthase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046961	

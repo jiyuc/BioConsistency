@@ -1,0 +1,4 @@
+T1	ontology_term 13 24	cytoplasmic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005737	
+T2	ontology_term 72 77	SNARE
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005484	

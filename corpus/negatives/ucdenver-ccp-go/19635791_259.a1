@@ -1,0 +1,8 @@
+T1	ontology_term 7 27	mitochondrial matrix
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005759	
+T2	ontology_term 76 79	SCS
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004776	
+T3	ontology_term 103 109	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 103 109	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	

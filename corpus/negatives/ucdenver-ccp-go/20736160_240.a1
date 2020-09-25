@@ -1,0 +1,4 @@
+T1	ontology_term 45 59	phosphorylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 197 212	phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	

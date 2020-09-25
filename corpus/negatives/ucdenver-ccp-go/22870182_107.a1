@@ -1,0 +1,8 @@
+T1	ontology_term 57 66	thylakoid
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009579	
+T2	ontology_term 111 120	membranes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 125 131	granum
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009542	
+T4	ontology_term 255 266	thylakoidal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009579	

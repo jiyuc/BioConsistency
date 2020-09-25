@@ -1,0 +1,6 @@
+T1	ontology_term 48 68	histone modification
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016570	
+T2	ontology_term 85 109	heterochromatin assembly
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031507	
+T3	ontology_term 114 129	transcriptional
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006351	

@@ -1,0 +1,6 @@
+T1	ontology_term 194 207	ADP formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006172	
+T2	ontology_term 224 233	breakdown
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009056	
+T3	ontology_term 323 334	phosphatase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016791	

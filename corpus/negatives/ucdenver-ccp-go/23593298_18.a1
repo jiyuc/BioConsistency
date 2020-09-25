@@ -1,0 +1,8 @@
+T1	ontology_term 13 26	intracellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005622	
+T2	ontology_term 31 42	homeostasis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042592	
+T3	ontology_term 46 55	regulated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 61 70	synthesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	

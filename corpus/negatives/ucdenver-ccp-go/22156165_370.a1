@@ -1,0 +1,6 @@
+T1	ontology_term 0 5	Local
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 45 56	Translation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006412	
+T3	ontology_term 76 92	Ribosome-Binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043022	

@@ -1,0 +1,4 @@
+T1	ontology_term 90 122	mitochondrial electron transport
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042775	
+T2	ontology_term 151 163	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	

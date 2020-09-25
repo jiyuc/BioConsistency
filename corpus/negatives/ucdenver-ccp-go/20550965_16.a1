@@ -1,0 +1,16 @@
+T1	ontology_term 49 53	MKKs
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004708	
+T2	ontology_term 96 100	MAPK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	
+T3	ontology_term 101 104	ERK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	
+T4	ontology_term 114 119	MEKKs
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004709	
+T5	ontology_term 152 169	TGFbeta-activated
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0036363	
+T6	ontology_term 288 297	apoptosis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0097194	
+T7	ontology_term 288 297	apoptosis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0006915	
+T8	ontology_term 298 307	sensitive
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0046960	

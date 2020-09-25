@@ -1,0 +1,8 @@
+T1	ontology_term 92 98	ligand
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 104 109	binds
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 181 192	TOR complex
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0038201	
+T4	ontology_term 215 223	lysosome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005764	

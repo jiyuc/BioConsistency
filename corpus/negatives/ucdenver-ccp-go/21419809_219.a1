@@ -1,0 +1,8 @@
+T1	ontology_term 17 29	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 35 50	early endosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005769	
+T3	ontology_term 66 80	late endosomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005770	
+T4	ontology_term 88 93	Golgi
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005794	

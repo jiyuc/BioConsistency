@@ -1,0 +1,12 @@
+T1	ontology_term 120 132	ion channels
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0022831	
+T2	ontology_term 160 173	transmembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0044214	
+T3	ontology_term 160 173	transmembrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016021	
+T4	ontology_term 174 182	segments
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0035282	
+T5	ontology_term 214 225	cytoplasmic
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005737	
+T6	ontology_term 249 253	pore
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0046930	

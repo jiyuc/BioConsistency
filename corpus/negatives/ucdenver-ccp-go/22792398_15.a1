@@ -1,0 +1,12 @@
+T1	ontology_term 45 55	conjugates
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000746	
+T2	ontology_term 60 71	transported
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	
+T3	ontology_term 81 88	vacuole
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005773	
+T4	ontology_term 92 101	tonoplast
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009705	
+T5	ontology_term 102 114	transporters
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006810	
+T6	ontology_term 127 138	degradation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009056	

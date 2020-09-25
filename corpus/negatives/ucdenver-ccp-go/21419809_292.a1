@@ -1,0 +1,6 @@
+T1	ontology_term 97 116	signal transduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007165	
+T2	ontology_term 188 194	memory
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007613	
+T3	ontology_term 195 204	formation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	

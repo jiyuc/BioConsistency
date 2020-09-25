@@ -1,0 +1,6 @@
+T1	ontology_term 14 25	translation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006412	
+T2	ontology_term 38 54	stationary phase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070314	
+T3	ontology_term 38 54	stationary phase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0072690	

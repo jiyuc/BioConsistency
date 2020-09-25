@@ -1,0 +1,14 @@
+T1	ontology_term 8 11	PKC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 29 32	ERK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	
+T3	ontology_term 67 74	binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 120 143	phospholipase C. Active
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007202	
+T5	ontology_term 120 143	phospholipase C. Active
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004629	
+T6	ontology_term 227 240	intracellular
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005622	
+T7	ontology_term 260 263	PKC
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0004697	

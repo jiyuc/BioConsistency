@@ -1,0 +1,6 @@
+T1	ontology_term 69 72	PKA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004691	
+T2	ontology_term 69 72	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005952	
+T3	ontology_term 89 99	sensitizes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046960	

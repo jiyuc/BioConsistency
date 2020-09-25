@@ -1,0 +1,6 @@
+T1	ontology_term 108 123	rRNA processing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006364	
+T2	ontology_term 167 176	nucleolus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005730	
+T3	ontology_term 184 193	cytoplasm
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005737	

@@ -1,0 +1,4 @@
+T1	ontology_term 35 46	amyloplasts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009501	
+T2	ontology_term 99 119	starch phosphorylase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004645	

@@ -1,0 +1,4 @@
+T1	ontology_term 41 44	BX1
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0033984	
+T2	ontology_term 49 52	IGL
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033984	

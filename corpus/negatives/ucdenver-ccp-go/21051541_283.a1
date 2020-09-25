@@ -1,0 +1,8 @@
+T1	ontology_term 141 172	regulation of pre-mRNA splicing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048024	
+T2	ontology_term 177 190	RNA stability
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043489	
+T3	ontology_term 195 204	transport
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006810	
+T4	ontology_term 305 319	RNA metabolism
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016070	

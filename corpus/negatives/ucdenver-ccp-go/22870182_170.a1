@@ -1,0 +1,6 @@
+T1	ontology_term 72 90	thylakoid membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042651	
+T2	ontology_term 161 175	photosystem II
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009523	
+T3	ontology_term 346 354	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	

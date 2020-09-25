@@ -1,0 +1,6 @@
+T1	ontology_term 169 178	cytosolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005829	
+T2	ontology_term 281 293	transporting
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	
+T3	ontology_term 333 340	cytosol
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005829	

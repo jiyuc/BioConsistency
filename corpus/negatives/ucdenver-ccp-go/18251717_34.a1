@@ -1,0 +1,4 @@
+T1	ontology_term 94 97	age
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007568	
+T2	ontology_term 94 97	age
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007568	

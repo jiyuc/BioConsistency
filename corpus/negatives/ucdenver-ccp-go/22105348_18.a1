@@ -1,0 +1,4 @@
+T1	ontology_term 72 92	conventional myosins
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016460	
+T2	ontology_term 125 134	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

@@ -1,0 +1,20 @@
+T1	ontology_term 22 34	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 105 113	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003823	
+T3	ontology_term 105 113	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 105 113	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 105 113	antibody
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019815	
+T6	ontology_term 180 189	localized
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051179	
+T7	ontology_term 197 208	chloroplast
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0009507	
+T8	ontology_term 225 235	thylakoids
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0009579	
+T9	ontology_term 246 251	LHCII
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0009517	
+T10	ontology_term 300 311	development
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0032502	

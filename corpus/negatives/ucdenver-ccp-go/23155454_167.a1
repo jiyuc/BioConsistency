@@ -1,0 +1,4 @@
+T1	ontology_term 61 71	regulation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 192 201	ER bodies
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010168	

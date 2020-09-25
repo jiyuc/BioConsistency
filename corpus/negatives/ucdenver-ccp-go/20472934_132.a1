@@ -1,0 +1,4 @@
+T1	ontology_term 13 16	PKC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 17 31	Phosphorylates
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	

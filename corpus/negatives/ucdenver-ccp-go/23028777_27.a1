@@ -1,0 +1,8 @@
+T1	ontology_term 147 162	ATPase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016887	
+T2	ontology_term 202 222	chromatin remodeling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006338	
+T3	ontology_term 202 222	chromatin remodeling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006338	
+T4	ontology_term 260 277	CENP-A deposition
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0034080	

@@ -1,0 +1,10 @@
+T1	ontology_term 129 149	nuclear pore complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005643	
+T2	ontology_term 151 154	NPC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005643	
+T3	ontology_term 186 192	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	
+T4	ontology_term 349 361	nuclear pore
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005643	
+T5	ontology_term 362 368	anchor
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0043495	

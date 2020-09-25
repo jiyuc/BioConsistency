@@ -1,0 +1,4 @@
+T1	ontology_term 100 118	cell proliferation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008283	
+T2	ontology_term 123 141	tissue development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009888	

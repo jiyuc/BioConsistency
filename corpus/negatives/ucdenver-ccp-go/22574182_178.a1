@@ -1,0 +1,4 @@
+T1	ontology_term 86 98	biosynthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 131 145	growth hormone
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005131	

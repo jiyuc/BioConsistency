@@ -1,0 +1,18 @@
+T1	ontology_term 60 64	mate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000747	
+T2	ontology_term 60 64	mate
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1990277	
+T3	ontology_term 60 64	mate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007618	
+T4	ontology_term 75 83	behavior
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007610	
+T5	ontology_term 85 89	mate
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000747	
+T6	ontology_term 85 89	mate
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_1990277	
+T7	ontology_term 85 89	mate
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0007618	
+T8	ontology_term 90 100	attraction
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0042056	
+T9	ontology_term 160 168	behavior
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0007610	

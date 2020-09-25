@@ -1,0 +1,4 @@
+T1	ontology_term 117 126	autosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030849	
+T2	ontology_term 139 149	behavioral
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007610	

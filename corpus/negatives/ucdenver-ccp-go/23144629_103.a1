@@ -1,0 +1,6 @@
+T1	ontology_term 157 166	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 168 186	chromosome pairing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007129	
+T3	ontology_term 200 209	formation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	

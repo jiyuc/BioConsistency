@@ -1,0 +1,16 @@
+T1	ontology_term 108 117	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 108 117	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 129 133	SAPK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	
+T4	ontology_term 134 137	JNK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004705	
+T5	ontology_term 214 225	phosphatase
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016791	
+T6	ontology_term 241 245	SAPK
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0004707	
+T7	ontology_term 246 249	JNK
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0004705	
+T8	ontology_term 250 267	dephosphorylation
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0016311	

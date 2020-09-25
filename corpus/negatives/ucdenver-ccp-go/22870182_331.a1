@@ -1,0 +1,4 @@
+T1	ontology_term 70 86	inclusion bodies
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016234	
+T2	ontology_term 106 123	protein refolding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042026	

@@ -1,0 +1,6 @@
+T1	ontology_term 36 42	uptake
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0098739	
+T2	ontology_term 36 42	uptake
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098657	
+T3	ontology_term 100 107	carrier
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005215	

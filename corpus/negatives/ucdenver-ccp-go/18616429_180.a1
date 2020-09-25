@@ -1,0 +1,4 @@
+T1	ontology_term 19 31	glycosylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070085	
+T2	ontology_term 80 95	response to ATP
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033198	

@@ -1,0 +1,6 @@
+T1	ontology_term 16 38	actin filament-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051015	
+T2	ontology_term 67 76	localized
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 108 125	adherens junction
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005912	

@@ -1,0 +1,6 @@
+T1	ontology_term 3 17	ABA signalling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009738	
+T2	ontology_term 53 83	regulation of stomatal closure
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0090333	
+T3	ontology_term 106 112	growth
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040007	

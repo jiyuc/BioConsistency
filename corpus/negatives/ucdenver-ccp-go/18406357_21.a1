@@ -1,0 +1,4 @@
+T1	ontology_term 45 60	transcriptional
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 94 109	gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	

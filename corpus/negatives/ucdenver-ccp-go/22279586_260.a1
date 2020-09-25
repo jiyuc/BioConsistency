@@ -1,0 +1,4 @@
+T1	ontology_term 146 150	apex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097683	
+T2	ontology_term 161 170	cytosolic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005829	

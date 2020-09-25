@@ -1,0 +1,8 @@
+T1	ontology_term 98 101	CAR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005826	
+T2	ontology_term 121 124	CAR
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005826	
+T3	ontology_term 181 184	CAR
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005826	
+T4	ontology_term 205 209	RNAi
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016246	

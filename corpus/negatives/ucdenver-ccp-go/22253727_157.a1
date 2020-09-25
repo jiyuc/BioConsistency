@@ -1,0 +1,4 @@
+T1	ontology_term 6 24	methyl-CpG-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008327	
+T2	ontology_term 56 75	histone methylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016571	

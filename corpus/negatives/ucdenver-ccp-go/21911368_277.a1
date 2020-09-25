@@ -1,0 +1,4 @@
+T1	ontology_term 0 11	DNA-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003677	
+T2	ontology_term 86 96	organelles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043226	

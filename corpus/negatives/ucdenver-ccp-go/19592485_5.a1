@@ -1,0 +1,8 @@
+T1	ontology_term 24 39	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 68 87	vesicle trafficking
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016192	
+T3	ontology_term 179 194	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	
+T4	ontology_term 236 246	regulation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0065007	

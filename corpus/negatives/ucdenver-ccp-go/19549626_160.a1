@@ -1,0 +1,4 @@
+T1	ontology_term 10 33	intracellular transport
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046907	
+T2	ontology_term 115 126	transporter
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	

@@ -1,0 +1,6 @@
+T1	ontology_term 20 26	bouton
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043195	
+T2	ontology_term 86 92	bouton
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043195	
+T3	ontology_term 188 195	boutons
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043195	

@@ -1,0 +1,6 @@
+T1	ontology_term 87 95	membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 112 134	mitochondrial membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031966	
+T3	ontology_term 270 291	ATP synthase activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046961	

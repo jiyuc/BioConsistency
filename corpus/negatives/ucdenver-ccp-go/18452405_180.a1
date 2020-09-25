@@ -1,0 +1,10 @@
+T1	ontology_term 165 174	localizes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 201 204	TGN
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005802	
+T3	ontology_term 213 224	Golgi stack
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005795	
+T4	ontology_term 448 457	localizes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051179	
+T5	ontology_term 473 484	Golgi stack
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005795	

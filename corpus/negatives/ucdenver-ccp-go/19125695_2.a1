@@ -1,0 +1,6 @@
+T1	ontology_term 13 24	phosphatase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 110 119	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 187 196	regulated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

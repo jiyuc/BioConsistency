@@ -1,0 +1,4 @@
+T1	ontology_term 44 49	SNARE
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005484	
+T2	ontology_term 59 74	membrane fusion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0061025	

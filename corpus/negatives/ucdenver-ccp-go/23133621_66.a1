@@ -1,0 +1,14 @@
+T1	ontology_term 4 12	antibody
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 4 12	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 4 12	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 4 12	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 36 43	binding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005488	
+T6	ontology_term 65 79	phosphorylated
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016310	
+T7	ontology_term 102 122	lipid phosphorylated
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0046834	

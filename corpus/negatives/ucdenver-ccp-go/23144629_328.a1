@@ -1,0 +1,4 @@
+T1	ontology_term 73 88	DNA replication
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006260	
+T2	ontology_term 93 103	DNA repair
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006281	

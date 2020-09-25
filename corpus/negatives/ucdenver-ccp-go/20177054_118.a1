@@ -1,0 +1,4 @@
+T1	ontology_term 203 212	lysosomes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005764	
+T2	ontology_term 290 294	RyRs
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1990425	

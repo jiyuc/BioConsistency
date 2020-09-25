@@ -1,0 +1,8 @@
+T1	ontology_term 46 50	EGFR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005006	
+T2	ontology_term 51 62	endocytosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006897	
+T3	ontology_term 132 135	EGF
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005154	
+T4	ontology_term 145 153	vesicles
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0031982	

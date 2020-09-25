@@ -1,0 +1,6 @@
+T1	ontology_term 61 70	TCA cycle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006099	
+T2	ontology_term 154 171	insulin secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030073	
+T3	ontology_term 182 207	responsiveness to glucose
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009749	

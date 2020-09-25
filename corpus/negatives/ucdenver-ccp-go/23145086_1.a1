@@ -1,0 +1,8 @@
+T1	ontology_term 32 35	FPS
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0047221	
+T2	ontology_term 49 52	FPS
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0047221	
+T3	ontology_term 53 68	Gene Expression
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010467	
+T4	ontology_term 103 115	Biosynthesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	

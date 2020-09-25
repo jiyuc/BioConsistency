@@ -1,0 +1,4 @@
+T1	ontology_term 18 58	mitogen-activated protein kinase cascade
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000165	
+T2	ontology_term 78 87	sensitive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

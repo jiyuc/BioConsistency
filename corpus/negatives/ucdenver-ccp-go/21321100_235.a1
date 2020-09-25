@@ -1,0 +1,4 @@
+T1	ontology_term 52 67	early endosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005769	
+T2	ontology_term 72 77	Golgi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005794	

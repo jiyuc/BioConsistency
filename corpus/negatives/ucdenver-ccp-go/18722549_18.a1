@@ -1,0 +1,8 @@
+T1	ontology_term 6 15	metabolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 86 111	oxidative phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006119	
+T3	ontology_term 157 163	uptake
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0098739	
+T4	ontology_term 157 163	uptake
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0098657	

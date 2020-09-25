@@ -1,0 +1,6 @@
+T1	ontology_term 160 172	microtubules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005874	
+T2	ontology_term 180 195	meiotic spindle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0072687	
+T3	ontology_term 221 238	flagellar axoneme
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005930	

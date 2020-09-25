@@ -1,0 +1,10 @@
+T1	ontology_term 11 14	RyR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1990425	
+T2	ontology_term 42 60	secretory vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0099503	
+T3	ontology_term 42 60	secretory vesicles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030141	
+T4	ontology_term 42 60	secretory vesicles
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0030133	
+T5	ontology_term 107 116	endosomes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005768	

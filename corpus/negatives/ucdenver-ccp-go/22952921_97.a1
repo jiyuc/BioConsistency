@@ -1,0 +1,4 @@
+T1	ontology_term 4 10	Bouton
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043195	
+T2	ontology_term 40 49	ionophore
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0022809	

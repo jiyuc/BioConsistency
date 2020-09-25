@@ -1,0 +1,6 @@
+T1	ontology_term 3 24	endoplasmic reticulum
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005783	
+T2	ontology_term 122 130	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 142 162	transcription factor
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000981	

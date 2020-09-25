@@ -1,0 +1,4 @@
+T1	ontology_term 111 117	efflux
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140352	
+T2	ontology_term 111 117	efflux
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0140115	

@@ -1,0 +1,4 @@
+T1	ontology_term 69 93	homologous recombination
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0035825	
+T2	ontology_term 99 112	transposition
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032196	

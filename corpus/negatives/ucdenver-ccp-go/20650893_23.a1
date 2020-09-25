@@ -1,0 +1,12 @@
+T1	ontology_term 68 77	regulated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 181 194	intracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	
+T3	ontology_term 195 202	signals
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 195 202	signals
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 211 226	phosphorylation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016310	
+T6	ontology_term 231 245	ubiquitination
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0031386	

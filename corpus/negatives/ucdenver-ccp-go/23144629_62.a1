@@ -1,0 +1,12 @@
+T1	ontology_term 39 46	spindle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005819	
+T2	ontology_term 66 75	metaphase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051323	
+T3	ontology_term 79 87	Anaphase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051322	
+T4	ontology_term 101 110	Telophase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051326	
+T5	ontology_term 124 133	Metaphase
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051323	
+T6	ontology_term 151 160	Telophase
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051326	

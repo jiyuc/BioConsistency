@@ -1,0 +1,4 @@
+T1	ontology_term 113 124	ion channel
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0022831	
+T2	ontology_term 160 170	sarcomeric
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030017	

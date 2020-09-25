@@ -1,0 +1,6 @@
+T1	ontology_term 108 117	metabolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 210 228	channel activation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015267	
+T3	ontology_term 244 253	metabolic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008152	

@@ -1,0 +1,6 @@
+T1	ontology_term 45 51	cyclin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016538	
+T2	ontology_term 91 109	cell-cycle control
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1901987	
+T3	ontology_term 114 132	vulval development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040025	

@@ -1,0 +1,10 @@
+T1	ontology_term 0 6	Growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 14 23	secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046903	
+T3	ontology_term 228 237	secretion
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046903	
+T4	ontology_term 253 262	signaling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 253 262	signaling
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	

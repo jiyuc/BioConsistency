@@ -1,0 +1,6 @@
+T1	ontology_term 46 54	exchange
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015297	
+T2	ontology_term 82 91	localizes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 103 108	Golgi
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005794	

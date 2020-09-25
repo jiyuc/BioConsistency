@@ -1,0 +1,10 @@
+T1	ontology_term 19 25	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 26 36	translates
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006412	
+T3	ontology_term 57 66	metabolic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008152	
+T4	ontology_term 121 135	cell expansion
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016049	
+T5	ontology_term 146 152	growth
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0040007	

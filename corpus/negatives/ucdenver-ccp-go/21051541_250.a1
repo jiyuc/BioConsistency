@@ -1,0 +1,10 @@
+T1	ontology_term 85 96	RNA-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003723	
+T2	ontology_term 97 115	proteins, splicing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030908	
+T3	ontology_term 129 140	translation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006412	
+T4	ontology_term 172 186	RNA metabolism
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016070	
+T5	ontology_term 288 295	binding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005488	

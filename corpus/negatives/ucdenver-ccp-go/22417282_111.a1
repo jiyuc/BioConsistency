@@ -1,0 +1,4 @@
+T1	ontology_term 54 72	ER stress response
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0034976	
+T2	ontology_term 171 192	response to ER stress
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0034976	

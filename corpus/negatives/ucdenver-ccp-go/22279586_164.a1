@@ -1,0 +1,6 @@
+T1	ontology_term 15 30	ion homeostasis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0050801	
+T2	ontology_term 64 73	cytosolic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005829	
+T3	ontology_term 133 139	growth
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040007	

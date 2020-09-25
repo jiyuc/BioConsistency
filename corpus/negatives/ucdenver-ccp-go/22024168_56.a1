@@ -1,0 +1,12 @@
+T1	ontology_term 46 61	mitotic spindle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0072686	
+T2	ontology_term 157 176	spindle orientation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051294	
+T3	ontology_term 189 202	transmembrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0044214	
+T4	ontology_term 189 202	transmembrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016021	
+T5	ontology_term 242 250	vesicles
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0031982	
+T6	ontology_term 262 269	nucleus
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005634	

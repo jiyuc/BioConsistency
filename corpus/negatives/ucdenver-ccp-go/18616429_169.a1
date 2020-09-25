@@ -1,0 +1,8 @@
+T1	ontology_term 53 66	glycosylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070085	
+T2	ontology_term 154 160	region
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	
+T3	ontology_term 284 295	ion-channel
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0022831	
+T4	ontology_term 357 372	plasma membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005886	

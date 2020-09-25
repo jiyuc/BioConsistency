@@ -1,0 +1,6 @@
+T1	ontology_term 76 85	metabolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 206 233	nuclear receptors activated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004879	
+T3	ontology_term 249 256	ligands
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	

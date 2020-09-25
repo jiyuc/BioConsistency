@@ -1,0 +1,4 @@
+T1	ontology_term 14 25	centromeric
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000775	
+T2	ontology_term 26 35	chromatin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000785	

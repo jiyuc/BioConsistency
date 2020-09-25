@@ -1,0 +1,8 @@
+T1	ontology_term 7 13	mating
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000747	
+T2	ontology_term 7 13	mating
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1990277	
+T3	ontology_term 7 13	mating
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007618	
+T4	ontology_term 84 103	backward locomotion
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0043057	

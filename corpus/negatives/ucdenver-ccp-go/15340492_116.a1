@@ -1,0 +1,4 @@
+T1	ontology_term 82 92	regulating
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 93 101	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	

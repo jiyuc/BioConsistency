@@ -1,0 +1,4 @@
+T1	ontology_term 228 239	development
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032502	
+T2	ontology_term 247 265	cardiac conduction
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0061337	

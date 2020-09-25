@@ -1,0 +1,26 @@
+T1	ontology_term 76 91	phosphorylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 95 98	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004691	
+T3	ontology_term 95 98	PKA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005952	
+T4	ontology_term 166 180	phosphorylated
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016310	
+T5	ontology_term 181 184	PKA
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004691	
+T6	ontology_term 181 184	PKA
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005952	
+T7	ontology_term 218 226	antibody
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0003823	
+T8	ontology_term 218 226	antibody
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0042571	
+T9	ontology_term 218 226	antibody
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0019814	
+T10	ontology_term 218 226	antibody
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0019815	
+T11	ontology_term 275 289	phosphorylated
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0016310	
+T12	ontology_term 293 296	PKA
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0004691	
+T13	ontology_term 293 296	PKA
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0005952	

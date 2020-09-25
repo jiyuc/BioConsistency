@@ -1,0 +1,4 @@
+T1	ontology_term 43 48	SNARE
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005484	
+T2	ontology_term 49 57	vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031982	

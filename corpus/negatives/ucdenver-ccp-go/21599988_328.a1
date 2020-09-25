@@ -1,0 +1,4 @@
+T1	ontology_term 33 49	starch synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019252	
+T2	ontology_term 84 94	developing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

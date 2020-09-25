@@ -1,0 +1,4 @@
+T1	ontology_term 150 159	excretion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007588	
+T2	ontology_term 207 211	pore
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046930	

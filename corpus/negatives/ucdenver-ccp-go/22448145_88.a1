@@ -1,0 +1,4 @@
+T1	ontology_term 27 31	RNAi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 85 110	mitochondrial translation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032543	

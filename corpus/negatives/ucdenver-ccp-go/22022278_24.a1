@@ -1,0 +1,8 @@
+T1	ontology_term 72 93	cell cycle regulation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051726	
+T2	ontology_term 72 93	cell cycle regulation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051726	
+T3	ontology_term 98 108	cell death
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008219	
+T4	ontology_term 139 148	formation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	

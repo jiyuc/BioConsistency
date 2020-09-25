@@ -1,0 +1,10 @@
+T1	ontology_term 42 46	MAPK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 47 58	phosphatase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016791	
+T3	ontology_term 79 94	dephosphorylate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016311	
+T4	ontology_term 103 107	SAPK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	
+T5	ontology_term 108 111	JNK
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004705	

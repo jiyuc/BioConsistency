@@ -1,7 +1,13 @@
+import os
+import sys
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 from similarity.distribution import Retriever
 from obj.instance import Instance
 import glob
 from tqdm import tqdm
+from tool.command_parse import parse_retrieval_command
 
 
 
@@ -18,8 +24,8 @@ def get_negative_path(path):
     return path.replace("positives","negatives")
 
 
-def retrieval_totxt(instance,scores):
-    path = '/Users/jiyuc/Documents/GitHub/bio/corpus/sent2vec_pairs/{}.txt'.format(instance.evidence.docid)
+def retrieval_totxt(instance,scores,directory):
+    path = directory.format(instance.evidence.docid)
     with open(path,'a') as fp:
         fp.write(instance.tostring())
         for score, neg in scores:
@@ -28,10 +34,8 @@ def retrieval_totxt(instance,scores):
         fp.write("##EndOfRet##\n")
     fp.close()
 
-def retrieve():
-    positive_document_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/positives/*.txt'
-    #negative_document_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/negatives/{}.txt'
-    model_path = '/Users/jiyuc/Downloads/BioSentVec_PubMed_MIMICIII-bigram_d700.bin'
+def retrieve(positive_document_path,model_path,retrieved_document_path):
+
     retriever = Retriever(pre_trained_model_path=model_path)
     pos_files = glob.glob(positive_document_path)
     for pos_filename in tqdm(pos_files):
@@ -40,9 +44,16 @@ def retrieve():
         with open(pos_filename, 'r') as fp:
             for line in fp:
                 instance = Instance().fromstring(line)
-                scores = retriever.sent2vec_retrieval(instance.evidence.text, document,0.6)
-                retrieval_totxt(instance,scores)
+                scores = retriever.sent2vec_retrieval(instance, document,0)
+                if len(scores):
+                    retrieval_totxt(instance,scores,retrieved_document_path)
+                else:
+                    continue
     return
 
 if __name__ == '__main__':
-    retrieve()
+    args = parse_retrieval_command()
+    positive_document_path = args.pos+'*.txt'#'/Users/jiyuc/Documents/GitHub/bio/corpus/positives/*.txt'
+    retrieved_document_path = args.out#'/Users/jiyuc/Documents/GitHub/bio/corpus/sent2vec_pairs/{}.txt'
+    model_path = args.model#'/Users/jiyuc/Downloads/BioSentVec_PubMed_MIMICIII-bigram_d700.bin'
+    retrieve(positive_document_path,model_path,retrieved_document_path)

@@ -1,0 +1,6 @@
+T1	ontology_term 123 139	leaf development
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048366	
+T2	ontology_term 260 280	transcription factor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000981	
+T3	ontology_term 343 363	transcription factor
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000981	

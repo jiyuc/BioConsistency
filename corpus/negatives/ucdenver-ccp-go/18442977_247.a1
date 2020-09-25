@@ -1,0 +1,4 @@
+T1	ontology_term 172 186	NMDA receptors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004972	
+T2	ontology_term 194 207	cell membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005886	

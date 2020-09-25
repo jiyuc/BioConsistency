@@ -1,0 +1,4 @@
+T1	ontology_term 43 53	organelles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043226	
+T2	ontology_term 90 99	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	

@@ -1,0 +1,4 @@
+T1	ontology_term 4 24	Developmental timing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040034	
+T2	ontology_term 82 89	fertile
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009566	

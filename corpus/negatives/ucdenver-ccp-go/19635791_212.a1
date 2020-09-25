@@ -1,0 +1,6 @@
+T1	ontology_term 53 67	PEPCK activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004611	
+T2	ontology_term 183 200	insulin-secreting
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030073	
+T3	ontology_term 234 248	PEPCK activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004611	

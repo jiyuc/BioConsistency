@@ -1,0 +1,4 @@
+T1	ontology_term 22 31	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 99 112	NMDA receptor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004972	

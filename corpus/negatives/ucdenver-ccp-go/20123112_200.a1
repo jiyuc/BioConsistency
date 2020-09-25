@@ -1,0 +1,6 @@
+T1	ontology_term 43 61	catalytic activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003824	
+T2	ontology_term 149 165	channel activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015267	
+T3	ontology_term 181 188	lactate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007595	

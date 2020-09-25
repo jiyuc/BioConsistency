@@ -1,0 +1,6 @@
+T1	ontology_term 80 86	region
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003002	
+T2	ontology_term 154 163	autosomal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030849	
+T3	ontology_term 164 170	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	

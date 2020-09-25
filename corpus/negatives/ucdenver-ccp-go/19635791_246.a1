@@ -1,0 +1,4 @@
+T1	ontology_term 94 111	insulin-secreting
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030073	
+T2	ontology_term 221 238	insulin secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030073	

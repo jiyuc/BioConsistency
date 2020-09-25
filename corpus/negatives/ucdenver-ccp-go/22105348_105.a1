@@ -1,0 +1,4 @@
+T1	ontology_term 98 109	rhabdomeres
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016028	
+T2	ontology_term 111 121	microvilli
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005902	

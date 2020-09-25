@@ -1,0 +1,4 @@
+T1	ontology_term 41 44	FPS
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0047221	
+T2	ontology_term 65 80	enzyme activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003824	

@@ -1,0 +1,8 @@
+T1	ontology_term 101 110	cell body
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044297	
+T2	ontology_term 115 124	nucleolus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005730	
+T3	ontology_term 147 170	macromolecule synthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009059	
+T4	ontology_term 175 194	ribosome biogenesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0042254	

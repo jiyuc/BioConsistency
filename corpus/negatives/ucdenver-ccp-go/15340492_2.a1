@@ -1,0 +1,8 @@
+T1	ontology_term 32 38	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 43 54	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	
+T3	ontology_term 80 92	biosynthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	
+T4	ontology_term 106 112	growth
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0040007	

@@ -1,0 +1,8 @@
+T1	ontology_term 71 82	transported
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006810	
+T2	ontology_term 110 123	Golgi complex
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005794	
+T3	ontology_term 146 155	secretion
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046903	
+T4	ontology_term 163 178	plasma membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005886	

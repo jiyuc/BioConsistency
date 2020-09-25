@@ -1,0 +1,6 @@
+T1	ontology_term 42 53	cytokinesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000910	
+T2	ontology_term 102 105	bud
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007114	
+T3	ontology_term 106 110	neck
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0044326	

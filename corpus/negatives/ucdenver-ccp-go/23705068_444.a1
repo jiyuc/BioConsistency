@@ -1,0 +1,8 @@
+T1	ontology_term 22 41	trans-Golgi network
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005802	
+T2	ontology_term 22 41	trans-Golgi network
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005802	
+T3	ontology_term 51 60	lysosomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005764	
+T4	ontology_term 108 123	ATPase activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016887	

@@ -1,0 +1,8 @@
+T1	ontology_term 99 103	ERK1
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 106 116	signalling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 106 116	signalling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 140 144	ERK1
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	

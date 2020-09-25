@@ -1,0 +1,12 @@
+T1	ontology_term 78 81	APC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005680	
+T2	ontology_term 93 99	cyclin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016538	
+T3	ontology_term 103 114	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	
+T4	ontology_term 142 153	cytokinesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000910	
+T5	ontology_term 213 223	chromosome
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005694	
+T6	ontology_term 256 265	sensitive
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0046960	

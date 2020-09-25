@@ -1,0 +1,4 @@
+T1	ontology_term 72 99	transglutaminase activities
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003810	
+T2	ontology_term 153 165	chloroplasts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	

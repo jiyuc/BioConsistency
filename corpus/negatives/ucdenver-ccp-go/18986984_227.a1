@@ -1,0 +1,8 @@
+T1	ontology_term 75 85	proteasome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000502	
+T2	ontology_term 98 105	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 109 113	PA28
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008537	
+T4	ontology_term 121 131	proteasome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000502	

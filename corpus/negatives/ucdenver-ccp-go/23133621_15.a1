@@ -1,0 +1,4 @@
+T1	ontology_term 66 92	response to osmotic stress
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006970	
+T2	ontology_term 168 192	osmotic stress responses
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006970	

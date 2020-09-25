@@ -1,0 +1,14 @@
+T1	ontology_term 58 62	GDIs
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005092	
+T2	ontology_term 156 161	lysis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019835	
+T3	ontology_term 208 212	GDIs
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005092	
+T4	ontology_term 300 310	antibodies
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003823	
+T5	ontology_term 300 310	antibodies
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019815	
+T6	ontology_term 300 310	antibodies
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0042571	
+T7	ontology_term 300 310	antibodies
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0019814	

@@ -1,0 +1,4 @@
+T1	ontology_term 18 39	replication protein A
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005662	
+T2	ontology_term 40 45	binds
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	

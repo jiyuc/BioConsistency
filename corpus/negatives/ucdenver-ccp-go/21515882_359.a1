@@ -1,0 +1,6 @@
+T1	ontology_term 79 90	cytoplasmic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005737	
+T2	ontology_term 112 120	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 244 252	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	

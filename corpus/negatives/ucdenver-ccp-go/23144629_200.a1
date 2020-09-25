@@ -1,0 +1,4 @@
+T1	ontology_term 203 212	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 223 232	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

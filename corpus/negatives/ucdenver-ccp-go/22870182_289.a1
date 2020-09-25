@@ -1,0 +1,6 @@
+T1	ontology_term 13 18	LHCII
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009517	
+T2	ontology_term 128 131	LLC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0038045	
+T3	ontology_term 249 254	LHCII
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009517	

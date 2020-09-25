@@ -1,0 +1,6 @@
+T1	ontology_term 17 30	localizations
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 34 37	CAR
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005826	
+T3	ontology_term 52 55	PGL
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004598	

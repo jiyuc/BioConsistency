@@ -1,0 +1,4 @@
+T1	ontology_term 64 73	regulated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 113 122	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

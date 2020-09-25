@@ -1,0 +1,6 @@
+T1	ontology_term 0 9	Apoptosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097194	
+T2	ontology_term 0 9	Apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006915	
+T3	ontology_term 39 49	Cell Death
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008219	

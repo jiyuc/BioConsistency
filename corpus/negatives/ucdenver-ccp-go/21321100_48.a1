@@ -1,0 +1,4 @@
+T1	ontology_term 42 50	membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 63 72	lysosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005764	

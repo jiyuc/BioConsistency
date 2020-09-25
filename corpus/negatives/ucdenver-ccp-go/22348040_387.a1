@@ -1,0 +1,4 @@
+T1	ontology_term 0 24	Chlorophyll fluorescence
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0090546	
+T2	ontology_term 37 51	photosynthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015979	

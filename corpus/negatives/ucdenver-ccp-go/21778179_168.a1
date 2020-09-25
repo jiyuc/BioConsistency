@@ -1,0 +1,4 @@
+T1	ontology_term 54 69	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 103 124	endoplasmic reticulum
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005783	

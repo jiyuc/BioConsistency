@@ -1,0 +1,18 @@
+T1	ontology_term 66 78	chloroplasts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009507	
+T2	ontology_term 80 92	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 94 105	peroxisomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005777	
+T4	ontology_term 94 105	peroxisomes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005777	
+T5	ontology_term 107 122	plasma membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005886	
+T6	ontology_term 123 137	NADPH oxidases
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016174	
+T7	ontology_term 123 137	NADPH oxidases
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0008753	
+T8	ontology_term 139 148	cell wall
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005618	
+T9	ontology_term 162 172	apoplastic
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0048046	

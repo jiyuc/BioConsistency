@@ -1,0 +1,12 @@
+T1	ontology_term 46 61	F-actin binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051015	
+T2	ontology_term 73 82	transport
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	
+T3	ontology_term 83 93	organelles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043226	
+T4	ontology_term 98 116	secretory granules
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0030141	
+T5	ontology_term 123 130	F-actin
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0031941	
+T6	ontology_term 152 168	pigment granules
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0048770	

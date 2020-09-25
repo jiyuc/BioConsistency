@@ -1,0 +1,4 @@
+T1	ontology_term 0 6	ribbon
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048788	
+T2	ontology_term 61 75	cell migration
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016477	

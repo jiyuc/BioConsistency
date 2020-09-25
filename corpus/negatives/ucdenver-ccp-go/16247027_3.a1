@@ -1,0 +1,8 @@
+T1	ontology_term 0 11	Cytokinesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000910	
+T2	ontology_term 22 35	cell division
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051301	
+T3	ontology_term 48 58	membranous
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	
+T4	ontology_term 87 96	cytoplasm
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005737	

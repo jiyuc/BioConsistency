@@ -1,0 +1,6 @@
+T1	ontology_term 27 34	segment
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0035282	
+T2	ontology_term 39 44	Golgi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005794	
+T3	ontology_term 45 51	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	

@@ -1,0 +1,4 @@
+T1	ontology_term 105 119	anti-apoptosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043066	
+T2	ontology_term 123 145	response to activation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0014823	

@@ -1,0 +1,4 @@
+T1	ontology_term 36 60	glucosinolate metabolism
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019760	
+T2	ontology_term 101 113	biosynthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

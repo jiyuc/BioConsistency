@@ -1,0 +1,8 @@
+T1	ontology_term 44 54	behavioral
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007610	
+T2	ontology_term 76 89	extracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005576	
+T3	ontology_term 191 213	neuromuscular junction
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031594	
+T4	ontology_term 215 218	NMJ
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0031594	

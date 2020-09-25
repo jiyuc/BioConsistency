@@ -1,0 +1,4 @@
+T1	ontology_term 30 46	stomatal closure
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0090332	
+T2	ontology_term 84 93	synthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

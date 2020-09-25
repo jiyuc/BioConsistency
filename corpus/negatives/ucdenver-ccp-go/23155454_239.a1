@@ -1,0 +1,4 @@
+T1	ontology_term 0 7	Budding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007114	
+T2	ontology_term 11 25	COPII vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030134	

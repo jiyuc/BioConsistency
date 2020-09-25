@@ -1,0 +1,6 @@
+T1	ontology_term 79 89	cell cycle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007049	
+T2	ontology_term 93 102	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 112 123	proteolysis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006508	

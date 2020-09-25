@@ -1,0 +1,6 @@
+T1	ontology_term 66 86	reproductive process
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0022414	
+T2	ontology_term 155 173	pollen tube growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009860	
+T3	ontology_term 366 389	pollen tube development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0048868	

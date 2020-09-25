@@ -1,0 +1,4 @@
+T1	ontology_term 5 14	telophase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051326	
+T2	ontology_term 47 54	spindle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005819	

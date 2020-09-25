@@ -1,0 +1,4 @@
+T1	ontology_term 40 70	female gametophyte development
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009553	
+T2	ontology_term 160 190	female gametophyte development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009553	

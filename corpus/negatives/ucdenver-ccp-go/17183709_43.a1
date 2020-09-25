@@ -1,0 +1,6 @@
+T1	ontology_term 5 26	transcription factors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 119 127	cellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007349	
+T3	ontology_term 128 139	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	

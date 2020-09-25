@@ -1,0 +1,8 @@
+T1	ontology_term 53 65	phosphatases
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 91 103	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 119 131	phosphatases
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016791	
+T4	ontology_term 243 264	dehydrogenase complex
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0010240	

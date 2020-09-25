@@ -1,0 +1,6 @@
+T1	ontology_term 0 21	Transcription factors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 26 36	regulation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 67 77	metabolism
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008152	

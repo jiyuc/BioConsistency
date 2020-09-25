@@ -1,0 +1,16 @@
+T1	ontology_term 94 113	signal transduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007165	
+T2	ontology_term 123 133	regulating
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 139 159	biological processes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008150	
+T4	ontology_term 169 179	metabolism
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008152	
+T5	ontology_term 199 209	signalling
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 199 209	signalling
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	
+T7	ontology_term 211 224	transcription
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0006351	
+T8	ontology_term 226 244	cell-cycle control
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_1901987	

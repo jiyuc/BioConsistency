@@ -1,0 +1,6 @@
+T1	ontology_term 43 60	cytokinin-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044373	
+T2	ontology_term 86 103	cytokinin signals
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009736	
+T3	ontology_term 115 123	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	

@@ -1,0 +1,8 @@
+T1	ontology_term 64 77	translational
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006412	
+T2	ontology_term 110 122	base-pairing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003676	
+T3	ontology_term 244 266	translation initiation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006413	
+T4	ontology_term 244 266	translation initiation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006413	

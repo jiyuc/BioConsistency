@@ -1,0 +1,8 @@
+T1	ontology_term 76 83	vesicle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031982	
+T2	ontology_term 172 183	phosphatase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016791	
+T3	ontology_term 228 245	phosphodiesterase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008081	
+T4	ontology_term 269 286	biomineralization
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0110148	

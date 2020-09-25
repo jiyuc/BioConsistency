@@ -1,0 +1,20 @@
+T1	ontology_term 28 34	furrow
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097610	
+T2	ontology_term 54 73	microtubule bundles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097427	
+T3	ontology_term 54 73	microtubule bundles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0001578	
+T4	ontology_term 96 107	chromosomes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005694	
+T5	ontology_term 139 155	contractile ring
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0070938	
+T6	ontology_term 171 177	furrow
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0097610	
+T7	ontology_term 229 245	contractile ring
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0070938	
+T8	ontology_term 290 309	microtubule bundles
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0097427	
+T9	ontology_term 290 309	microtubule bundles
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0001578	
+T10	ontology_term 315 322	midbody
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0030496	

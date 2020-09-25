@@ -1,0 +1,20 @@
+T1	ontology_term 53 59	methyl
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032259	
+T2	ontology_term 80 93	NMDA receptor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004972	
+T3	ontology_term 100 111	microtubule
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005874	
+T4	ontology_term 138 149	microtubule
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005874	
+T5	ontology_term 196 199	ERK
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004707	
+T6	ontology_term 201 214	extracellular
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005576	
+T7	ontology_term 215 221	signal
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0023052	
+T8	ontology_term 215 221	signal
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0023052	
+T9	ontology_term 222 231	regulated
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0065007	
+T10	ontology_term 634 640	methyl
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0032259	

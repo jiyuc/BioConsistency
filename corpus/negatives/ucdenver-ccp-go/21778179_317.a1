@@ -1,0 +1,6 @@
+T1	ontology_term 51 68	protein transport
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015031	
+T2	ontology_term 78 99	endoplasmic reticulum
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005783	
+T3	ontology_term 107 122	Golgi apparatus
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005794	

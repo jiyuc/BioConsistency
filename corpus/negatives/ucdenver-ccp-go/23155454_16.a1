@@ -1,0 +1,4 @@
+T1	ontology_term 4 11	ER body
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010168	
+T2	ontology_term 81 93	ER-localized
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051643	

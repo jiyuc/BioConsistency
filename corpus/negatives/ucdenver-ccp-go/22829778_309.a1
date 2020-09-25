@@ -1,0 +1,4 @@
+T1	ontology_term 0 6	Growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 36 44	ribosome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005840	

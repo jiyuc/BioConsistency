@@ -1,0 +1,10 @@
+T1	ontology_term 27 37	interphase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051325	
+T2	ontology_term 45 71	nuclear envelope breakdown
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007077	
+T3	ontology_term 45 71	nuclear envelope breakdown
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051081	
+T4	ontology_term 73 76	NEB
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007077	
+T5	ontology_term 132 139	spindle
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005819	

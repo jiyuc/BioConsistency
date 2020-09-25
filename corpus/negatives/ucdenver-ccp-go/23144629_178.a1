@@ -1,0 +1,6 @@
+T1	ontology_term 72 87	DNA replication
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006260	
+T2	ontology_term 177 192	DNA replication
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006260	
+T3	ontology_term 239 250	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	

@@ -1,0 +1,12 @@
+T1	ontology_term 6 21	protein binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005515	
+T2	ontology_term 30 36	region
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	
+T3	ontology_term 67 79	localization
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051179	
+T4	ontology_term 184 196	localization
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051179	
+T5	ontology_term 197 203	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 197 203	signal
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	

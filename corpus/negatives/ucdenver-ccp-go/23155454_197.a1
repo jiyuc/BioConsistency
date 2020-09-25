@@ -1,0 +1,10 @@
+T1	ontology_term 12 38	membrane protein localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051205	
+T2	ontology_term 48 53	Golgi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005794	
+T3	ontology_term 94 105	ER membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005789	
+T4	ontology_term 114 119	Golgi
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005794	
+T5	ontology_term 120 137	protein transport
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0015031	

@@ -1,0 +1,10 @@
+T1	ontology_term 27 40	GTP synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006183	
+T2	ontology_term 44 47	SCS
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004776	
+T3	ontology_term 65 74	synthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	
+T4	ontology_term 176 185	synthesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	
+T5	ontology_term 217 229	mitochondria
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005739	

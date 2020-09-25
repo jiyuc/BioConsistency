@@ -1,0 +1,12 @@
+T1	ontology_term 56 64	behavior
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007610	
+T2	ontology_term 98 101	APC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005680	
+T3	ontology_term 168 175	mitosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0140014	
+T4	ontology_term 168 175	mitosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000278	
+T5	ontology_term 180 187	meiosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0140013	
+T6	ontology_term 180 187	meiosis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051321	

@@ -1,0 +1,4 @@
+T1	ontology_term 11 21	photolysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019684	
+T2	ontology_term 106 115	oxygenase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016701	

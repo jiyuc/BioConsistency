@@ -1,0 +1,6 @@
+T1	ontology_term 117 128	calcineurin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004722	
+T2	ontology_term 117 128	calcineurin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004723	
+T3	ontology_term 151 155	pore
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046930	

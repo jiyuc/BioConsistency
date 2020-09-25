@@ -1,0 +1,4 @@
+T1	ontology_term 79 82	PKC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 106 114	PKCalpha
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004697	

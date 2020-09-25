@@ -1,0 +1,4 @@
+T1	ontology_term 66 75	flowering
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010228	
+T2	ontology_term 84 94	chromosome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005694	

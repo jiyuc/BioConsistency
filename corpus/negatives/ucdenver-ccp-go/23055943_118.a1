@@ -1,0 +1,4 @@
+T1	ontology_term 129 144	DNA methylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006306	
+T2	ontology_term 168 175	regions
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	

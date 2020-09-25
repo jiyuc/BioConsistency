@@ -1,0 +1,4 @@
+T1	ontology_term 251 277	ventricular depolarization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060373	
+T2	ontology_term 251 277	ventricular depolarization
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098913	

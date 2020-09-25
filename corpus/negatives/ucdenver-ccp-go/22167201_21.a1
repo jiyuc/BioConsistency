@@ -1,0 +1,6 @@
+T1	ontology_term 48 60	opsonization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008228	
+T2	ontology_term 65 77	phagocytosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006909	
+T3	ontology_term 119 127	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	

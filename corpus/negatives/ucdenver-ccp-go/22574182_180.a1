@@ -1,0 +1,14 @@
+T1	ontology_term 81 102	ecdysteroid metabolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045455	
+T2	ontology_term 103 112	breakdown
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009056	
+T3	ontology_term 217 239	ecdysteroid metabolism
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0045455	
+T4	ontology_term 277 287	signalling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 277 287	signalling
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 291 301	regulation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0065007	
+T7	ontology_term 309 332	adult cuticle formation
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0008365	

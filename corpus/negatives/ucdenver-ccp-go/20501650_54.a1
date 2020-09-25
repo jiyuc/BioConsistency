@@ -1,0 +1,4 @@
+T1	ontology_term 53 64	phosphatase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 81 90	digestion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007586	

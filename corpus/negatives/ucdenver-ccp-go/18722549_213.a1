@@ -1,0 +1,10 @@
+T1	ontology_term 0 16	Cold acclimation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009631	
+T2	ontology_term 113 128	phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	
+T3	ontology_term 140 144	AMPK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004691	
+T4	ontology_term 140 144	AMPK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0047322	
+T5	ontology_term 140 144	AMPK
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0050405	

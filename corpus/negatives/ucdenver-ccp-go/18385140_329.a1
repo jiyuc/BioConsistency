@@ -1,0 +1,24 @@
+T1	ontology_term 50 61	phosphatase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 67 81	outer membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019867	
+T3	ontology_term 93 101	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	
+T4	ontology_term 180 184	MAPK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	
+T5	ontology_term 186 203	mitogen-activated
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0045840	
+T6	ontology_term 484 514	adenine nucleotide transporter
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051503	
+T7	ontology_term 516 520	SAPK
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0004707	
+T8	ontology_term 521 524	JNK
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0004705	
+T9	ontology_term 628 640	mitochondria
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0005739	
+T10	ontology_term 735 747	phosphatases
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0016791	
+T11	ontology_term 803 815	mitochondria
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0005739	
+T12	ontology_term 824 836	cytochrome c
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0045155	

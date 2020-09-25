@@ -1,0 +1,4 @@
+T1	ontology_term 4 33	sequence-specific DNA binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043565	
+T2	ontology_term 4 33	sequence-specific DNA binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043565	

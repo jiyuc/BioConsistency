@@ -1,0 +1,4 @@
+T1	ontology_term 80 83	GSK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0050321	
+T2	ontology_term 170 173	GSK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0050321	

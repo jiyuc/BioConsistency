@@ -1,0 +1,6 @@
+T1	ontology_term 24 43	programmed necrosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070266	
+T2	ontology_term 106 115	apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097194	
+T3	ontology_term 106 115	apoptosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006915	

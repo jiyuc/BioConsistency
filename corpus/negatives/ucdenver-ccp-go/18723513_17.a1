@@ -1,0 +1,4 @@
+T1	ontology_term 33 44	SCF complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019005	
+T2	ontology_term 112 121	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	

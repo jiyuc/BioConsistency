@@ -1,0 +1,4 @@
+T1	ontology_term 26 32	OXPHOS
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0002082	
+T2	ontology_term 71 96	fatty acid beta-oxidation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006635	

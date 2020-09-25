@@ -1,0 +1,10 @@
+T1	ontology_term 4 19	phosphorylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 34 44	antibodies
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003823	
+T3	ontology_term 34 44	antibodies
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 34 44	antibodies
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 34 44	antibodies
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019815	

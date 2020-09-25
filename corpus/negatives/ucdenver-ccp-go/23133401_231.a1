@@ -1,0 +1,4 @@
+T1	ontology_term 120 128	regulate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 133 148	genes expressed
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	

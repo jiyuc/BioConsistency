@@ -1,0 +1,4 @@
+T1	ontology_term 25 31	ligand
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 38 50	ion channels
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0022831	

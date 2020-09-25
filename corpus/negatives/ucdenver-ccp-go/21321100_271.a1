@@ -1,0 +1,4 @@
+T1	ontology_term 47 62	gene expression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 81 85	ERK1
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	

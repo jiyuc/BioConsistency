@@ -1,0 +1,6 @@
+T1	ontology_term 25 34	exogenous
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042638	
+T2	ontology_term 81 96	phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	
+T3	ontology_term 200 215	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	

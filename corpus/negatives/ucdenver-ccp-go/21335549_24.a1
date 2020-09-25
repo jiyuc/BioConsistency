@@ -1,0 +1,4 @@
+T1	ontology_term 258 269	proteolysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006508	
+T2	ontology_term 316 331	transcriptional
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

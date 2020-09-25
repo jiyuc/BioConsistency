@@ -1,0 +1,8 @@
+T1	ontology_term 5 23	channel activation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015267	
+T2	ontology_term 27 35	cellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007349	
+T3	ontology_term 86 94	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	
+T4	ontology_term 148 156	cellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007349	

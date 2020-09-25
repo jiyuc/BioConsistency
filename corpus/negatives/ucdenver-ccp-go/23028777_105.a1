@@ -1,0 +1,12 @@
+T1	ontology_term 50 61	sequestered
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051235	
+T2	ontology_term 69 78	nucleolus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005730	
+T3	ontology_term 86 96	interphase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051325	
+T4	ontology_term 147 155	prophase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051324	
+T5	ontology_term 180 200	centromeric assembly
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0034508	
+T6	ontology_term 237 246	metaphase
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051323	

@@ -1,0 +1,4 @@
+T1	ontology_term 43 60	defense responses
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006952	
+T2	ontology_term 124 140	hypersensitivity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0002524	

@@ -1,0 +1,6 @@
+T1	ontology_term 26 47	centriole duplication
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007099	
+T2	ontology_term 66 74	localize
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 86 96	centrioles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005814	

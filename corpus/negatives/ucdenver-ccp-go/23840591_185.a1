@@ -1,0 +1,6 @@
+T1	ontology_term 4 16	Localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 38 42	yolk
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0060417	
+T3	ontology_term 72 76	RNAi
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016246	

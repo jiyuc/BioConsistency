@@ -1,0 +1,6 @@
+T1	ontology_term 36 58	translation initiation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006413	
+T2	ontology_term 36 58	translation initiation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006413	
+T3	ontology_term 78 84	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	

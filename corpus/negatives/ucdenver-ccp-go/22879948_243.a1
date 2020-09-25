@@ -1,0 +1,4 @@
+T1	ontology_term 97 100	CBP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008140	
+T2	ontology_term 156 170	SMAD complexes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0071141	

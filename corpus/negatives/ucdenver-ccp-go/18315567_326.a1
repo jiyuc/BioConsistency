@@ -1,0 +1,8 @@
+T1	ontology_term 14 35	monoamine transporter
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015844	
+T2	ontology_term 58 75	synaptic vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008021	
+T3	ontology_term 95 104	localizes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051179	
+T4	ontology_term 114 133	dense core vesicles
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0031045	

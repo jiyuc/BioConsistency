@@ -1,0 +1,4 @@
+T1	ontology_term 15 32	mitochondrial DNA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000262	
+T2	ontology_term 48 57	autosomal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030849	

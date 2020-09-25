@@ -1,0 +1,12 @@
+T1	ontology_term 177 187	metabolism
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 189 205	starch breakdown
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005983	
+T3	ontology_term 207 217	glycolysis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006096	
+T4	ontology_term 219 228	cell wall
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005618	
+T5	ontology_term 229 241	biosynthesis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009058	
+T6	ontology_term 255 267	fermentation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0006113	

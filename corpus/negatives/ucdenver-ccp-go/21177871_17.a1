@@ -1,0 +1,22 @@
+T1	ontology_term 8 11	PKA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004691	
+T2	ontology_term 8 11	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005952	
+T3	ontology_term 32 36	bind
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 45 54	signaling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 45 54	signaling
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 104 116	phosphatases
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016791	
+T7	ontology_term 123 141	phosphodiesterases
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0008081	
+T8	ontology_term 143 147	PDEs
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0004114	
+T9	ontology_term 150 161	GTP-binding
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0005525	
+T10	ontology_term 216 219	PKA
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0004691	
+T11	ontology_term 216 219	PKA
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0005952	

@@ -1,0 +1,4 @@
+T1	ontology_term 43 54	sensitivity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046960	
+T2	ontology_term 76 87	exogenously
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042638	

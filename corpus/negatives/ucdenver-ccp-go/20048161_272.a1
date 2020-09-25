@@ -1,0 +1,6 @@
+T1	ontology_term 81 94	translational
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006412	
+T2	ontology_term 293 301	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 447 455	behavior
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007610	

@@ -1,0 +1,4 @@
+T1	ontology_term 21 26	LHCII
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009517	
+T2	ontology_term 53 62	thylakoid
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009579	

@@ -1,0 +1,4 @@
+T1	ontology_term 30 51	complement activation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006956	
+T2	ontology_term 30 51	complement activation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006956	

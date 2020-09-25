@@ -1,0 +1,4 @@
+T1	ontology_term 83 91	eclosion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007562	
+T2	ontology_term 99 107	eclosion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007562	

@@ -1,0 +1,6 @@
+T1	ontology_term 79 93	phosphorylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 97 105	PKCalpha
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004697	
+T3	ontology_term 153 156	GDI
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005092	

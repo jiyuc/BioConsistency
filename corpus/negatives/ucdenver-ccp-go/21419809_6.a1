@@ -1,0 +1,4 @@
+T1	ontology_term 8 17	localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 35 43	synapses
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045202	

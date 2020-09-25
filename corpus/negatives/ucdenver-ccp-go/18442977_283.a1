@@ -1,0 +1,4 @@
+T1	ontology_term 103 124	microtubule stability
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007026	
+T2	ontology_term 165 187	dendritic microtubules
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1901588	

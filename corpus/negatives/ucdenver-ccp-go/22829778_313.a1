@@ -1,0 +1,4 @@
+T1	ontology_term 10 17	Binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 101 124	Large Ribosomal Subunit
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015934	

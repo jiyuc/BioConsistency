@@ -1,0 +1,8 @@
+T1	ontology_term 64 75	chloroplast
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009507	
+T2	ontology_term 79 86	nucleus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005634	
+T3	ontology_term 87 96	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 87 96	signaling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	

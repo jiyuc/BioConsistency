@@ -1,0 +1,8 @@
+T1	ontology_term 4 25	reverse transcription
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0001171	
+T2	ontology_term 79 92	Transcriptase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0034062	
+T3	ontology_term 79 92	Transcriptase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003968	
+T4	ontology_term 79 92	Transcriptase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003899	

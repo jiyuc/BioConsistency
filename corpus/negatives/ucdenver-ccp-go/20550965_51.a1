@@ -1,0 +1,12 @@
+T1	ontology_term 180 183	JNK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004705	
+T2	ontology_term 196 200	MKK6
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004708	
+T3	ontology_term 202 206	MKK4
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004708	
+T4	ontology_term 208 212	MKK7
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004708	
+T5	ontology_term 224 229	lysis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019835	
+T6	ontology_term 445 450	lysis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0019835	

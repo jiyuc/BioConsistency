@@ -1,0 +1,6 @@
+T1	ontology_term 71 74	CBP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008140	
+T2	ontology_term 151 166	transcriptional
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	
+T3	ontology_term 172 182	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

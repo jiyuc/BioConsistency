@@ -1,0 +1,14 @@
+T1	ontology_term 41 62	centriole duplication
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007099	
+T2	ontology_term 66 75	regulated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 188 199	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	
+T4	ontology_term 207 217	interphase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051325	
+T5	ontology_term 227 250	centriole amplification
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0098535	
+T6	ontology_term 260 274	phosphorylated
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016310	
+T7	ontology_term 341 362	centriole duplication
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0007099	

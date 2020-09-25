@@ -1,0 +1,4 @@
+T1	ontology_term 90 111	transcription factors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 144 160	immune responses
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006955	

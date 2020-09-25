@@ -1,0 +1,8 @@
+T1	ontology_term 14 50	glycine N-methyltransferase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0017174	
+T2	ontology_term 91 101	regulation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 105 111	methyl
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032259	
+T4	ontology_term 118 128	metabolism
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008152	

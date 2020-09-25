@@ -1,0 +1,4 @@
+T1	ontology_term 0 23	Starch-branching enzyme
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003844	
+T2	ontology_term 57 76	starch biosynthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019252	

@@ -1,0 +1,4 @@
+T1	ontology_term 355 359	pore
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046930	
+T2	ontology_term 412 426	K+ conductance
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006813	

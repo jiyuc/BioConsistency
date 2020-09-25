@@ -1,0 +1,4 @@
+T1	ontology_term 18 23	SNARE
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005484	
+T2	ontology_term 68 75	SNAP-25
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005484	

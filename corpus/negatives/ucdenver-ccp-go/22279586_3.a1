@@ -1,0 +1,16 @@
+T1	ontology_term 35 43	exchange
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015297	
+T2	ontology_term 87 96	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	
+T3	ontology_term 125 134	sensitive
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046960	
+T4	ontology_term 157 173	seed germination
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009845	
+T5	ontology_term 193 199	growth
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0040007	
+T6	ontology_term 248 254	efflux
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0140352	
+T7	ontology_term 248 254	efflux
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0140115	
+T8	ontology_term 259 273	salt tolerance
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0042538	

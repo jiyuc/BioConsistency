@@ -1,0 +1,14 @@
+T1	ontology_term 120 138	chromosome pairing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007129	
+T2	ontology_term 243 282	regulation of sister chromatid cohesion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007063	
+T3	ontology_term 284 292	telomere
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000781	
+T4	ontology_term 293 310	bouquet formation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0045141	
+T5	ontology_term 327 335	synapsis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007129	
+T6	ontology_term 337 348	microtubule
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005874	
+T7	ontology_term 441 449	prophase
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0051324	

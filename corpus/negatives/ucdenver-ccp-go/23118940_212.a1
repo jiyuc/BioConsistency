@@ -1,0 +1,18 @@
+T1	ontology_term 45 54	regulated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 78 87	regulated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 143 156	ABA signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009738	
+T4	ontology_term 170 177	binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005488	
+T5	ontology_term 195 202	binding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005488	
+T6	ontology_term 272 279	binding
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005488	
+T7	ontology_term 392 420	transcription factor binding
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0008134	
+T8	ontology_term 442 449	binding
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005488	
+T9	ontology_term 494 510	circadian rhythm
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0007623	

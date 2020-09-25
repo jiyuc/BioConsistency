@@ -1,0 +1,6 @@
+T1	ontology_term 30 34	EGFR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005006	
+T2	ontology_term 44 60	kinase inhibitor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033673	
+T3	ontology_term 75 78	ERK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	

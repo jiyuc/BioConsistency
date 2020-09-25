@@ -1,0 +1,12 @@
+T1	ontology_term 61 76	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 77 89	localization
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 177 188	Golgi stack
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005795	
+T4	ontology_term 193 214	intra-Golgi transport
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006891	
+T5	ontology_term 236 256	post-Golgi transport
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006892	
+T6	ontology_term 264 276	cell surface
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009986	

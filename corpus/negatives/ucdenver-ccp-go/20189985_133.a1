@@ -1,0 +1,6 @@
+T1	ontology_term 39 50	IP3 binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070679	
+T2	ontology_term 61 70	membranes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 121 130	membranes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	

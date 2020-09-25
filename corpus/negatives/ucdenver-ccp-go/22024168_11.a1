@@ -1,0 +1,10 @@
+T1	ontology_term 46 54	regulate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 55 74	spindle orientation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051294	
+T3	ontology_term 82 106	asymmetric cell division
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008356	
+T4	ontology_term 82 106	asymmetric cell division
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008356	
+T5	ontology_term 131 140	localized
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051179	

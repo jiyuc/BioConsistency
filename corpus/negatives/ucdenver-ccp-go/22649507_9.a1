@@ -1,0 +1,6 @@
+T1	ontology_term 62 69	spliced
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045292	
+T2	ontology_term 70 80	transcript
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	
+T3	ontology_term 115 125	internodes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0033269	

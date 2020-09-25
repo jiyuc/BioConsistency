@@ -1,0 +1,16 @@
+T1	ontology_term 0 12	Mitochondria
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005739	
+T2	ontology_term 25 35	organelles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043226	
+T3	ontology_term 86 94	regulate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 104 112	cellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007349	
+T5	ontology_term 113 132	signaling processes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 113 132	signaling processes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	
+T7	ontology_term 154 165	homeostasis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0042592	
+T8	ontology_term 169 190	programmed cell death
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0012501	

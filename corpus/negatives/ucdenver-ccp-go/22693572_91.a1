@@ -1,0 +1,4 @@
+T1	ontology_term 11 28	Catalase Activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004096	
+T2	ontology_term 37 52	gene Expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	

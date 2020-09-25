@@ -1,0 +1,6 @@
+T1	ontology_term 41 65	protein ADP-ribosylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006471	
+T2	ontology_term 87 95	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 126 134	exchange
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0015297	

@@ -1,0 +1,6 @@
+T1	ontology_term 53 62	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 79 90	microtubule
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005874	
+T3	ontology_term 101 111	interphase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051325	

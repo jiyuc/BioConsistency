@@ -1,0 +1,4 @@
+T1	ontology_term 6 10	RdDM
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0080188	
+T2	ontology_term 54 67	transcription
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

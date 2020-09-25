@@ -1,0 +1,4 @@
+T1	ontology_term 39 97	extracellular signal-regulated kinase 1/2 (ERK1/2) cascade
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070371	
+T2	ontology_term 105 134	regulation of gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010468	

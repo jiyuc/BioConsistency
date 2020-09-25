@@ -1,0 +1,10 @@
+T1	ontology_term 15 31	ABC transporters
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140359	
+T2	ontology_term 60 84	glutathione transporters
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0034635	
+T3	ontology_term 101 116	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	
+T4	ontology_term 142 151	transport
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006810	
+T5	ontology_term 193 203	conjugates
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000746	

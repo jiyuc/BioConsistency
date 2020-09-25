@@ -1,0 +1,6 @@
+T1	ontology_term 53 62	ubiquitin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031386	
+T2	ontology_term 87 101	ubiquitination
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 106 117	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	

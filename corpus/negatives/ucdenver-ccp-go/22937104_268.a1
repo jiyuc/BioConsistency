@@ -1,0 +1,6 @@
+T1	ontology_term 16 36	transcription factor
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 59 77	shoot regeneration
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0062210	
+T3	ontology_term 86 101	transcriptional
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006351	

@@ -1,0 +1,4 @@
+T1	ontology_term 0 12	Transcytosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045056	
+T2	ontology_term 91 99	sulphate
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051923	

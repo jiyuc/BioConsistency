@@ -1,0 +1,6 @@
+T1	ontology_term 50 64	cAMP synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006171	
+T2	ontology_term 157 160	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004691	
+T3	ontology_term 157 160	PKA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005952	

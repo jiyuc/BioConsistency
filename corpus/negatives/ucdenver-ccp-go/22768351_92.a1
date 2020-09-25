@@ -1,0 +1,4 @@
+T1	ontology_term 12 16	RNAi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 47 56	sensitive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

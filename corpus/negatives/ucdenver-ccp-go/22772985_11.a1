@@ -1,0 +1,6 @@
+T1	ontology_term 136 145	localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 149 161	Cajal bodies
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015030	
+T3	ontology_term 169 176	nucleus
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005634	

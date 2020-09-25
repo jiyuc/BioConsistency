@@ -1,0 +1,6 @@
+T1	ontology_term 32 55	riboflavin transporters
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032218	
+T2	ontology_term 82 95	transmembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0044214	
+T3	ontology_term 82 95	transmembrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016021	

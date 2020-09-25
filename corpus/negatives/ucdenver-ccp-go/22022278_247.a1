@@ -1,0 +1,8 @@
+T1	ontology_term 75 92	replication forks
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005657	
+T2	ontology_term 120 128	S phases
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051320	
+T3	ontology_term 120 128	S phases
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051320	
+T4	ontology_term 138 159	embryonic development
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009790	

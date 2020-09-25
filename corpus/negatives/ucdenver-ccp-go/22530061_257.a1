@@ -1,0 +1,4 @@
+T1	ontology_term 20 27	secrete
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046903	
+T2	ontology_term 90 99	dendrites
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030425	

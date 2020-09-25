@@ -1,0 +1,4 @@
+T1	ontology_term 25 34	dendritic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030425	
+T2	ontology_term 78 84	axonal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030424	

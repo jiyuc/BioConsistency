@@ -1,0 +1,12 @@
+T1	ontology_term 42 49	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 86 107	lysosome localization
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032418	
+T3	ontology_term 108 114	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 108 114	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 130 138	localize
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051179	
+T6	ontology_term 151 159	lysosome
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005764	

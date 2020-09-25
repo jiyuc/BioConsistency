@@ -1,0 +1,4 @@
+T1	ontology_term 48 53	binds
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 61 75	phosphorylates
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	

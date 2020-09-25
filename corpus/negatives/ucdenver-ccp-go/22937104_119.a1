@@ -1,0 +1,4 @@
+T1	ontology_term 69 78	sequester
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051235	
+T2	ontology_term 98 107	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	

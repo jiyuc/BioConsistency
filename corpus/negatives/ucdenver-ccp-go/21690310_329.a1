@@ -1,0 +1,6 @@
+T1	ontology_term 37 49	fibrillation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0099512	
+T2	ontology_term 85 95	chromosome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005694	
+T3	ontology_term 110 120	chromosome
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005694	

@@ -1,0 +1,10 @@
+T1	ontology_term 36 44	regulate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 45 60	gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	
+T3	ontology_term 64 71	binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 122 129	regions
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003002	
+T5	ontology_term 197 216	protein translation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006412	

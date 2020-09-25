@@ -1,0 +1,14 @@
+T1	ontology_term 9 21	DNA fragment
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006309	
+T2	ontology_term 35 41	signal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 35 41	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 50 56	region
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003002	
+T5	ontology_term 80 89	anchoring
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0043495	
+T6	ontology_term 205 208	CCC
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0030896	
+T7	ontology_term 209 212	CCC
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0030896	

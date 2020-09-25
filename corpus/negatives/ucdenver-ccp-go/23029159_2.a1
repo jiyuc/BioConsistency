@@ -1,0 +1,8 @@
+T1	ontology_term 97 102	binds
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 107 120	intracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	
+T3	ontology_term 147 170	epidermal growth factor
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005154	
+T4	ontology_term 181 185	EGFR
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005006	

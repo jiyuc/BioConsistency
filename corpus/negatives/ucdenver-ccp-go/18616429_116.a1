@@ -1,0 +1,14 @@
+T1	ontology_term 30 42	glycosylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070085	
+T2	ontology_term 77 94	core-glycosylated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033577	
+T3	ontology_term 127 140	glycosylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0070085	
+T4	ontology_term 173 186	glycosylation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0070085	
+T5	ontology_term 243 260	core-glycosylated
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0033577	
+T6	ontology_term 304 317	glycosylation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0070085	
+T7	ontology_term 340 353	glycosylation
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0070085	

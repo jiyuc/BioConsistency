@@ -1,0 +1,8 @@
+T1	ontology_term 56 63	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 72 75	CBP
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008140	
+T3	ontology_term 144 159	transcriptional
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006351	
+T4	ontology_term 200 217	protein stability
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0050821	

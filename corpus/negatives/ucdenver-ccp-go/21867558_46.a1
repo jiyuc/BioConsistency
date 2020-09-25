@@ -1,0 +1,6 @@
+T1	ontology_term 35 44	flowering
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010228	
+T2	ontology_term 165 172	meiosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0140013	
+T3	ontology_term 165 172	meiosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051321	

@@ -1,0 +1,10 @@
+T1	ontology_term 49 62	axon guidance
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007411	
+T2	ontology_term 67 104	peripheral nervous system development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007422	
+T3	ontology_term 226 236	signalling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 226 236	signalling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 310 321	development
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0032502	

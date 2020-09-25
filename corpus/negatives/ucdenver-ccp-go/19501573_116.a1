@@ -1,0 +1,6 @@
+T1	ontology_term 0 22	Translation elongation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006414	
+T2	ontology_term 0 22	Translation elongation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006414	
+T3	ontology_term 69 75	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	

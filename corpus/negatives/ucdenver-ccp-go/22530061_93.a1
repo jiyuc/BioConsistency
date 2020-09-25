@@ -1,0 +1,26 @@
+T1	ontology_term 117 126	symporter
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015293	
+T2	ontology_term 244 257	transmembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0044214	
+T3	ontology_term 244 257	transmembrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016021	
+T4	ontology_term 319 339	transcription factor
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000981	
+T5	ontology_term 383 395	mRNA binding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0003729	
+T6	ontology_term 456 476	transcription factor
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000981	
+T7	ontology_term 769 785	Vinculin binding
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0017166	
+T8	ontology_term 787 800	cell adhesion
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0007155	
+T9	ontology_term 998 1010	mRNA binding
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0003729	
+T10	ontology_term 1121 1132	DNA-binding
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0003677	
+T11	ontology_term 1253 1264	RNA binding
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0003723	
+T12	ontology_term 1265 1281	protein/splicing
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0030908	
+T13	ontology_term 1282 1291	regulator
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0065007	

@@ -1,0 +1,4 @@
+T1	ontology_term 10 14	PI3K
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016303	
+T2	ontology_term 29 45	seed germination
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009845	

@@ -1,0 +1,12 @@
+T1	ontology_term 82 86	RNAi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 127 133	signal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 127 133	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 141 151	centromere
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000775	
+T5	ontology_term 264 273	retention
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051235	
+T6	ontology_term 297 308	centromeres
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000775	

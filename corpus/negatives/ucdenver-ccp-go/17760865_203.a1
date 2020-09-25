@@ -1,0 +1,8 @@
+T1	ontology_term 65 80	nerve terminals
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044306	
+T2	ontology_term 143 156	TRH activates
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008437	
+T3	ontology_term 245 260	nerve terminals
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0044306	
+T4	ontology_term 324 335	cell bodies
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0044297	

@@ -1,0 +1,6 @@
+T1	ontology_term 78 90	kinetochores
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000776	
+T2	ontology_term 136 139	SAC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0071173	
+T3	ontology_term 136 139	SAC
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0035003	

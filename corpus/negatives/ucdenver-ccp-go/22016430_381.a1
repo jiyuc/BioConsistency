@@ -1,0 +1,4 @@
+T1	ontology_term 22 42	proteinase-inhibitor
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004866	
+T2	ontology_term 62 82	response to wounding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009611	

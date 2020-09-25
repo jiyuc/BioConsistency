@@ -1,0 +1,4 @@
+T1	ontology_term 214 220	region
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003002	
+T2	ontology_term 286 292	region
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	

@@ -1,0 +1,8 @@
+T1	ontology_term 112 126	ubiquitination
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031386	
+T2	ontology_term 148 154	signal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 148 154	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 191 202	degradation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009056	

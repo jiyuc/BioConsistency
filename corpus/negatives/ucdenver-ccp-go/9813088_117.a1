@@ -1,0 +1,6 @@
+T1	ontology_term 25 32	kinesin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003777	
+T2	ontology_term 149 164	central spindle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051233	
+T3	ontology_term 184 195	cytokinesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000910	

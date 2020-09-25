@@ -1,0 +1,6 @@
+T1	ontology_term 8 17	localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 56 62	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	
+T3	ontology_term 91 119	brassinosteroid biosynthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016132	

@@ -1,0 +1,4 @@
+T1	ontology_term 18 42	regulator of endocytosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030100	
+T2	ontology_term 71 79	exchange
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015297	

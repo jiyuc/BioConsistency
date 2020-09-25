@@ -1,0 +1,6 @@
+T1	ontology_term 57 80	skeletal muscle atrophy
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0014732	
+T2	ontology_term 208 226	biological process
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008150	
+T3	ontology_term 237 246	breakdown
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	

@@ -1,0 +1,4 @@
+T1	ontology_term 42 51	polysomes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005844	
+T2	ontology_term 76 85	polysomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005844	

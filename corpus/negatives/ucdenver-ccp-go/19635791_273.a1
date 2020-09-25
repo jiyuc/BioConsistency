@@ -1,0 +1,8 @@
+T1	ontology_term 118 129	transported
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006810	
+T2	ontology_term 141 153	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 166 175	cytosolic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005829	
+T4	ontology_term 230 239	TCA cycle
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006099	

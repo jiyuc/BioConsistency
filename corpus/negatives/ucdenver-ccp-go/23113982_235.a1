@@ -1,0 +1,6 @@
+T1	ontology_term 14 20	flower
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010228	
+T2	ontology_term 21 29	pigments
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043473	
+T3	ontology_term 35 44	formation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	

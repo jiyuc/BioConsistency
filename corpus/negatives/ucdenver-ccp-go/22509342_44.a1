@@ -1,0 +1,4 @@
+T1	ontology_term 50 67	short-term memory
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007614	
+T2	ontology_term 118 134	long-term memory
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007616	

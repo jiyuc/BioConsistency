@@ -1,0 +1,8 @@
+T1	ontology_term 20 39	locomotory behavior
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007626	
+T2	ontology_term 56 66	egg-laying
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0018991	
+T3	ontology_term 56 66	egg-laying
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0018991	
+T4	ontology_term 56 66	egg-laying
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007567	

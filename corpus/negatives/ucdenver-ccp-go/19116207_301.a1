@@ -1,0 +1,10 @@
+T1	ontology_term 28 31	RyR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1990425	
+T2	ontology_term 33 51	ryanodine receptor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005219	
+T3	ontology_term 87 100	intracellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005622	
+T4	ontology_term 151 172	endoplasmic reticulum
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005783	
+T5	ontology_term 327 342	plasma membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005886	

@@ -1,0 +1,8 @@
+T1	ontology_term 61 71	regulating
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 77 100	developmental processes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	
+T3	ontology_term 106 122	seed germination
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009845	
+T4	ontology_term 126 135	flowering
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0010228	

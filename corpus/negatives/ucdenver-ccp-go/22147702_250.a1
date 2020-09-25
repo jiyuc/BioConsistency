@@ -1,0 +1,6 @@
+T1	ontology_term 141 148	habitus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046959	
+T2	ontology_term 208 211	age
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007568	
+T3	ontology_term 208 211	age
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007568	

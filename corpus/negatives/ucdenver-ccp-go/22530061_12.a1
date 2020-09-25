@@ -1,0 +1,4 @@
+T1	ontology_term 21 36	genes expressed
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 179 188	behaviour
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007610	

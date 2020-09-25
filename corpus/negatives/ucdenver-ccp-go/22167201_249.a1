@@ -1,0 +1,6 @@
+T1	ontology_term 36 40	neck
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044326	
+T2	ontology_term 41 48	regions
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	
+T3	ontology_term 83 89	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	

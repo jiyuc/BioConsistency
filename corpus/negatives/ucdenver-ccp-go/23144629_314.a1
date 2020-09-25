@@ -1,0 +1,8 @@
+T1	ontology_term 0 9	Nucleolus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005730	
+T2	ontology_term 21 29	telomere
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000781	
+T3	ontology_term 61 79	meiotic chromosome
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000794	
+T4	ontology_term 80 88	synapsis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007129	

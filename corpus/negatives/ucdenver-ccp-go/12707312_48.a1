@@ -1,0 +1,4 @@
+T1	ontology_term 22 44	chromosome segregation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007059	
+T2	ontology_term 49 60	cytokinesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000910	

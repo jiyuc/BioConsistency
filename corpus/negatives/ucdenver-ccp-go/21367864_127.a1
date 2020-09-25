@@ -1,0 +1,10 @@
+T1	ontology_term 66 84	molecular function
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003674	
+T2	ontology_term 89 107	biological process
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008150	
+T3	ontology_term 114 122	cellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007349	
+T4	ontology_term 138 153	plasma membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005886	
+T5	ontology_term 157 164	nucleus
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005634	

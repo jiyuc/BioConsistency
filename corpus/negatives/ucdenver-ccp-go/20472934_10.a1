@@ -1,0 +1,8 @@
+T1	ontology_term 18 21	PKC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 67 80	cell adhesion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007155	
+T3	ontology_term 82 94	cytoskeleton
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005856	
+T4	ontology_term 131 144	transcription
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006351	

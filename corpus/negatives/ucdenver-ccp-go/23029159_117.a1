@@ -1,0 +1,4 @@
+T1	ontology_term 8 23	tissue secretes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032941	
+T2	ontology_term 44 62	signaling molecule
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0048018	

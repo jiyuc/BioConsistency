@@ -1,0 +1,10 @@
+T1	ontology_term 18 28	chromosome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005694	
+T2	ontology_term 33 40	spindle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005819	
+T3	ontology_term 57 65	anaphase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051322	
+T4	ontology_term 87 91	RNAi
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016246	
+T5	ontology_term 106 110	RNAi
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016246	

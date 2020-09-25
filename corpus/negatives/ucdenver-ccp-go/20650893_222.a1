@@ -1,0 +1,12 @@
+T1	ontology_term 64 87	proteasomal degradation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1903009	
+T2	ontology_term 89 103	ubiquitination
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 126 132	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 126 132	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 141 152	degradative
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009056	
+T6	ontology_term 172 180	membrane
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016020	

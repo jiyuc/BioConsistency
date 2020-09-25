@@ -1,0 +1,4 @@
+T1	ontology_term 0 22	Synaptonemal complexes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000795	
+T2	ontology_term 37 47	interphase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051325	

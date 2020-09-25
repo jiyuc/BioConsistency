@@ -1,0 +1,4 @@
+T1	ontology_term 22 26	tRNA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030533	
+T2	ontology_term 136 140	tRNA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030533	

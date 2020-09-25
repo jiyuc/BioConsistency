@@ -1,0 +1,4 @@
+T1	ontology_term 48 59	phosphatase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 123 138	phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	

@@ -1,0 +1,12 @@
+T1	ontology_term 0 13	Intracellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005622	
+T2	ontology_term 41 50	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	
+T3	ontology_term 189 202	transmembrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0044214	
+T4	ontology_term 189 202	transmembrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016021	
+T5	ontology_term 222 243	endoplasmic reticulum
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005783	
+T6	ontology_term 271 280	formation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009058	

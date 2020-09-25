@@ -1,0 +1,6 @@
+T1	ontology_term 0 19	Chromosome synapsis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007129	
+T2	ontology_term 52 71	transverse filament
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000802	
+T3	ontology_term 117 137	synaptonemal complex
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000795	

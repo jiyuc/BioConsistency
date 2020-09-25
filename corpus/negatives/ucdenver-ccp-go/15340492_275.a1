@@ -1,0 +1,4 @@
+T1	ontology_term 36 55	beta-catenin, binds
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008013	
+T2	ontology_term 72 79	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	

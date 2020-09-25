@@ -1,0 +1,8 @@
+T1	ontology_term 8 17	symbiosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044403	
+T2	ontology_term 22 31	parasites
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0044403	
+T3	ontology_term 35 53	calcium signalling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0019722	
+T4	ontology_term 35 53	calcium signalling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019722	

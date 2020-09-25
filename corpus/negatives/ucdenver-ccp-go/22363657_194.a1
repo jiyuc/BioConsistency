@@ -1,0 +1,12 @@
+T1	ontology_term 37 42	lysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019835	
+T2	ontology_term 64 85	luciferase activities
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045289	
+T3	ontology_term 64 85	luciferase activities
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0047077	
+T4	ontology_term 64 85	luciferase activities
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0047712	
+T5	ontology_term 64 85	luciferase activities
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0050248	
+T6	ontology_term 64 85	luciferase activities
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0050397	

@@ -1,0 +1,4 @@
+T1	ontology_term 20 33	protein binds
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005515	
+T2	ontology_term 118 133	transcriptional
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

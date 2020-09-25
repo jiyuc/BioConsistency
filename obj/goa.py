@@ -134,8 +134,40 @@ class GOA:
                 goa_list.append(goa)
             return goa_list
 
+class Brat:
+    def __init__(self):
+        self.spans = None
+        self.type = None
+        self.go_term = None
+        self.go_id = None
 
+    def fromstring(self,s):
+        if not s:
+            return None
 
+        brat = Brat()
+        for sub in s:
+            sub = sub.split('\t')
+            brat.type = sub[0]
+            if 'T' in brat.type:
+                brat.go_term = sub[2]
+                brat.span = (int(sub[1].split(' ')[1]),int(sub[1].split(' ')[2]))
+            elif 'N' in brat.type:
+                brat.go_id = 'GO:'+sub[1].split('obo/GO_')[1]
+        return brat
+
+    def get_potential_go_ids(self,file):
+        go_ids = set()
+        file = '/Users/jiyuc/Documents/GitHub/bio/corpus/negatives/ucdenver-ccp-go/{}.a1'.format(file)
+        with open(file,'r', encoding='utf-8') as fp:
+            for line in fp:
+                annotation = line.strip().split('\t')
+                if 'N' in annotation[0]:
+                    go_ids.add('GO:'+annotation[1].split('obo/GO_')[1])
+                else:
+                    continue
+            fp.close()
+        return go_ids
 
 
 if __name__ == '__main__':

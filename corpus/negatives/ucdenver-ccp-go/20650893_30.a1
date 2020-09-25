@@ -1,0 +1,10 @@
+T1	ontology_term 24 33	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 24 33	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 71 86	transactivation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_2000144	
+T4	ontology_term 90 93	EGF
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005154	
+T5	ontology_term 162 172	regulation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0065007	

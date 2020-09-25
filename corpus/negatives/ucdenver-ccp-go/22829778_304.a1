@@ -1,0 +1,4 @@
+T1	ontology_term 98 109	periplasmic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042597	
+T2	ontology_term 134 159	murein hydrolase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0103028	

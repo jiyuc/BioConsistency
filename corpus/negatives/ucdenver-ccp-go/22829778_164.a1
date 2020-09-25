@@ -1,0 +1,14 @@
+T1	ontology_term 15 32	protein synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006412	
+T2	ontology_term 97 106	metabolic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008152	
+T3	ontology_term 131 147	stationary phase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0070314	
+T4	ontology_term 131 147	stationary phase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0072690	
+T5	ontology_term 223 239	stationary phase
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0070314	
+T6	ontology_term 223 239	stationary phase
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0072690	
+T7	ontology_term 296 305	ribosomes
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005840	

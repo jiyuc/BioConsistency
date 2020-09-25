@@ -1,0 +1,8 @@
+T1	ontology_term 83 96	axon guidance
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007411	
+T2	ontology_term 116 126	cell death
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008219	
+T3	ontology_term 145 154	autophagy
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006914	
+T4	ontology_term 145 154	autophagy
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016236	

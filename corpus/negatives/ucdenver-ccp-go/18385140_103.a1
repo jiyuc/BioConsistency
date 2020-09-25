@@ -1,0 +1,6 @@
+T1	ontology_term 70 82	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 99 111	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 186 198	mitochondria
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005739	

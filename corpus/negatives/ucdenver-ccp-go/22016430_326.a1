@@ -1,0 +1,10 @@
+T1	ontology_term 110 116	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 269 286	drought tolerance
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009819	
+T3	ontology_term 269 286	drought tolerance
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009414	
+T4	ontology_term 313 330	drought tolerance
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009819	
+T5	ontology_term 313 330	drought tolerance
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009414	

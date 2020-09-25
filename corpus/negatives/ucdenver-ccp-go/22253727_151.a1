@@ -1,0 +1,8 @@
+T1	ontology_term 51 60	regulates
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 72 91	histone methylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016571	
+T3	ontology_term 141 154	gametogenesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007276	
+T4	ontology_term 141 154	gametogenesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0048229	

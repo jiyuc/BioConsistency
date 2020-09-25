@@ -1,0 +1,8 @@
+T1	ontology_term 8 26	core glycosylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0033577	
+T2	ontology_term 129 137	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 151 157	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	
+T4	ontology_term 179 187	membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016020	

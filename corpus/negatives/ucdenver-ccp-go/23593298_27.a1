@@ -1,0 +1,6 @@
+T1	ontology_term 66 73	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 115 124	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	
+T3	ontology_term 128 141	intracellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005622	

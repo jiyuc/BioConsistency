@@ -1,0 +1,4 @@
+T1	ontology_term 15 21	furrow
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097610	
+T2	ontology_term 57 63	furrow
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097610	

@@ -1,0 +1,6 @@
+T1	ontology_term 56 75	extracellular space
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005615	
+T2	ontology_term 163 170	vesicle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031982	
+T3	ontology_term 194 201	boutons
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043195	

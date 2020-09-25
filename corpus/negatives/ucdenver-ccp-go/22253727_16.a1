@@ -1,0 +1,6 @@
+T1	ontology_term 71 86	innate immunity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045087	
+T2	ontology_term 91 104	cell division
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051301	
+T3	ontology_term 185 196	catabolizes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	

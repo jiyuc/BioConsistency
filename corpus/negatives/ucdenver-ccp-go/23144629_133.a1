@@ -1,0 +1,10 @@
+T1	ontology_term 63 74	chromosomes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005694	
+T2	ontology_term 130 137	signals
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 130 137	signals
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 244 251	signals
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 244 251	signals
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	

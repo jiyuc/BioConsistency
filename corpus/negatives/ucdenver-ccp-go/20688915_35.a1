@@ -1,0 +1,8 @@
+T1	ontology_term 50 59	regulator
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 63 68	SNARE
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005484	
+T3	ontology_term 79 94	membrane fusion
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0061025	
+T4	ontology_term 175 184	regulator
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0065007	

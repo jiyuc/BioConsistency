@@ -1,0 +1,4 @@
+T1	ontology_term 137 155	proximal dendritic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1990635	
+T2	ontology_term 156 163	regions
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	

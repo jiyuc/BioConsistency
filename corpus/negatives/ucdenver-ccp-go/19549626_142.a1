@@ -1,0 +1,12 @@
+T1	ontology_term 31 42	transporter
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006810	
+T2	ontology_term 51 60	localized
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 160 166	efflux
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0140352	
+T4	ontology_term 160 166	efflux
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0140115	
+T5	ontology_term 175 186	transporter
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006810	
+T6	ontology_term 195 204	localized
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051179	

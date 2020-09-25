@@ -1,0 +1,4 @@
+T1	ontology_term 66 75	Nebenkern
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016006	
+T2	ontology_term 90 101	cytokinesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000910	

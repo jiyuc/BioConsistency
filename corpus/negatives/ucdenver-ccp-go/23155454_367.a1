@@ -1,0 +1,10 @@
+T1	ontology_term 57 77	transcription factor
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 83 92	regulates
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 97 106	formation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	
+T4	ontology_term 113 134	endoplasmic reticulum
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005783	
+T5	ontology_term 158 165	ER body
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0010168	

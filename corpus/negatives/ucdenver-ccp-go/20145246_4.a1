@@ -1,0 +1,4 @@
+T1	ontology_term 57 61	bind
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 76 99	gamma-secretase complex
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070765	

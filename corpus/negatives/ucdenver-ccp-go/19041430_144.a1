@@ -1,0 +1,8 @@
+T1	ontology_term 203 207	bind
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 236 243	F-actin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031941	
+T3	ontology_term 285 296	sensitivity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046960	
+T4	ontology_term 331 338	binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005488	

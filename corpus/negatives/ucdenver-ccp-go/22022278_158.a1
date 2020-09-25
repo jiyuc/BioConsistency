@@ -1,0 +1,4 @@
+T1	ontology_term 121 125	SDSA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045003	
+T2	ontology_term 133 149	hypersensitivity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0002524	

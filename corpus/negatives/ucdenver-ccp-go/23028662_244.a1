@@ -1,0 +1,4 @@
+T1	ontology_term 65 91	tuberous sclerosis complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0033596	
+T2	ontology_term 116 141	sensory organ development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007423	

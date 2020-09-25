@@ -1,0 +1,8 @@
+T1	ontology_term 61 66	cargo
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140355	
+T2	ontology_term 70 79	lysosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005764	
+T3	ontology_term 110 117	ligands
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 131 146	early endosomes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005769	

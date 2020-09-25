@@ -1,0 +1,6 @@
+T1	ontology_term 14 28	TRP activation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004167	
+T2	ontology_term 60 75	plasma membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005886	
+T3	ontology_term 84 97	intracellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005622	

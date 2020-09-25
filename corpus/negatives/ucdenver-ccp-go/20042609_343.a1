@@ -1,0 +1,6 @@
+T1	ontology_term 285 299	bone formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0001503	
+T2	ontology_term 324 328	PI3K
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016303	
+T3	ontology_term 370 387	inhibition of GSK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_1902948	

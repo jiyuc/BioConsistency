@@ -1,0 +1,4 @@
+T1	ontology_term 33 53	lipoxygenase pathway
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019372	
+T2	ontology_term 76 88	chloroplasts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	

@@ -1,0 +1,8 @@
+T1	ontology_term 30 47	mitogen-activated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045840	
+T2	ontology_term 71 76	MAPKK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004708	
+T3	ontology_term 244 259	kinase activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016301	
+T4	ontology_term 244 259	kinase activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0033674	

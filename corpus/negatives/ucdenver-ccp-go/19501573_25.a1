@@ -1,0 +1,4 @@
+T1	ontology_term 14 27	transcription
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 35 39	MT-1
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0047152	

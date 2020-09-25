@@ -1,0 +1,6 @@
+T1	ontology_term 22 29	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 63 70	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 134 139	binds
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	

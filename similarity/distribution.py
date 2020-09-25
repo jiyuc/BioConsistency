@@ -1,8 +1,13 @@
 import sent2vec
+import os
+import sys
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 from tool.preprocess import normalise
 from scipy.spatial import distance
 import glob
-from obj.instance import Instance
+from obj.goa import Brat
 
 class Retriever:
     """
@@ -30,7 +35,7 @@ class Retriever:
         return cosine_sim
 
     def sent2vec_retrieval(self,query,document,min_score=0):
-        if not query or query == '':
+        if not query or query.evidence.text == '':
             return []
         if not document:
             return []
@@ -38,11 +43,19 @@ class Retriever:
             return []
 
         sents = [s.evidence.text for s in document]
+
         scores = list()
         for i in range(len(sents)):
-
-            score = self.cosine_sim(query,sents[i])
+            try:
+                gos = Brat().get_potential_go_ids(document[i].annotation_id)
+            except FileNotFoundError: # no go term detected using conceptmapper, skip
+                continue
+            if query.goa.go_id not in gos:
+                continue
+            score = self.cosine_sim(query.evidence.text,sents[i])
             if score > min_score:
                 scores.append((round(score,2),document[i]))
-        return sorted(scores,reverse=True,key=lambda x:x[0])
+        if len(scores):
+            return sorted(scores,reverse=True,key=lambda x:x[0])
+        else: return []
 

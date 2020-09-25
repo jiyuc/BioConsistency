@@ -1,0 +1,24 @@
+T1	ontology_term 0 3	SAC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0071173	
+T2	ontology_term 0 3	SAC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0035003	
+T3	ontology_term 48 55	mitosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0140014	
+T4	ontology_term 48 55	mitosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000278	
+T5	ontology_term 61 68	budding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007114	
+T6	ontology_term 86 103	spindle assembles
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051225	
+T7	ontology_term 121 137	nuclear envelope
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005635	
+T8	ontology_term 199 215	nuclear envelope
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005635	
+T9	ontology_term 269 286	spindle formation
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0051225	
+T10	ontology_term 336 350	spindle matrix
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_1990047	
+T11	ontology_term 368 371	SAC
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0071173	
+T12	ontology_term 368 371	SAC
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0035003	

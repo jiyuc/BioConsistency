@@ -1,0 +1,4 @@
+T1	ontology_term 6 17	pollen tube
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0090406	
+T2	ontology_term 32 41	micropyle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070825	

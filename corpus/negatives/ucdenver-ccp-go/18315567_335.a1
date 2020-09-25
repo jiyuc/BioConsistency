@@ -1,0 +1,4 @@
+T1	ontology_term 85 105	dopamine transporter
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015872	
+T2	ontology_term 123 144	monoamine transporter
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015844	

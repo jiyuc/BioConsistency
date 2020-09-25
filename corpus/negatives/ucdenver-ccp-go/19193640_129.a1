@@ -1,0 +1,12 @@
+T1	ontology_term 42 51	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 80 89	endosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005768	
+T3	ontology_term 94 108	macropinosomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0044354	
+T4	ontology_term 118 133	plasma membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005886	
+T5	ontology_term 256 265	regulates
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0065007	
+T6	ontology_term 270 279	endosomal
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005768	

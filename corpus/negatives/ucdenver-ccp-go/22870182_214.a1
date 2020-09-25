@@ -1,0 +1,4 @@
+T1	ontology_term 38 55	xanthophyll cycle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010028	
+T2	ontology_term 112 125	acidification
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045851	

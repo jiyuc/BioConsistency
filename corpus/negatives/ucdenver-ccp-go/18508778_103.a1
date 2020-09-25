@@ -1,0 +1,10 @@
+T1	ontology_term 53 58	SNARE
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005484	
+T2	ontology_term 69 84	Membrane Fusion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0061025	
+T3	ontology_term 155 160	SNARE
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005484	
+T4	ontology_term 171 186	membrane fusion
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0061025	
+T5	ontology_term 266 276	exocytosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006887	

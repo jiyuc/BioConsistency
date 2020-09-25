@@ -1,0 +1,10 @@
+T1	ontology_term 0 16	Nuclear membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031965	
+T2	ontology_term 74 96	inner nuclear membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005637	
+T3	ontology_term 108 118	interphase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051325	
+T4	ontology_term 123 130	mitosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0140014	
+T5	ontology_term 123 130	mitosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000278	

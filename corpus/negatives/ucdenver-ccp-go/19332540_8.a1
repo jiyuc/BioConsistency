@@ -1,0 +1,8 @@
+T1	ontology_term 81 100	signal transduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007165	
+T2	ontology_term 109 112	JNK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004705	
+T3	ontology_term 210 241	mitochondrial respiratory chain
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005746	
+T4	ontology_term 266 280	ROS generation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_1903409	

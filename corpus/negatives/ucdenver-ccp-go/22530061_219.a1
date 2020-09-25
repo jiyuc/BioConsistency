@@ -1,0 +1,8 @@
+T1	ontology_term 61 72	behavioural
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007610	
+T2	ontology_term 103 113	phototaxis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042331	
+T3	ontology_term 115 123	geotaxis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042332	
+T4	ontology_term 125 131	flight
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0060361	

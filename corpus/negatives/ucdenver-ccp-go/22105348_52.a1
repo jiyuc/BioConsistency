@@ -1,0 +1,4 @@
+T1	ontology_term 10 22	terminal web
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1990357	
+T2	ontology_term 73 83	transports
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	

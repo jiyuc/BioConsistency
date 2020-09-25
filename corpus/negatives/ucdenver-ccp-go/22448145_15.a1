@@ -1,0 +1,4 @@
+T1	ontology_term 25 41	proteins, lipids
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006497	
+T2	ontology_term 97 109	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	

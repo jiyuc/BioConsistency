@@ -1,0 +1,12 @@
+T1	ontology_term 38 48	egg laying
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0018991	
+T2	ontology_term 38 48	egg laying
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0018991	
+T3	ontology_term 38 48	egg laying
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007567	
+T4	ontology_term 98 108	egg laying
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0018991	
+T5	ontology_term 98 108	egg laying
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0018991	
+T6	ontology_term 98 108	egg laying
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0007567	

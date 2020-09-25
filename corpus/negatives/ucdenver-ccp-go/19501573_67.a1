@@ -1,0 +1,4 @@
+T1	ontology_term 26 37	transcripts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 87 102	protein binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005515	

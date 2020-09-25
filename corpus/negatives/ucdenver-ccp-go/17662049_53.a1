@@ -1,0 +1,48 @@
+T1	ontology_term 207 215	antibody
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 207 215	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 207 215	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 207 215	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 303 313	antibodies
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0003823	
+T6	ontology_term 303 313	antibodies
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0019815	
+T7	ontology_term 303 313	antibodies
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0042571	
+T8	ontology_term 303 313	antibodies
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0019814	
+T9	ontology_term 411 421	antibodies
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0003823	
+T10	ontology_term 411 421	antibodies
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0042571	
+T11	ontology_term 411 421	antibodies
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0019814	
+T12	ontology_term 411 421	antibodies
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0019815	
+T13	ontology_term 535 543	antibody
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0003823	
+T14	ontology_term 535 543	antibody
+N14	Reference T14 http://purl.obolibrary.org/obo/GO_0019815	
+T15	ontology_term 535 543	antibody
+N15	Reference T15 http://purl.obolibrary.org/obo/GO_0042571	
+T16	ontology_term 535 543	antibody
+N16	Reference T16 http://purl.obolibrary.org/obo/GO_0019814	
+T17	ontology_term 595 603	antibody
+N17	Reference T17 http://purl.obolibrary.org/obo/GO_0003823	
+T18	ontology_term 595 603	antibody
+N18	Reference T18 http://purl.obolibrary.org/obo/GO_0042571	
+T19	ontology_term 595 603	antibody
+N19	Reference T19 http://purl.obolibrary.org/obo/GO_0019814	
+T20	ontology_term 595 603	antibody
+N20	Reference T20 http://purl.obolibrary.org/obo/GO_0019815	
+T21	ontology_term 715 725	antibodies
+N21	Reference T21 http://purl.obolibrary.org/obo/GO_0003823	
+T22	ontology_term 715 725	antibodies
+N22	Reference T22 http://purl.obolibrary.org/obo/GO_0042571	
+T23	ontology_term 715 725	antibodies
+N23	Reference T23 http://purl.obolibrary.org/obo/GO_0019814	
+T24	ontology_term 715 725	antibodies
+N24	Reference T24 http://purl.obolibrary.org/obo/GO_0019815	

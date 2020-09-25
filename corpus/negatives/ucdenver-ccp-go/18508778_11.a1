@@ -1,0 +1,12 @@
+T1	ontology_term 15 42	synaptic vesicle exocytosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016079	
+T2	ontology_term 50 55	SNARE
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005484	
+T3	ontology_term 103 110	vesicle
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031982	
+T4	ontology_term 122 130	membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016020	
+T5	ontology_term 161 167	SNAREs
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005484	
+T6	ontology_term 188 192	SNAP
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005483	

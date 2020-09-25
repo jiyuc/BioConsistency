@@ -1,0 +1,4 @@
+T1	ontology_term 122 134	vasodilation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042311	
+T2	ontology_term 223 232	sensitive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

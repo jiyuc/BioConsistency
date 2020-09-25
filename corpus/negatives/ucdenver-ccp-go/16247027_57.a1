@@ -1,0 +1,4 @@
+T1	ontology_term 33 36	PGL
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004598	
+T2	ontology_term 71 74	CAR
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005826	

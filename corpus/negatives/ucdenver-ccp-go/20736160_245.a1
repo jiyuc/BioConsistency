@@ -1,0 +1,4 @@
+T1	ontology_term 38 44	mTORC1
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031931	
+T2	ontology_term 159 174	phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	

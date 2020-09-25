@@ -1,0 +1,6 @@
+T1	ontology_term 28 50	chromosome congression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051310	
+T2	ontology_term 68 76	anaphase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051322	
+T3	ontology_term 121 131	proteasome
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000502	

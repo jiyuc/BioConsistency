@@ -1,0 +1,4 @@
+T1	ontology_term 20 29	ubiquitin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031386	
+T2	ontology_term 80 103	fluid-phase endocytosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006907	

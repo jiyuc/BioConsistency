@@ -1,0 +1,4 @@
+T1	ontology_term 36 43	ligands
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 48 57	cytosolic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005829	

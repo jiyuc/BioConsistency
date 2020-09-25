@@ -1,0 +1,4 @@
+T1	ontology_term 10 30	nuclear pore complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005643	
+T2	ontology_term 77 104	spindle assembly checkpoint
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0071173	

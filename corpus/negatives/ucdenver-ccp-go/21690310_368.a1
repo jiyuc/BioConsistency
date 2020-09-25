@@ -1,0 +1,4 @@
+T1	ontology_term 73 86	cell polarity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007163	
+T2	ontology_term 73 86	cell polarity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030010	

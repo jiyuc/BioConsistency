@@ -1,0 +1,8 @@
+T1	ontology_term 4 19	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 27 38	antiporters
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015297	
+T3	ontology_term 129 144	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	
+T4	ontology_term 145 156	proton pump
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005889	

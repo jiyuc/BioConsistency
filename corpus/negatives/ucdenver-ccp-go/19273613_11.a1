@@ -1,0 +1,16 @@
+T1	ontology_term 4 7	SAC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0071173	
+T2	ontology_term 4 7	SAC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0035003	
+T3	ontology_term 24 46	chromosome segregation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007059	
+T4	ontology_term 76 87	kinetochore
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000776	
+T5	ontology_term 108 115	spindle
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005819	
+T6	ontology_term 157 183	anaphase-promoting complex
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005680	
+T7	ontology_term 157 183	anaphase-promoting complex
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005680	
+T8	ontology_term 184 193	cyclosome
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005680	

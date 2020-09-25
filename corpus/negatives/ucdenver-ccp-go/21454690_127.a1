@@ -1,0 +1,6 @@
+T1	ontology_term 46 60	phosphorylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 183 197	vesicle fusion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006906	
+T3	ontology_term 207 222	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	

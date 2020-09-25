@@ -1,0 +1,6 @@
+T1	ontology_term 11 32	transcription factors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 180 193	proteins bind
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005515	
+T3	ontology_term 208 219	DNA-binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003677	

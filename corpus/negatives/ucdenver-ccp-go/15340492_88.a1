@@ -1,0 +1,4 @@
+T1	ontology_term 251 260	metabolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 286 297	degradation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009056	

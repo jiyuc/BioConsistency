@@ -1,0 +1,8 @@
+T1	ontology_term 28 47	microtubule bundles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097427	
+T2	ontology_term 28 47	microtubule bundles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0001578	
+T3	ontology_term 55 77	asymmetric cytokinesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008356	
+T4	ontology_term 55 77	asymmetric cytokinesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008356	

@@ -1,0 +1,6 @@
+T1	ontology_term 28 37	secretion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046903	
+T2	ontology_term 62 71	secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046903	
+T3	ontology_term 75 87	yolk protein
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0045735	

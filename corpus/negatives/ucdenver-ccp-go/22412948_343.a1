@@ -1,0 +1,4 @@
+T1	ontology_term 62 71	apoptosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097194	
+T2	ontology_term 62 71	apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006915	

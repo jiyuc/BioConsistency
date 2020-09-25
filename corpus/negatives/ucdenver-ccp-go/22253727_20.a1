@@ -1,0 +1,4 @@
+T1	ontology_term 12 18	ovules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030728	
+T2	ontology_term 101 121	pollen tube guidance
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010183	

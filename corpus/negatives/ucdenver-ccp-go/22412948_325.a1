@@ -1,0 +1,6 @@
+T1	ontology_term 0 20	Signalling molecules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048018	
+T2	ontology_term 22 39	growth regulators
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009725	
+T3	ontology_term 44 62	cell cycle control
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_1901987	

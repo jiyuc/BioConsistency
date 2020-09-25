@@ -1,0 +1,4 @@
+T1	ontology_term 32 44	mitochondria
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005739	
+T2	ontology_term 56 86	adenine nucleotide translocase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005471	

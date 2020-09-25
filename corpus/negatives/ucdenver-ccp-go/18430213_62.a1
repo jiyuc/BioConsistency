@@ -1,0 +1,6 @@
+T1	ontology_term 85 91	methyl
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032259	
+T2	ontology_term 232 237	crown
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070685	
+T3	ontology_term 316 327	pollination
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009856	

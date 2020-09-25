@@ -1,0 +1,4 @@
+T1	ontology_term 70 91	atrial depolarization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060371	
+T2	ontology_term 70 91	atrial depolarization
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098912	

@@ -1,0 +1,10 @@
+T1	ontology_term 28 31	FPS
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0047221	
+T2	ontology_term 32 47	gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	
+T3	ontology_term 132 135	FPS
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0047221	
+T4	ontology_term 149 165	seed development
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0048316	
+T5	ontology_term 294 297	FPS
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0047221	

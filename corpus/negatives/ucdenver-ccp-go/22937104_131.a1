@@ -1,0 +1,4 @@
+T1	ontology_term 11 22	pollination
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009856	
+T2	ontology_term 75 86	pollination
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009856	

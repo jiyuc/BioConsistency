@@ -1,0 +1,4 @@
+T1	ontology_term 0 15	Kinase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016301	
+T2	ontology_term 0 15	Kinase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033674	

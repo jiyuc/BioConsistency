@@ -1,0 +1,4 @@
+T1	ontology_term 99 108	fertility
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009566	
+T2	ontology_term 118 127	flowering
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010228	

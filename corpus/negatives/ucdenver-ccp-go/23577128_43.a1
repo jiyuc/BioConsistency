@@ -1,0 +1,4 @@
+T1	ontology_term 0 20	Male mating behavior
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060179	
+T2	ontology_term 62 72	locomotion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040011	

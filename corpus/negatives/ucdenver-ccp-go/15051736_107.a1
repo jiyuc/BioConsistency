@@ -1,0 +1,8 @@
+T1	ontology_term 33 44	innervation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060384	
+T2	ontology_term 78 99	synaptic transmission
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007268	
+T3	ontology_term 264 267	NMJ
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031594	
+T4	ontology_term 289 302	intracellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005622	

@@ -1,0 +1,4 @@
+T1	ontology_term 55 62	Vesicle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031982	
+T2	ontology_term 79 94	Plasma Membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005886	

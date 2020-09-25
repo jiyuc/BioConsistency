@@ -1,0 +1,10 @@
+T1	ontology_term 17 26	developed
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032502	
+T2	ontology_term 38 51	cell polarity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007163	
+T3	ontology_term 38 51	cell polarity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030010	
+T4	ontology_term 52 71	spindle orientation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051294	
+T5	ontology_term 169 188	spindle orientation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051294	

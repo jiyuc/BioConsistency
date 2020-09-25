@@ -1,0 +1,4 @@
+T1	ontology_term 116 126	glycolysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006096	
+T2	ontology_term 127 136	sensitive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

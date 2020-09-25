@@ -1,0 +1,4 @@
+T1	ontology_term 57 80	fatty acid biosynthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006633	
+T2	ontology_term 268 283	gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	

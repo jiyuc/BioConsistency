@@ -1,0 +1,4 @@
+T1	ontology_term 20 29	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 35 43	glycosyl
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070085	

@@ -1,0 +1,10 @@
+T1	ontology_term 39 54	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 79 88	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	
+T3	ontology_term 92 107	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 111 114	PKC
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004697	
+T5	ontology_term 126 133	binding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005488	

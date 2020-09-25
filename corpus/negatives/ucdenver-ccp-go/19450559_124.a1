@@ -1,0 +1,4 @@
+T1	ontology_term 24 28	IL-6
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005138	
+T2	ontology_term 44 60	interferon-gamma
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005133	

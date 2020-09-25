@@ -1,0 +1,8 @@
+T1	ontology_term 52 64	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 84 93	nucleolus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005730	
+T3	ontology_term 132 144	localization
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051179	
+T4	ontology_term 152 162	centromere
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000775	

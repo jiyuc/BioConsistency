@@ -1,0 +1,28 @@
+T1	ontology_term 14 24	antibodies
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 14 24	antibodies
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 14 24	antibodies
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 14 24	antibodies
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 116 128	mitochondria
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005739	
+T6	ontology_term 229 241	cytochrome c
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0045155	
+T7	ontology_term 353 357	SAPK
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0004707	
+T8	ontology_term 358 361	JNK
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0004705	
+T9	ontology_term 368 377	Signaling
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0023052	
+T10	ontology_term 368 377	Signaling
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0023052	
+T11	ontology_term 394 398	SAPK
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0004707	
+T12	ontology_term 399 402	JNK
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0004705	
+T13	ontology_term 409 418	Signaling
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0023052	
+T14	ontology_term 409 418	Signaling
+N14	Reference T14 http://purl.obolibrary.org/obo/GO_0023052	

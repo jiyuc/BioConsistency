@@ -1,0 +1,14 @@
+T1	ontology_term 12 18	ovules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030728	
+T2	ontology_term 52 79	protein disulfide isomerase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003756	
+T3	ontology_term 123 143	pollen tube guidance
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010183	
+T4	ontology_term 200 220	pollen tube guidance
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0010183	
+T5	ontology_term 221 227	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 221 227	signal
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	
+T7	ontology_term 256 262	ovules
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0030728	

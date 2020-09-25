@@ -1,0 +1,4 @@
+T1	ontology_term 100 105	lysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019835	
+T2	ontology_term 161 166	lysis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019835	

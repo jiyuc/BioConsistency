@@ -1,0 +1,8 @@
+T1	ontology_term 49 63	phosphorylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 101 114	cell adhesion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007155	
+T3	ontology_term 149 163	PKC activation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_1990051	
+T4	ontology_term 149 163	PKC activation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004697	

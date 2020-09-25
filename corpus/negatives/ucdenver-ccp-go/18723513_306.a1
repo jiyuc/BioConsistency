@@ -1,0 +1,22 @@
+T1	ontology_term 33 53	postsynaptic density
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0014069	
+T2	ontology_term 59 68	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 76 93	GTPase activating
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003924	
+T4	ontology_term 109 114	spine
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0044309	
+T5	ontology_term 126 147	Rap GTPase activating
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0090630	
+T6	ontology_term 189 198	ubiquitin
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0031386	
+T7	ontology_term 199 217	proteasome pathway
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0043161	
+T8	ontology_term 199 217	proteasome pathway
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0043161	
+T9	ontology_term 293 296	SCF
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0005173	
+T10	ontology_term 402 406	RNAi
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0016246	
+T11	ontology_term 486 495	ubiquitin
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0031386	

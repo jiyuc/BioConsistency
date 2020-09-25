@@ -1,0 +1,8 @@
+T1	ontology_term 93 99	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 104 115	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	
+T3	ontology_term 232 239	regions
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	
+T4	ontology_term 318 328	metabolism
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008152	

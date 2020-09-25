@@ -1,0 +1,4 @@
+T1	ontology_term 61 71	behavioral
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007610	
+T2	ontology_term 122 135	sensitivities
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

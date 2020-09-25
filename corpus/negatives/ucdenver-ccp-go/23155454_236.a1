@@ -1,0 +1,6 @@
+T1	ontology_term 36 51	protein complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032991	
+T2	ontology_term 92 101	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	
+T3	ontology_term 188 198	organelles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043226	

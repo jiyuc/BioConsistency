@@ -1,0 +1,8 @@
+T1	ontology_term 52 58	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 101 105	EGFR
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005006	
+T3	ontology_term 125 129	EGFR
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005006	
+T4	ontology_term 152 156	FGFR
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005007	

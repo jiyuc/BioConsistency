@@ -1,0 +1,6 @@
+T1	ontology_term 74 84	transcript
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 257 272	transcriptional
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	
+T3	ontology_term 273 283	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

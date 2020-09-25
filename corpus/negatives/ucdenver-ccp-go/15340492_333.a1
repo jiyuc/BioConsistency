@@ -1,0 +1,4 @@
+T1	ontology_term 13 33	apoptotic cell death
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006915	
+T2	ontology_term 46 52	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	

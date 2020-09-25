@@ -1,0 +1,8 @@
+T1	ontology_term 32 41	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 89 110	dehydrogenase complex
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010240	
+T3	ontology_term 172 175	ACS
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043884	
+T4	ontology_term 172 175	ACS
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003987	

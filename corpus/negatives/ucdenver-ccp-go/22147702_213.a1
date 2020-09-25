@@ -1,0 +1,6 @@
+T1	ontology_term 15 29	proton-pumping
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005889	
+T2	ontology_term 42 52	organelles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043226	
+T3	ontology_term 101 111	organelles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043226	

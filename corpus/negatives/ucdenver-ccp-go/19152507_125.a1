@@ -1,0 +1,4 @@
+T1	ontology_term 4 17	NADPH-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070402	
+T2	ontology_term 117 126	membranes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	

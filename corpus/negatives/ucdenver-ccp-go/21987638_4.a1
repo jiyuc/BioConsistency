@@ -1,0 +1,6 @@
+T1	ontology_term 0 11	Centrosomes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005813	
+T2	ontology_term 26 48	microtubule-nucleating
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007020	
+T3	ontology_term 116 137	mitotic spindle poles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0097431	

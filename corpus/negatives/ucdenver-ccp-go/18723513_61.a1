@@ -1,0 +1,8 @@
+T1	ontology_term 26 39	protein binds
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005515	
+T2	ontology_term 80 89	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 101 110	ubiquitin
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031386	
+T4	ontology_term 111 122	conjugating
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000746	

@@ -1,0 +1,4 @@
+T1	ontology_term 0 15	Protein folding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006457	
+T2	ontology_term 146 161	protein folding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006457	

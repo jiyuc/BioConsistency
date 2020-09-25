@@ -1,0 +1,4 @@
+T1	ontology_term 41 53	pigmentation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043473	
+T2	ontology_term 129 149	cytosine methylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032776	

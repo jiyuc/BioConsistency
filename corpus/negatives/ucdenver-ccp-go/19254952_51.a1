@@ -1,0 +1,4 @@
+T1	ontology_term 0 13	DNA Synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0071897	
+T2	ontology_term 14 27	DNA synthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0071897	

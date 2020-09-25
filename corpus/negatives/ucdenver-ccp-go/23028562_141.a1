@@ -1,0 +1,4 @@
+T1	ontology_term 37 49	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 65 77	cell surface
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009986	

@@ -1,0 +1,8 @@
+T1	ontology_term 15 18	ERK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 92 101	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	
+T3	ontology_term 111 114	ERK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	
+T4	ontology_term 162 169	nucleus
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005634	

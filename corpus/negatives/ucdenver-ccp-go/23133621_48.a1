@@ -1,0 +1,8 @@
+T1	ontology_term 29 37	spectrin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008091	
+T2	ontology_term 239 246	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 259 273	phosphorylated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 349 355	region
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003002	

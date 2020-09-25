@@ -1,0 +1,6 @@
+T1	ontology_term 49 59	ICL repair
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0036297	
+T2	ontology_term 70 86	hypersensitivity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0002524	
+T3	ontology_term 162 166	RNAi
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016246	

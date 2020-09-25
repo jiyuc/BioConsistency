@@ -1,0 +1,6 @@
+T1	ontology_term 40 49	developed
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032502	
+T2	ontology_term 145 159	cAMP signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019933	
+T3	ontology_term 145 159	cAMP signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0019933	

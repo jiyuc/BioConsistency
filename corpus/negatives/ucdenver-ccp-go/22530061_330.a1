@@ -1,0 +1,4 @@
+T1	ontology_term 2 14	DNA fragment
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006309	
+T2	ontology_term 148 159	translation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006412	

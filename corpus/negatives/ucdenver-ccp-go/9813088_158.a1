@@ -1,0 +1,8 @@
+T1	ontology_term 85 98	phosphorylate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 130 133	APC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005680	
+T3	ontology_term 205 217	mitotic exit
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010458	
+T4	ontology_term 223 229	cyclin
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016538	

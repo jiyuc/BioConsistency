@@ -1,0 +1,6 @@
+T1	ontology_term 11 20	furrowing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097610	
+T2	ontology_term 52 61	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 52 61	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	

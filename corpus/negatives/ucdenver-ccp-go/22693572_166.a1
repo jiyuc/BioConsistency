@@ -1,0 +1,4 @@
+T1	ontology_term 143 164	reverse transcription
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0001171	
+T2	ontology_term 211 222	transcripts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

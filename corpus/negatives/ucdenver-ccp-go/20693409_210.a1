@@ -1,0 +1,10 @@
+T1	ontology_term 49 52	CAT
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004096	
+T2	ontology_term 90 100	apoplastic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0048046	
+T3	ontology_term 139 152	chloroplastic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009507	
+T4	ontology_term 237 250	chloroplastic
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009507	
+T5	ontology_term 294 304	apoplastic
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0048046	

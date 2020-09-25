@@ -1,0 +1,10 @@
+T1	ontology_term 60 75	ABC transporter
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140359	
+T2	ontology_term 103 117	detoxification
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098754	
+T3	ontology_term 136 148	transporting
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006810	
+T4	ontology_term 152 162	conjugates
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000746	
+T5	ontology_term 172 179	vacuole
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005773	

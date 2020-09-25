@@ -1,0 +1,4 @@
+T1	ontology_term 12 32	secondary metabolism
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019748	
+T2	ontology_term 73 94	transcription factors
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000981	

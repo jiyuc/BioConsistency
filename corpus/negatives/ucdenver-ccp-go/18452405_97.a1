@@ -1,0 +1,6 @@
+T1	ontology_term 40 53	intracellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005622	
+T2	ontology_term 165 170	Golgi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005794	
+T3	ontology_term 252 262	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

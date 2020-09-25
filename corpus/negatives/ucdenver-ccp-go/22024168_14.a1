@@ -1,0 +1,18 @@
+T1	ontology_term 45 64	spindle orientation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051294	
+T2	ontology_term 109 128	spindle orientation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051294	
+T3	ontology_term 168 182	phosphorylated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 254 261	kinesin
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003777	
+T5	ontology_term 288 307	spindle orientation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051294	
+T6	ontology_term 374 379	binds
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005488	
+T7	ontology_term 400 406	dynein
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0003777	
+T8	ontology_term 407 423	dynactin complex
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005869	
+T9	ontology_term 433 452	spindle orientation
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0051294	

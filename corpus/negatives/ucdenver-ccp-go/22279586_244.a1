@@ -1,0 +1,12 @@
+T1	ontology_term 4 12	membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 26 35	transport
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	
+T3	ontology_term 54 62	vesicles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031982	
+T4	ontology_term 105 123	transport activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005215	
+T5	ontology_term 131 146	plasma membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005886	
+T6	ontology_term 160 169	tonoplast
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009705	

@@ -1,0 +1,12 @@
+T1	ontology_term 0 11	Conjugation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000746	
+T2	ontology_term 15 24	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 52 63	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	
+T4	ontology_term 71 81	proteasome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000502	
+T5	ontology_term 144 155	degradation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009056	
+T6	ontology_term 183 195	ubiquitinate
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0031386	

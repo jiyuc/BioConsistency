@@ -1,0 +1,6 @@
+T1	ontology_term 31 46	meiotic spindle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0072687	
+T2	ontology_term 54 65	chromosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005694	
+T3	ontology_term 228 237	formation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	

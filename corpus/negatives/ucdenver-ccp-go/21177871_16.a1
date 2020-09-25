@@ -1,0 +1,10 @@
+T1	ontology_term 6 10	bind
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 11 14	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004691	
+T3	ontology_term 11 14	PKA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005952	
+T4	ontology_term 99 106	binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005488	
+T5	ontology_term 153 159	groove
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0097610	

@@ -1,0 +1,16 @@
+T1	ontology_term 93 104	conjugating
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000746	
+T2	ontology_term 133 142	tonoplast
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009705	
+T3	ontology_term 143 154	ATP-binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005524	
+T4	ontology_term 165 182	ABC) transporters
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0140359	
+T5	ontology_term 186 198	transporting
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006810	
+T6	ontology_term 211 221	conjugates
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000746	
+T7	ontology_term 226 236	conjugates
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0000746	
+T8	ontology_term 247 254	vacuole
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005773	

@@ -1,0 +1,10 @@
+T1	ontology_term 10 36	responses  to thapsigargin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1904578	
+T2	ontology_term 81 94	extracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005576	
+T3	ontology_term 133 146	extracellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005576	
+T4	ontology_term 206 212	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 206 212	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	

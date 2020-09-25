@@ -1,0 +1,4 @@
+T1	ontology_term 11 30	Ryanodine Receptors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005219	
+T2	ontology_term 38 53	Plasma Membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005886	

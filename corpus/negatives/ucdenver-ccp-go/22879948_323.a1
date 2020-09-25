@@ -1,0 +1,8 @@
+T1	ontology_term 15 22	Activin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005160	
+T2	ontology_term 28 34	ligand
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 42 49	signals
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 42 49	signals
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	

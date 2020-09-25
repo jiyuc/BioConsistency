@@ -1,0 +1,6 @@
+T1	ontology_term 101 119	catalytic activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003824	
+T2	ontology_term 127 137	proteasome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000502	
+T3	ontology_term 214 237	proteasomal degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_1903009	

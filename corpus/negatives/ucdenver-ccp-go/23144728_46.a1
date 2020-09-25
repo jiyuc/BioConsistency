@@ -1,0 +1,4 @@
+T1	ontology_term 68 84	ABC transporters
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140359	
+T2	ontology_term 89 113	glutathione transporters
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0034635	

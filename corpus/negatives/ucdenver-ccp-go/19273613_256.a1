@@ -1,0 +1,12 @@
+T1	ontology_term 5 20	kinase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016301	
+T2	ontology_term 5 20	kinase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033674	
+T3	ontology_term 31 39	anaphase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051322	
+T4	ontology_term 62 69	mitosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0140014	
+T5	ontology_term 62 69	mitosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000278	
+T6	ontology_term 90 102	kinetochores
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000776	

@@ -1,0 +1,4 @@
+T1	ontology_term 29 36	meiosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140013	
+T2	ontology_term 29 36	meiosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051321	

@@ -1,0 +1,4 @@
+T1	ontology_term 23 34	RNA binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003723	
+T2	ontology_term 98 109	chloroplast
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	

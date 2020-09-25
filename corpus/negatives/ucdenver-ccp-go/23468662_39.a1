@@ -1,0 +1,4 @@
+T1	ontology_term 140 148	splicing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045292	
+T2	ontology_term 215 224	regulated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	

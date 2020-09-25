@@ -1,0 +1,4 @@
+T1	ontology_term 185 196	RNA-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003723	
+T2	ontology_term 210 218	splicing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045292	

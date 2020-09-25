@@ -1,0 +1,4 @@
+T1	ontology_term 125 143	pollen tube growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009860	
+T2	ontology_term 216 225	fertility
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009566	

@@ -1,0 +1,6 @@
+T1	ontology_term 49 62	mitochondrion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005739	
+T2	ontology_term 67 74	plastid
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009536	
+T3	ontology_term 183 192	metabolic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008152	

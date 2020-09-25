@@ -1,0 +1,6 @@
+T1	ontology_term 46 67	transcription factors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 68 78	regulating
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 89 115	glucosinolate biosynthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0019761	

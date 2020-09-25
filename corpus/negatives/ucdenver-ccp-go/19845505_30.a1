@@ -1,0 +1,18 @@
+T1	ontology_term 0 3	SRP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005786	
+T2	ontology_term 45 53	ribosome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005840	
+T3	ontology_term 69 75	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 69 75	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 76 82	anchor
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0043495	
+T6	ontology_term 141 149	ribosome
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005840	
+T7	ontology_term 157 164	binding
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005488	
+T8	ontology_term 189 195	signal
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0023052	
+T9	ontology_term 189 195	signal
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0023052	

@@ -1,0 +1,4 @@
+T1	ontology_term 50 61	protoplasts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005622	
+T2	ontology_term 89 106	activities of SOD
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1901671	

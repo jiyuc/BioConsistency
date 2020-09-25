@@ -1,0 +1,6 @@
+T1	ontology_term 10 20	thylakoids
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009579	
+T2	ontology_term 25 38	starch grains
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043036	
+T3	ontology_term 93 105	chloroplasts
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009507	

@@ -1,0 +1,6 @@
+T1	ontology_term 30 47	microsporogenesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009556	
+T2	ontology_term 52 70	microgametogenesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0055046	
+T3	ontology_term 74 83	flowering
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010228	

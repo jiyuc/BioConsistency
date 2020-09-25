@@ -1,0 +1,4 @@
+T1	ontology_term 376 387	chloroplast
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009507	
+T2	ontology_term 541 548	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	

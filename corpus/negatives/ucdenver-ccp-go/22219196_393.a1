@@ -1,0 +1,6 @@
+T1	ontology_term 116 125	regulates
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 145 166	ATP synthase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046961	
+T3	ontology_term 191 212	ATP synthase activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046961	

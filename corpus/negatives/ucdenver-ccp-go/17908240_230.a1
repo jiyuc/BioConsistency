@@ -1,0 +1,8 @@
+T1	ontology_term 80 90	regulation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 105 140	G protein-coupled receptor activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004930	
+T3	ontology_term 105 140	G protein-coupled receptor activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004930	
+T4	ontology_term 105 140	G protein-coupled receptor activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004930	

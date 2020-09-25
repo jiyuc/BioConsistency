@@ -1,0 +1,10 @@
+T1	ontology_term 0 10	Regulation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 14 20	CaMKII
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004683	
+T3	ontology_term 14 20	CaMKII
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005954	
+T4	ontology_term 52 60	learning
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007612	
+T5	ontology_term 65 71	memory
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007613	

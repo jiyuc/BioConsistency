@@ -1,0 +1,6 @@
+T1	ontology_term 10 18	PKCdelta
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 108 115	PKCzeta
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004697	
+T3	ontology_term 174 177	ERK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	

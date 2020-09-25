@@ -1,0 +1,6 @@
+T1	ontology_term 15 21	ribbon
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048788	
+T2	ontology_term 45 55	BTB domain
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031208	
+T3	ontology_term 103 116	morphogenesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009653	

@@ -1,0 +1,4 @@
+T1	ontology_term 73 95	citrate lyase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008815	
+T2	ontology_term 146 163	insulin secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030073	

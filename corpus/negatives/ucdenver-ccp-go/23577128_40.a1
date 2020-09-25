@@ -1,0 +1,10 @@
+T1	ontology_term 124 130	region
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003002	
+T2	ontology_term 167 176	posterior
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0022001	
+T3	ontology_term 201 207	mating
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000747	
+T4	ontology_term 201 207	mating
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_1990277	
+T5	ontology_term 201 207	mating
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007618	

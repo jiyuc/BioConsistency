@@ -1,0 +1,4 @@
+T1	ontology_term 218 228	regulation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 285 306	wing disc development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0035220	

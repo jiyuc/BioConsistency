@@ -1,0 +1,8 @@
+T1	ontology_term 27 46	Rho GTPase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0090630	
+T2	ontology_term 83 88	binds
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 257 272	Tight Junctions
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0070160	
+T4	ontology_term 286 293	binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005488	

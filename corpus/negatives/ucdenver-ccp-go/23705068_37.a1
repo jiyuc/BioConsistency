@@ -1,0 +1,8 @@
+T1	ontology_term 36 43	hatched
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0035188	
+T2	ontology_term 116 122	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	
+T3	ontology_term 127 138	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	
+T4	ontology_term 161 169	diapause
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0030431	

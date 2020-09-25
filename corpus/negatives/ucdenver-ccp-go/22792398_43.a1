@@ -1,0 +1,8 @@
+T1	ontology_term 6 22	ABC transporters
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140359	
+T2	ontology_term 80 89	transport
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	
+T3	ontology_term 93 103	conjugates
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000746	
+T4	ontology_term 132 142	metabolism
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008152	

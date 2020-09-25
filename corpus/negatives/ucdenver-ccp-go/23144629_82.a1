@@ -1,0 +1,20 @@
+T1	ontology_term 3 12	Metaphase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051323	
+T2	ontology_term 33 40	signals
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 33 40	signals
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 123 131	anaphase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051322	
+T5	ontology_term 138 147	telophase
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051326	
+T6	ontology_term 168 175	signals
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	
+T7	ontology_term 168 175	signals
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0023052	
+T8	ontology_term 221 231	chromosome
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005694	
+T9	ontology_term 259 266	signals
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0023052	
+T10	ontology_term 259 266	signals
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0023052	

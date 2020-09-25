@@ -1,0 +1,6 @@
+T1	ontology_term 244 253	cytosolic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005829	
+T2	ontology_term 271 279	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 292 300	membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016020	

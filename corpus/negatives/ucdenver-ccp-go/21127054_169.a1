@@ -1,0 +1,4 @@
+T1	ontology_term 96 100	PI3K
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016303	
+T2	ontology_term 119 150	regulation of insulin secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0050796	

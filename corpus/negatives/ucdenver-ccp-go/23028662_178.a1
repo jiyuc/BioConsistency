@@ -1,0 +1,6 @@
+T1	ontology_term 80 90	cell cycle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007049	
+T2	ontology_term 129 133	PI3K
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016303	
+T3	ontology_term 185 196	cell cycles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007049	

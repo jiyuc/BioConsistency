@@ -1,0 +1,4 @@
+T1	ontology_term 2 15	plasmodesmata
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009506	
+T2	ontology_term 27 45	beta-1,3-glucanase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042973	

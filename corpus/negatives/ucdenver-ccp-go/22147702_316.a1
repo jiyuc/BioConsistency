@@ -1,0 +1,6 @@
+T1	ontology_term 0 13	Transmembrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044214	
+T2	ontology_term 0 13	Transmembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016021	
+T3	ontology_term 24 37	pump activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0022804	

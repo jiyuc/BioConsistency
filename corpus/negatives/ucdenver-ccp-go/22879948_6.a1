@@ -1,0 +1,6 @@
+T1	ontology_term 5 22	signaling cascade
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007165	
+T2	ontology_term 5 22	signaling cascade
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007165	
+T3	ontology_term 66 76	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

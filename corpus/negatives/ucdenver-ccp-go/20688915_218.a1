@@ -1,0 +1,4 @@
+T1	ontology_term 32 54	neuromuscular junction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031594	
+T2	ontology_term 90 96	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	

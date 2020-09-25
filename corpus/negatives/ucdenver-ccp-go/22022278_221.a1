@@ -1,0 +1,4 @@
+T1	ontology_term 27 43	replication fork
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005657	
+T2	ontology_term 81 90	synthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

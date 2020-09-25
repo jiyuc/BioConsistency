@@ -1,0 +1,4 @@
+T1	ontology_term 0 5	Cargo
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140355	
+T2	ontology_term 62 71	cytosolic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005829	

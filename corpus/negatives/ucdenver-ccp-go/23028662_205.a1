@@ -1,0 +1,10 @@
+T1	ontology_term 26 32	memory
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007613	
+T2	ontology_term 122 131	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 122 131	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 178 187	retention
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051235	
+T5	ontology_term 191 197	memory
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007613	

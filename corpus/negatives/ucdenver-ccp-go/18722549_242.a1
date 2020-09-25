@@ -1,0 +1,4 @@
+T1	ontology_term 24 51	lipoprotein lipase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004465	
+T2	ontology_term 80 89	gestation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007565	

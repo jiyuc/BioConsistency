@@ -1,0 +1,6 @@
+T1	ontology_term 6 17	ER membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005789	
+T2	ontology_term 28 46	ryanodine receptor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005219	
+T3	ontology_term 64 85	endoplasmic reticulum
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005783	

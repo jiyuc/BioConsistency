@@ -1,0 +1,4 @@
+T1	ontology_term 14 40	glial cell differentiation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010001	
+T2	ontology_term 97 108	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

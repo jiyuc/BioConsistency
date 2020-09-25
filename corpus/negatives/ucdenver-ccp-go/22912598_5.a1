@@ -1,0 +1,4 @@
+T1	ontology_term 38 59	transcription factors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 123 142	signaling molecules
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0048018	

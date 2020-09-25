@@ -1,0 +1,6 @@
+T1	ontology_term 28 40	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 252 264	localization
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 307 318	cytoplasmic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005737	

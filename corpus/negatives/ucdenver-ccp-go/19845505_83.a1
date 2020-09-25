@@ -1,0 +1,4 @@
+T1	ontology_term 14 28	cell periphery
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005938	
+T2	ontology_term 14 28	cell periphery
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0071944	

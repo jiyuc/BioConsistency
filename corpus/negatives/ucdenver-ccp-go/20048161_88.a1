@@ -1,0 +1,4 @@
+T1	ontology_term 0 8	Membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 210 213	PLC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042824	

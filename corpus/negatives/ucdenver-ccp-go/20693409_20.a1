@@ -1,0 +1,4 @@
+T1	ontology_term 38 42	MAPK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 179 183	MAPK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	

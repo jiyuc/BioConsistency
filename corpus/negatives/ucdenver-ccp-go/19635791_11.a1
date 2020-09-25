@@ -1,0 +1,4 @@
+T1	ontology_term 100 110	metabolism
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 120 137	insulin secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030073	

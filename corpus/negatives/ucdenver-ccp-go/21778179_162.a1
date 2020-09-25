@@ -1,0 +1,4 @@
+T1	ontology_term 87 102	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 197 214	cytokinin binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0044373	

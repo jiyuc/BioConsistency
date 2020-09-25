@@ -1,0 +1,4 @@
+T1	ontology_term 11 15	TSAs
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0033984	
+T2	ontology_term 124 131	plastid
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009536	

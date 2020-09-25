@@ -1,0 +1,4 @@
+T1	ontology_term 7 16	base pair
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003676	
+T2	ontology_term 61 69	splicing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045292	

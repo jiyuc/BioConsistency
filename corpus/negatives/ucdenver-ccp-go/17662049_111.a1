@@ -1,0 +1,16 @@
+T1	ontology_term 147 155	antibody
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 147 155	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 147 155	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 147 155	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 182 190	antibody
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0003823	
+T6	ontology_term 182 190	antibody
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0019815	
+T7	ontology_term 182 190	antibody
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0042571	
+T8	ontology_term 182 190	antibody
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0019814	

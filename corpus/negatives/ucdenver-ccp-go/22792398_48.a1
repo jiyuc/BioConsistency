@@ -1,0 +1,6 @@
+T1	ontology_term 150 164	detoxification
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0098754	
+T2	ontology_term 189 213	glutathione transporters
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0034635	
+T3	ontology_term 247 263	ABC transporters
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0140359	

@@ -1,0 +1,8 @@
+T1	ontology_term 141 150	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 141 150	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 167 173	growth
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040007	
+T4	ontology_term 198 209	sensitivity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0046960	

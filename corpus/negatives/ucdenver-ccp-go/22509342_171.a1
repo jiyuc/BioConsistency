@@ -1,0 +1,4 @@
+T1	ontology_term 0 8	Learning
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007612	
+T2	ontology_term 32 35	PKC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004697	

@@ -1,0 +1,14 @@
+T1	ontology_term 134 142	T-tubule
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030315	
+T2	ontology_term 143 151	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 187 205	ryanodine receptor
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005219	
+T4	ontology_term 207 210	RyR
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_1990425	
+T5	ontology_term 222 230	membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016020	
+T6	ontology_term 246 252	efflux
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0140352	
+T7	ontology_term 246 252	efflux
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0140115	

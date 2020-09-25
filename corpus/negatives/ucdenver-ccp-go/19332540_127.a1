@@ -1,0 +1,4 @@
+T1	ontology_term 237 240	NAC
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005854	
+T2	ontology_term 291 302	sensitizers
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

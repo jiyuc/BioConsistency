@@ -1,0 +1,10 @@
+T1	ontology_term 120 132	reproduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000003	
+T2	ontology_term 235 252	enzyme activities
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003824	
+T3	ontology_term 299 319	methionine metabolic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006555	
+T4	ontology_term 476 485	apoptosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0097194	
+T5	ontology_term 476 485	apoptosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006915	

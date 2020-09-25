@@ -1,0 +1,6 @@
+T1	ontology_term 9 18	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 26 47	endoplasmic reticulum
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005783	
+T3	ontology_term 72 84	microtubules
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005874	

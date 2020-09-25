@@ -1,0 +1,10 @@
+T1	ontology_term 62 70	PKCalpha
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 160 177	kinase activation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016301	
+T3	ontology_term 160 177	kinase activation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0033674	
+T4	ontology_term 232 240	PKCalpha
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004697	
+T5	ontology_term 279 293	phosphorylated
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016310	

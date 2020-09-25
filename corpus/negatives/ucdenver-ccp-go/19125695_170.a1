@@ -1,0 +1,14 @@
+T1	ontology_term 29 32	MTM
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0072375	
+T2	ontology_term 78 85	budding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007114	
+T3	ontology_term 89 97	vesicles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031982	
+T4	ontology_term 107 120	late endosome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005770	
+T5	ontology_term 181 195	phosphorylates
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016310	
+T6	ontology_term 260 268	vacuoles
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005773	
+T7	ontology_term 273 287	late endosomes
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005770	

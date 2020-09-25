@@ -1,0 +1,4 @@
+T1	ontology_term 66 80	response to UV
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009411	
+T2	ontology_term 86 97	methylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032259	

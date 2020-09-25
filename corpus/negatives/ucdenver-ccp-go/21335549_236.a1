@@ -1,0 +1,4 @@
+T1	ontology_term 62 81	response to hypoxia
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0001666	
+T2	ontology_term 232 243	degradation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009056	

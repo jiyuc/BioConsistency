@@ -1,0 +1,14 @@
+T1	ontology_term 32 49	protein complexes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032991	
+T2	ontology_term 94 103	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 94 103	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 120 132	ion channels
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0022831	
+T5	ontology_term 134 147	actin capping
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0030478	
+T6	ontology_term 152 161	membranes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016020	
+T7	ontology_term 169 178	flippases
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0045332	

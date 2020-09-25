@@ -1,0 +1,4 @@
+T1	ontology_term 14 26	transduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009293	
+T2	ontology_term 54 59	axons
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030424	

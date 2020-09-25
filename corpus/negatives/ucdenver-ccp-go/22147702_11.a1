@@ -1,0 +1,4 @@
+T1	ontology_term 33 43	organelles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043226	
+T2	ontology_term 114 124	organelles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043226	

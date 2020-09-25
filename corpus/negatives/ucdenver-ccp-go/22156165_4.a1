@@ -1,0 +1,6 @@
+T1	ontology_term 72 86	RNA processing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006396	
+T2	ontology_term 106 117	RNA editing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009451	
+T3	ontology_term 178 186	splicing
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0045292	

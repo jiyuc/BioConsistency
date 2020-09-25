@@ -1,0 +1,4 @@
+T1	ontology_term 157 170	transcription
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 225 232	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	

@@ -1,0 +1,12 @@
+T1	ontology_term 62 71	membranes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 83 104	endoplasmic reticulum
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005783	
+T3	ontology_term 116 125	retention
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051235	
+T4	ontology_term 160 169	membranes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016020	
+T5	ontology_term 231 238	signals
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 231 238	signals
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	

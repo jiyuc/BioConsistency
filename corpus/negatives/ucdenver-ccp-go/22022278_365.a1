@@ -1,0 +1,4 @@
+T1	ontology_term 12 23	cytoplasmic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005737	
+T2	ontology_term 79 92	DNA synthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0071897	

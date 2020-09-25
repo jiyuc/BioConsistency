@@ -1,0 +1,4 @@
+T1	ontology_term 0 9	Autosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030849	
+T2	ontology_term 83 88	mtDNA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000262	

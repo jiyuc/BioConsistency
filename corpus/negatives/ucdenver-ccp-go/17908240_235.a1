@@ -1,0 +1,16 @@
+T1	ontology_term 45 59	phosphorylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 122 132	signalling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 122 132	signalling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 171 184	extracellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005576	
+T5	ontology_term 185 191	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 185 191	signal
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	
+T7	ontology_term 192 201	regulated
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0065007	
+T8	ontology_term 209 241	c-Jun N-terminal kinase cascades
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0007254	

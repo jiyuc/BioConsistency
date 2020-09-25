@@ -1,0 +1,10 @@
+T1	ontology_term 14 23	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 14 23	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 115 118	PKA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004691	
+T4	ontology_term 115 118	PKA
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005952	
+T5	ontology_term 146 162	phosphorylations
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016310	

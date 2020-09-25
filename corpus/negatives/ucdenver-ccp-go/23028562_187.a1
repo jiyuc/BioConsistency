@@ -1,0 +1,4 @@
+T1	ontology_term 61 76	immune response
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006955	
+T2	ontology_term 107 122	immune response
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006955	

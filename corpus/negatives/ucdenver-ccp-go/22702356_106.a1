@@ -1,0 +1,12 @@
+T1	ontology_term 8 14	region
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003002	
+T2	ontology_term 85 92	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 103 124	transcription factors
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000981	
+T4	ontology_term 128 144	response to UV-B
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0010224	
+T5	ontology_term 160 164	core
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019013	
+T6	ontology_term 326 330	core
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0019013	

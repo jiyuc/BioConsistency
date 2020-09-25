@@ -1,0 +1,8 @@
+T1	ontology_term 22 27	ovule
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030728	
+T2	ontology_term 28 39	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	
+T3	ontology_term 137 142	ovule
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030728	
+T4	ontology_term 143 154	development
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0032502	

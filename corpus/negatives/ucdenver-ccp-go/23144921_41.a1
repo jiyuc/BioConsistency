@@ -1,0 +1,4 @@
+T1	ontology_term 26 37	metabolized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 41 56	cytochrome P450
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019825	

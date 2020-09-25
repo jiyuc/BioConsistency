@@ -1,0 +1,4 @@
+T1	ontology_term 96 118	DHA reductase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045174	
+T2	ontology_term 172 184	glutaredoxin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015038	

@@ -1,0 +1,10 @@
+T1	ontology_term 13 30	membrane ruffling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097178	
+T2	ontology_term 13 30	membrane ruffling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0001726	
+T3	ontology_term 13 30	membrane ruffling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032587	
+T4	ontology_term 102 109	regions
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003002	
+T5	ontology_term 120 131	endocytosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006897	

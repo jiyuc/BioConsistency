@@ -1,0 +1,4 @@
+T1	ontology_term 17 44	glycosphingolipid synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006688	
+T2	ontology_term 52 63	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

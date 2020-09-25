@@ -1,0 +1,4 @@
+T1	ontology_term 70 79	membranes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 85 92	cytosol
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005829	

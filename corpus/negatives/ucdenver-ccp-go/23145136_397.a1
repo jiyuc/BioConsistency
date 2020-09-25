@@ -1,0 +1,4 @@
+T1	ontology_term 0 11	Endocytosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006897	
+T2	ontology_term 16 27	degradation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009056	

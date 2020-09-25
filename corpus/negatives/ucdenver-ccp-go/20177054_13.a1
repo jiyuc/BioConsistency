@@ -1,0 +1,4 @@
+T1	ontology_term 44 47	RyR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1990425	
+T2	ontology_term 202 209	spliced
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045292	

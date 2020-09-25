@@ -1,0 +1,4 @@
+T1	ontology_term 28 35	nucleus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005634	
+T2	ontology_term 108 119	chloroplast
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	

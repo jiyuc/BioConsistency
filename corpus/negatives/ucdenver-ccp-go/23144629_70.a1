@@ -1,0 +1,4 @@
+T1	ontology_term 106 124	chromosome pairing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007129	
+T2	ontology_term 129 137	synapsis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007129	

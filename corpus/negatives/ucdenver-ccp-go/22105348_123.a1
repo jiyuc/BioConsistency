@@ -1,0 +1,4 @@
+T1	ontology_term 130 145	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 247 251	core
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019013	

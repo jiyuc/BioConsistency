@@ -1,0 +1,8 @@
+T1	ontology_term 192 200	digested
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007586	
+T2	ontology_term 206 217	methylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032259	
+T3	ontology_term 218 227	sensitive
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0046960	
+T4	ontology_term 294 305	methylation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0032259	

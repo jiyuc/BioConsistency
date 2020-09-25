@@ -1,0 +1,4 @@
+T1	ontology_term 45 51	splice
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045292	
+T2	ontology_term 126 130	core
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019013	

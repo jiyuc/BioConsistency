@@ -1,0 +1,14 @@
+T1	ontology_term 78 85	nucleus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005634	
+T2	ontology_term 87 96	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	
+T3	ontology_term 98 119	endoplasmic reticulum
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005783	
+T4	ontology_term 121 132	chloroplast
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009507	
+T5	ontology_term 138 150	mitochondria
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005739	
+T6	ontology_term 208 226	cellular processes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0042995	
+T7	ontology_term 208 226	cellular processes
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0009987	

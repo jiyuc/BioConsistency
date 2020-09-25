@@ -1,0 +1,8 @@
+T1	ontology_term 23 40	ATPase activities
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016887	
+T2	ontology_term 118 125	F-actin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031941	
+T3	ontology_term 141 148	F-actin
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031941	
+T4	ontology_term 152 159	hatched
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0035188	

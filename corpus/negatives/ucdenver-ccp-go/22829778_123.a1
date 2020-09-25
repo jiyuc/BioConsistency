@@ -1,0 +1,8 @@
+T1	ontology_term 15 24	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 69 74	tRNAs
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030533	
+T3	ontology_term 91 100	ribosomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005840	
+T4	ontology_term 244 252	ribosome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005840	

@@ -1,0 +1,4 @@
+T1	ontology_term 152 165	endolysosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0036019	
+T2	ontology_term 187 195	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	

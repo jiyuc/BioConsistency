@@ -1,0 +1,6 @@
+T1	ontology_term 0 22	Induction of apoptosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006915	
+T2	ontology_term 58 70	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 80 87	cytosol
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005829	

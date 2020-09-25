@@ -1,0 +1,4 @@
+T1	ontology_term 88 113	sister chromatid cohesion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007062	
+T2	ontology_term 177 190	transcription
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

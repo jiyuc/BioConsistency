@@ -1,0 +1,6 @@
+T1	ontology_term 99 117	COPI vesicle coats
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048205	
+T2	ontology_term 99 117	COPI vesicle coats
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030126	
+T3	ontology_term 121 136	Golgi membranes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000139	

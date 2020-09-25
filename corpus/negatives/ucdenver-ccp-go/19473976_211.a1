@@ -1,0 +1,8 @@
+T1	ontology_term 11 24	extracellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005576	
+T2	ontology_term 100 104	bind
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 109 118	transport
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006810	
+T4	ontology_term 119 126	lactate
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007595	

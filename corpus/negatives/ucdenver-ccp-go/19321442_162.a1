@@ -1,0 +1,4 @@
+T1	ontology_term 115 118	LTP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060291	
+T2	ontology_term 163 184	synaptic transmission
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007268	

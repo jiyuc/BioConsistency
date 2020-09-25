@@ -1,0 +1,4 @@
+T1	ontology_term 2 12	transcript
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 81 112	transforming growth factor-beta
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005160	

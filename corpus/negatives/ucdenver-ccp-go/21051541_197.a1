@@ -1,0 +1,8 @@
+T1	ontology_term 174 179	binds
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 198 207	regulates
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 225 238	translational
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006412	
+T4	ontology_term 265 275	transcript
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006351	

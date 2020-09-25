@@ -1,0 +1,18 @@
+T1	ontology_term 4 11	ER body
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010168	
+T2	ontology_term 16 23	vacuole
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005773	
+T3	ontology_term 28 33	Golgi
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005794	
+T4	ontology_term 43 50	nucleus
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005634	
+T5	ontology_term 56 69	mitochondrion
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005739	
+T6	ontology_term 76 86	peroxisome
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005777	
+T7	ontology_term 76 86	peroxisome
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005777	
+T8	ontology_term 92 101	cell wall
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005618	
+T9	ontology_term 107 114	plastid
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0009536	

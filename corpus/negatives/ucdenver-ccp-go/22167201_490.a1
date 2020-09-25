@@ -1,0 +1,12 @@
+T1	ontology_term 0 21	Complement activation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006956	
+T2	ontology_term 0 21	Complement activation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006956	
+T3	ontology_term 27 34	binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 38 52	mannan-binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_2001065	
+T5	ontology_term 68 76	envelope
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009274	
+T6	ontology_term 68 76	envelope
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0031975	

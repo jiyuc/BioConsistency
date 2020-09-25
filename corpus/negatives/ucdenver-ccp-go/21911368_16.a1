@@ -1,0 +1,4 @@
+T1	ontology_term 108 120	chloroplasts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009507	
+T2	ontology_term 148 159	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

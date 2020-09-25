@@ -1,0 +1,4 @@
+T1	ontology_term 13 31	ryanodine receptor
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005219	
+T2	ontology_term 98 138	sarco(endo)plasmic reticulum Ca2+-ATPase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005388	

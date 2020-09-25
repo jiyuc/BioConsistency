@@ -1,0 +1,6 @@
+T1	ontology_term 76 85	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 76 85	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 192 205	transcription
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006351	

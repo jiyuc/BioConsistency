@@ -1,0 +1,4 @@
+T1	ontology_term 62 77	phosphorylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016310	
+T2	ontology_term 85 97	cytoskeleton
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005856	

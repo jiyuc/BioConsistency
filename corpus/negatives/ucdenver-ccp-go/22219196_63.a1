@@ -1,0 +1,4 @@
+T1	ontology_term 65 68	CAT
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004096	
+T2	ontology_term 199 202	CCC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030896	

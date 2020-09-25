@@ -1,0 +1,4 @@
+T1	ontology_term 126 147	embryonic development
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009790	
+T2	ontology_term 179 189	developing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

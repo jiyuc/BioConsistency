@@ -1,0 +1,4 @@
+T1	ontology_term 102 124	bile acid biosynthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006699	
+T2	ontology_term 129 138	secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046903	

@@ -1,0 +1,8 @@
+T1	ontology_term 30 46	acyl-CoA binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0120227	
+T2	ontology_term 93 96	age
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007568	
+T3	ontology_term 93 96	age
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007568	
+T4	ontology_term 107 122	leaf senescence
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0010150	

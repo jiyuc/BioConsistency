@@ -1,0 +1,6 @@
+T1	ontology_term 116 124	cellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007349	
+T2	ontology_term 148 158	signalling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 148 158	signalling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	

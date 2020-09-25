@@ -1,0 +1,6 @@
+T1	ontology_term 62 79	ribosomal protein
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003735	
+T2	ontology_term 98 107	ribosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005840	
+T3	ontology_term 206 214	ribosome
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005840	

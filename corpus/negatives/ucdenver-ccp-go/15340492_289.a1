@@ -1,0 +1,6 @@
+T1	ontology_term 26 33	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 44 59	Transcriptional
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	
+T3	ontology_term 74 89	lipid synthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008610	

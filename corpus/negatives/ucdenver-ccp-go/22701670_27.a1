@@ -1,0 +1,6 @@
+T1	ontology_term 8 27	signal transduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007165	
+T2	ontology_term 44 47	JNK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004705	
+T3	ontology_term 82 93	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	

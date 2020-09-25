@@ -1,0 +1,6 @@
+T1	ontology_term 42 51	metaphase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051323	
+T2	ontology_term 52 63	centrosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005813	
+T3	ontology_term 112 119	spindle
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005819	

@@ -1,0 +1,4 @@
+T1	ontology_term 103 112	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 116 132	inclusion bodies
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016234	

@@ -1,0 +1,8 @@
+T1	ontology_term 0 7	Binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 15 24	ubiquitin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	
+T3	ontology_term 50 64	ubiquitination
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031386	
+T4	ontology_term 88 99	degradation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009056	

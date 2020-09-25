@@ -1,0 +1,12 @@
+T1	ontology_term 41 71	adenine nucleotide translocase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005471	
+T2	ontology_term 104 108	pore
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046930	
+T3	ontology_term 160 172	mitochondria
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005739	
+T4	ontology_term 234 247	pore activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0015267	
+T5	ontology_term 279 290	sensitivity
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0046960	
+T6	ontology_term 344 352	membrane
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016020	

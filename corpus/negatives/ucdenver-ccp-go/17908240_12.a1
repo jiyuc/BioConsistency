@@ -1,0 +1,8 @@
+T1	ontology_term 22 39	neurotransmission
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007268	
+T2	ontology_term 70 79	cognitive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0050890	
+T3	ontology_term 99 107	learning
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007612	
+T4	ontology_term 112 118	memory
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007613	

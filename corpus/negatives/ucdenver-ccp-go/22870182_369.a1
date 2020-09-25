@@ -1,0 +1,4 @@
+T1	ontology_term 70 79	transport
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006810	
+T2	ontology_term 97 121	chlorophyll fluorescence
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0090546	

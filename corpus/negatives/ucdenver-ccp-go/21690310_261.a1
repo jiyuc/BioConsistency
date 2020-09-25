@@ -1,0 +1,4 @@
+T1	ontology_term 185 194	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 200 216	DNA polymerase I
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003887	

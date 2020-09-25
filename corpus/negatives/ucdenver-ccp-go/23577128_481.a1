@@ -1,0 +1,4 @@
+T1	ontology_term 41 61	male mating behavior
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060179	
+T2	ontology_term 148 152	core
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019013	

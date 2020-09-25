@@ -1,0 +1,4 @@
+T1	ontology_term 73 81	axonemes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005930	
+T2	ontology_term 127 151	mitochondrial derivative
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016007	

@@ -1,0 +1,6 @@
+T1	ontology_term 24 37	intracellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005622	
+T2	ontology_term 63 76	extracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005576	
+T3	ontology_term 77 83	ligand
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	

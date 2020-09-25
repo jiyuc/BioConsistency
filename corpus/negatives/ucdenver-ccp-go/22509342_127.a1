@@ -1,0 +1,6 @@
+T1	ontology_term 100 106	memory
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007613	
+T2	ontology_term 132 141	regulated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 221 227	memory
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007613	

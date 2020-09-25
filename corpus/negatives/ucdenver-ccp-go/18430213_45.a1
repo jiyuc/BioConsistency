@@ -1,0 +1,10 @@
+T1	ontology_term 43 58	transcriptional
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 59 69	regulation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 87 93	growth
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040007	
+T4	ontology_term 157 160	TSA
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0033984	
+T5	ontology_term 186 209	tryptophan biosynthesis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000162	

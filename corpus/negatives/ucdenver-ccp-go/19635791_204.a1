@@ -1,0 +1,10 @@
+T1	ontology_term 51 54	age
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007568	
+T2	ontology_term 51 54	age
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007568	
+T3	ontology_term 304 309	lysis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0019835	
+T4	ontology_term 428 437	cytosolic
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005829	
+T5	ontology_term 564 573	cytosolic
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005829	

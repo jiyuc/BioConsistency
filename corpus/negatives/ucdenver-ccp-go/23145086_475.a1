@@ -1,0 +1,12 @@
+T1	ontology_term 0 13	Translational
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006412	
+T2	ontology_term 36 45	metabolic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008152	
+T3	ontology_term 46 56	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 75 86	RNA binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003723	
+T5	ontology_term 112 123	cytoplasmic
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005737	
+T6	ontology_term 124 136	RNA granules
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0035770	

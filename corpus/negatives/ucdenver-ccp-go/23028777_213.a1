@@ -1,0 +1,8 @@
+T1	ontology_term 44 56	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 209 217	localize
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 233 240	nucleus
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005634	
+T4	ontology_term 296 303	nucleus
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005634	

@@ -1,0 +1,4 @@
+T1	ontology_term 82 101	oxidation-reduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0055114	
+T2	ontology_term 128 138	metabolism
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008152	

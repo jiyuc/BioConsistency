@@ -1,0 +1,4 @@
+T1	ontology_term 14 39	fatty acid beta-oxidation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006635	
+T2	ontology_term 92 107	cold-acclimated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009631	

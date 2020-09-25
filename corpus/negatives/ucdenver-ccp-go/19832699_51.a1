@@ -1,0 +1,12 @@
+T1	ontology_term 46 57	calcineurin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004722	
+T2	ontology_term 46 57	calcineurin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004723	
+T3	ontology_term 89 100	phosphatase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016791	
+T4	ontology_term 176 196	phosphatase activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016791	
+T5	ontology_term 200 211	calcineurin
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004722	
+T6	ontology_term 200 211	calcineurin
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0004723	

@@ -1,0 +1,4 @@
+T1	ontology_term 191 204	metamorphosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007552	
+T2	ontology_term 254 271	pupal development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0035209	

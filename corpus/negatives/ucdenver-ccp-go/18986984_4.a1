@@ -1,0 +1,6 @@
+T1	ontology_term 0 11	Proteolysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006508	
+T2	ontology_term 45 57	pathogenesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009405	
+T3	ontology_term 191 202	cytoplasmic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005737	

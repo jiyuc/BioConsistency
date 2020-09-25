@@ -1,0 +1,6 @@
+T1	ontology_term 72 81	regulates
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 148 167	receptor activation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0038023	
+T3	ontology_term 148 167	receptor activation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0038024	

@@ -1,0 +1,4 @@
+T1	ontology_term 136 145	sensitive
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046960	
+T2	ontology_term 172 184	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	

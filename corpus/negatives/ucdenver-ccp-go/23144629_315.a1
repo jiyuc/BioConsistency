@@ -1,0 +1,4 @@
+T1	ontology_term 16 36	synaptonemal complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000795	
+T2	ontology_term 66 85	chromosome synapsis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007129	

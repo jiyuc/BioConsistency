@@ -1,0 +1,4 @@
+T1	ontology_term 121 130	sarcomere
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030017	
+T2	ontology_term 138 154	troponin complex
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005861	

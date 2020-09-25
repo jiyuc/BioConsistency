@@ -1,0 +1,4 @@
+T1	ontology_term 25 48	mitochondrial ribosomes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005761	
+T2	ontology_term 53 71	ribosomal subunits
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0044391	

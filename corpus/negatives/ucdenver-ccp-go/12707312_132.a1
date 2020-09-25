@@ -1,0 +1,8 @@
+T1	ontology_term 102 116	chitin-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008061	
+T2	ontology_term 130 136	myelin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042552	
+T3	ontology_term 152 156	RNAi
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016246	
+T4	ontology_term 158 174	RNA interference
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016246	

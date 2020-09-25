@@ -1,0 +1,4 @@
+T1	ontology_term 49 59	apoplastic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048046	
+T2	ontology_term 126 136	regulation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	

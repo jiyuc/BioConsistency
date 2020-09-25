@@ -1,0 +1,6 @@
+T1	ontology_term 23 32	transport
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006810	
+T2	ontology_term 60 75	DNA replication
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006260	
+T3	ontology_term 92 116	homologous recombination
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0035825	

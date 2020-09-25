@@ -1,0 +1,4 @@
+T1	ontology_term 59 73	detoxification
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0098754	
+T2	ontology_term 168 178	metabolism
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008152	

@@ -1,0 +1,6 @@
+T1	ontology_term 38 57	signalling molecule
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048018	
+T2	ontology_term 217 225	learning
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007612	
+T3	ontology_term 235 246	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	

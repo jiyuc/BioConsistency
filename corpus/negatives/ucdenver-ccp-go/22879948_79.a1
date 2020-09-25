@@ -1,0 +1,4 @@
+T1	ontology_term 70 91	embryonic development
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009790	
+T2	ontology_term 167 187	regulation of growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040008	

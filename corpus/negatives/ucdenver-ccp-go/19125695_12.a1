@@ -1,0 +1,4 @@
+T1	ontology_term 200 212	phosphatases
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 237 249	phosphatases
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016791	

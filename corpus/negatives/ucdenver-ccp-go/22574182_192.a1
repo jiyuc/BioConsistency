@@ -1,0 +1,4 @@
+T1	ontology_term 14 32	auxin biosynthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009851	
+T2	ontology_term 64 80	cytochrome P450s
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019825	

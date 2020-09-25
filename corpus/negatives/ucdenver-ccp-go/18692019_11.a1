@@ -1,0 +1,8 @@
+T1	ontology_term 5 20	gene expression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 79 100	transcription factors
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000981	
+T3	ontology_term 137 144	binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 177 200	peroxisome proliferator
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016559	

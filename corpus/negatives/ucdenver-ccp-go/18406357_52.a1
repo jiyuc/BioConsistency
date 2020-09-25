@@ -1,0 +1,4 @@
+T1	ontology_term 14 22	polysome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005844	
+T2	ontology_term 111 132	reverse transcription
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0001171	

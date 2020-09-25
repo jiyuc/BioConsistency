@@ -1,0 +1,4 @@
+T1	ontology_term 185 192	nucleus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005634	
+T2	ontology_term 225 238	transcription
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

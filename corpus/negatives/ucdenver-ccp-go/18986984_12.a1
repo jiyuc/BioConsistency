@@ -1,0 +1,4 @@
+T1	ontology_term 7 18	proteolysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006508	
+T2	ontology_term 111 131	proteasome complexes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000502	

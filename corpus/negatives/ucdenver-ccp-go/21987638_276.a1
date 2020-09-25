@@ -1,0 +1,6 @@
+T1	ontology_term 13 22	ubiquitin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031386	
+T2	ontology_term 23 39	ligase regulates
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051340	
+T3	ontology_term 65 74	centriole
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005814	

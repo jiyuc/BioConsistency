@@ -1,0 +1,6 @@
+T1	ontology_term 122 132	transcript
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 151 163	chloroplasts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	
+T3	ontology_term 244 251	binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	

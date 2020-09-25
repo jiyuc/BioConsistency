@@ -1,0 +1,6 @@
+T1	ontology_term 104 110	septum
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030428	
+T2	ontology_term 150 166	nuclear division
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000280	
+T3	ontology_term 178 185	budding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007114	

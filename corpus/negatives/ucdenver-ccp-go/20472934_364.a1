@@ -1,0 +1,8 @@
+T1	ontology_term 82 103	endoplasmic reticulum
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005783	
+T2	ontology_term 124 148	phospholipase C activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007202	
+T3	ontology_term 124 148	phospholipase C activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004629	
+T4	ontology_term 154 169	phosphorylation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016310	

@@ -1,0 +1,8 @@
+T1	ontology_term 6 21	yolk production
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007296	
+T2	ontology_term 87 91	yolk
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0060417	
+T3	ontology_term 139 154	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	
+T4	ontology_term 164 168	RNAi
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016246	

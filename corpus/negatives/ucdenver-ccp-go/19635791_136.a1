@@ -1,0 +1,18 @@
+T1	ontology_term 11 22	metabolized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 27 37	glycolysis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006096	
+T3	ontology_term 99 105	uptake
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0098739	
+T4	ontology_term 99 105	uptake
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0098657	
+T5	ontology_term 118 129	metabolized
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0008152	
+T6	ontology_term 137 146	TCA cycle
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0006099	
+T7	ontology_term 187 190	MDH
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0018468	
+T8	ontology_term 187 190	MDH
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0033720	
+T9	ontology_term 187 190	MDH
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0030060	

@@ -1,0 +1,6 @@
+T1	ontology_term 74 91	apoptotic process
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006915	
+T2	ontology_term 116 128	cytochrome c
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045155	
+T3	ontology_term 161 173	mitochondria
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005739	

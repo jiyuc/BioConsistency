@@ -1,0 +1,8 @@
+T1	ontology_term 45 59	hypersensitive
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0002524	
+T2	ontology_term 107 124	replication forks
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005657	
+T3	ontology_term 209 223	hypersensitive
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0002524	
+T4	ontology_term 248 254	methyl
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0032259	

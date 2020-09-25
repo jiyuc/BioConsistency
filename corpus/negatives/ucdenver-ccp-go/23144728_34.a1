@@ -1,0 +1,4 @@
+T1	ontology_term 43 59	ABC transporters
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140359	
+T2	ontology_term 94 100	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	

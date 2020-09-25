@@ -1,0 +1,4 @@
+T1	ontology_term 16 36	AP-3 adaptor complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030123	
+T2	ontology_term 48 72	clathrin-coated vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030136	

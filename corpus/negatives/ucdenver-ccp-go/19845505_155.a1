@@ -1,0 +1,10 @@
+T1	ontology_term 0 10	Regulation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 14 29	calcium signals
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019722	
+T3	ontology_term 14 29	calcium signals
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0019722	
+T4	ontology_term 37 44	nucleus
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005634	
+T5	ontology_term 50 73	nucleoplasmic reticulum
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0044195	

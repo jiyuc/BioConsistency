@@ -1,0 +1,6 @@
+T1	ontology_term 64 68	PI3K
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016303	
+T2	ontology_term 91 108	insulin secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030073	
+T3	ontology_term 223 240	insulin secretion
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030073	

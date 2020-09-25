@@ -1,0 +1,34 @@
+T1	ontology_term 39 52	transmembrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044214	
+T2	ontology_term 39 52	transmembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016021	
+T3	ontology_term 150 153	ERK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004707	
+T4	ontology_term 156 169	extracellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005576	
+T5	ontology_term 170 176	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 170 176	signal
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	
+T7	ontology_term 177 186	regulated
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0065007	
+T8	ontology_term 195 198	PKC
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0004697	
+T9	ontology_term 314 318	EGFR
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0005006	
+T10	ontology_term 320 343	epidermal growth factor
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0005154	
+T11	ontology_term 471 488	mitogen-activated
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0045840	
+T12	ontology_term 504 517	extracellular
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0005576	
+T13	ontology_term 518 524	signal
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0023052	
+T14	ontology_term 518 524	signal
+N14	Reference T14 http://purl.obolibrary.org/obo/GO_0023052	
+T15	ontology_term 525 534	regulated
+N15	Reference T15 http://purl.obolibrary.org/obo/GO_0065007	
+T16	ontology_term 551 555	RNAi
+N16	Reference T16 http://purl.obolibrary.org/obo/GO_0016246	
+T17	ontology_term 557 573	RNA interference
+N17	Reference T17 http://purl.obolibrary.org/obo/GO_0016246	

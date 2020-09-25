@@ -1,0 +1,8 @@
+T1	ontology_term 97 105	regulate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 114 120	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	
+T3	ontology_term 133 142	dendrites
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030425	
+T4	ontology_term 146 160	dendrite arbor
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0140059	

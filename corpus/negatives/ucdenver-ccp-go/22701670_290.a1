@@ -1,0 +1,8 @@
+T1	ontology_term 7 16	ubiquitin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031386	
+T2	ontology_term 29 51	protein phosphatase 2A
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0050115	
+T3	ontology_term 59 66	binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	
+T4	ontology_term 142 153	degradation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009056	

@@ -1,0 +1,6 @@
+T1	ontology_term 17 43	double-strand break repair
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006302	
+T2	ontology_term 331 352	replication protein A
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005662	
+T3	ontology_term 354 357	RPA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005662	

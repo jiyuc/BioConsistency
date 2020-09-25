@@ -1,0 +1,4 @@
+T1	ontology_term 13 17	EGFR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005006	
+T2	ontology_term 68 91	tracheal cell migration
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007427	

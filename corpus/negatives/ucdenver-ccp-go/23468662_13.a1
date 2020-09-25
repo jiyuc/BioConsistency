@@ -1,0 +1,10 @@
+T1	ontology_term 12 36	fibroblast growth factor
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005104	
+T2	ontology_term 47 51	FGFR
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005007	
+T3	ontology_term 110 118	mutually
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0085030	
+T4	ontology_term 171 184	extracellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005576	
+T5	ontology_term 207 213	ligand
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005488	

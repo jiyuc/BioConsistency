@@ -1,0 +1,4 @@
+T1	ontology_term 42 65	centrosome  duplication
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051298	
+T2	ontology_term 185 207	centrosome duplication
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051298	

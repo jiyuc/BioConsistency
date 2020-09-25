@@ -1,0 +1,4 @@
+T1	ontology_term 86 123	granulocyte colony-stimulating factor
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005130	
+T2	ontology_term 132 180	granulocyte-macrophage colony-stimulating factor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005129	

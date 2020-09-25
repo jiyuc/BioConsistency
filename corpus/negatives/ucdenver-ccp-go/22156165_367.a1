@@ -1,0 +1,8 @@
+T1	ontology_term 9 16	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 20 31	chloroplast
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	
+T3	ontology_term 73 79	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	
+T4	ontology_term 91 102	chloroplast
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009507	

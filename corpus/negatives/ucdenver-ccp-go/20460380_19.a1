@@ -1,0 +1,6 @@
+T1	ontology_term 52 62	mu-calpain
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0110158	
+T2	ontology_term 195 208	intracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	
+T3	ontology_term 270 277	cytosol
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005829	

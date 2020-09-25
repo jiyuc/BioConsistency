@@ -1,0 +1,4 @@
+T1	ontology_term 32 47	cytochrome P450
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019825	
+T2	ontology_term 71 95	Gibberellin biosynthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009686	

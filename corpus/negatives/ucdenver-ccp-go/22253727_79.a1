@@ -1,0 +1,6 @@
+T1	ontology_term 5 11	ovules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030728	
+T2	ontology_term 35 42	attract
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042056	
+T3	ontology_term 43 55	pollen tubes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0090406	

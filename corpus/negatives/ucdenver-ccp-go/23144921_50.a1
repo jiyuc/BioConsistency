@@ -1,0 +1,4 @@
+T1	ontology_term 73 99	glucosinolate biosynthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019761	
+T2	ontology_term 181 187	methyl
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032259	

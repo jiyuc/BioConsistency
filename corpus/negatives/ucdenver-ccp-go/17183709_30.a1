@@ -1,0 +1,4 @@
+T1	ontology_term 78 82	bind
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 133 145	opsonization
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008228	

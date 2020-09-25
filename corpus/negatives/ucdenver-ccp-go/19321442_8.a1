@@ -1,0 +1,4 @@
+T1	ontology_term 62 70	synapses
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045202	
+T2	ontology_term 157 167	cell death
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008219	

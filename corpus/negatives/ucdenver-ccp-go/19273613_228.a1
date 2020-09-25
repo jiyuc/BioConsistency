@@ -1,0 +1,36 @@
+T1	ontology_term 54 64	antibodies
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 54 64	antibodies
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 54 64	antibodies
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 54 64	antibodies
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 71 81	centromere
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000775	
+T6	ontology_term 123 134	kinetochore
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000776	
+T7	ontology_term 161 172	microtubule
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005874	
+T8	ontology_term 189 192	NEB
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0007077	
+T9	ontology_term 194 220	nuclear envelope breakdown
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0007077	
+T10	ontology_term 194 220	nuclear envelope breakdown
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0051081	
+T11	ontology_term 222 225	NPC
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0005643	
+T12	ontology_term 227 247	nuclear pore complex
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0005643	
+T13	ontology_term 254 260	region
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0003002	
+T14	ontology_term 274 277	SAC
+N14	Reference T14 http://purl.obolibrary.org/obo/GO_0071173	
+T15	ontology_term 274 277	SAC
+N15	Reference T15 http://purl.obolibrary.org/obo/GO_0035003	
+T16	ontology_term 279 306	spindle assembly checkpoint
+N16	Reference T16 http://purl.obolibrary.org/obo/GO_0071173	
+T17	ontology_term 335 341	region
+N17	Reference T17 http://purl.obolibrary.org/obo/GO_0003002	
+T18	ontology_term 361 367	region
+N18	Reference T18 http://purl.obolibrary.org/obo/GO_0003002	

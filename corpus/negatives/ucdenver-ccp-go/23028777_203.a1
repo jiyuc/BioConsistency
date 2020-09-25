@@ -1,0 +1,4 @@
+T1	ontology_term 10 14	SNAP
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005483	
+T2	ontology_term 72 76	SNAP
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005483	

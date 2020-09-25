@@ -1,0 +1,14 @@
+T1	ontology_term 0 13	Redox sensing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051776	
+T2	ontology_term 18 27	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 18 27	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 63 75	chloroplasts
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009507	
+T5	ontology_term 77 88	peroxisomes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005777	
+T6	ontology_term 77 88	peroxisomes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005777	
+T7	ontology_term 93 105	mitochondria
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005739	

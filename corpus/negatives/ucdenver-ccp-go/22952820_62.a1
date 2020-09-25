@@ -1,0 +1,4 @@
+T1	ontology_term 24 29	mtDNA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000262	
+T2	ontology_term 46 70	mitochondrial transcript
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006390	

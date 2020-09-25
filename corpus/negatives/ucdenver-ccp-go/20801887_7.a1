@@ -1,0 +1,12 @@
+T1	ontology_term 36 56	regulated exocytosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045055	
+T2	ontology_term 109 117	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 143 148	SNARE
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005484	
+T4	ontology_term 154 169	plasma membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005886	
+T5	ontology_term 179 186	SNAP-25
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005484	
+T6	ontology_term 243 249	SNAREs
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005484	

@@ -1,0 +1,6 @@
+T1	ontology_term 38 47	localizes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 108 114	uptake
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098739	
+T3	ontology_term 108 114	uptake
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0098657	

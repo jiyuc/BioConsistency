@@ -1,0 +1,6 @@
+T1	ontology_term 40 47	nucleus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005634	
+T2	ontology_term 94 101	nucleus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005634	
+T3	ontology_term 112 127	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	

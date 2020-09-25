@@ -1,0 +1,4 @@
+T1	ontology_term 18 26	membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 97 119	chloroplast thylakoids
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009534	

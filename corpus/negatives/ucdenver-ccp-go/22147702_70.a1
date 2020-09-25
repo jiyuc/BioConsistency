@@ -1,0 +1,6 @@
+T1	ontology_term 30 37	vacuole
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005773	
+T2	ontology_term 38 47	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	
+T3	ontology_term 52 62	cell death
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008219	

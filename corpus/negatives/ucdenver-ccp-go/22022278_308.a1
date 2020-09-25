@@ -1,0 +1,4 @@
+T1	ontology_term 18 44	double-strand break repair
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006302	
+T2	ontology_term 48 57	synthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

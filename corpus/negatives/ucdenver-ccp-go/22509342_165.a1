@@ -1,0 +1,6 @@
+T1	ontology_term 69 91	classical conditioning
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008306	
+T2	ontology_term 93 99	memory
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007613	
+T3	ontology_term 106 115	formation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009058	

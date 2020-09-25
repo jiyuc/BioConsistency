@@ -1,0 +1,4 @@
+T1	ontology_term 0 8	Prophase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051324	
+T2	ontology_term 54 72	anther development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0048653	

@@ -1,0 +1,4 @@
+T1	ontology_term 86 97	pollination
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009856	
+T2	ontology_term 102 113	pollen tube
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0090406	

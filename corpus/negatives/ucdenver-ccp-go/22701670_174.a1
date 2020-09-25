@@ -1,0 +1,6 @@
+T1	ontology_term 33 52	phosphatase binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019902	
+T2	ontology_term 106 127	developmental process
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	
+T3	ontology_term 190 201	development
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	

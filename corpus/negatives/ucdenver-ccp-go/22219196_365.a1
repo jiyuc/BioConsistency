@@ -1,0 +1,6 @@
+T1	ontology_term 61 89	transcription factor binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008134	
+T2	ontology_term 144 157	transcription
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	
+T3	ontology_term 184 193	regulated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

@@ -1,0 +1,18 @@
+T1	ontology_term 59 68	membranes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 80 101	endoplasmic reticulum
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005783	
+T3	ontology_term 143 159	nuclear envelope
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005635	
+T4	ontology_term 165 188	nucleoplasmic reticulum
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0044195	
+T5	ontology_term 194 209	Golgi apparatus
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005794	
+T6	ontology_term 215 230	plasma membrane
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005886	
+T7	ontology_term 256 274	secretory vesicles
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0099503	
+T8	ontology_term 256 274	secretory vesicles
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0030141	
+T9	ontology_term 256 274	secretory vesicles
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0030133	

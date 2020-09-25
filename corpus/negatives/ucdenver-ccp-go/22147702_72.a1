@@ -1,0 +1,14 @@
+T1	ontology_term 85 93	antibody
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 85 93	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 85 93	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 85 93	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 137 144	vacuole
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005773	
+T6	ontology_term 145 154	formation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009058	
+T7	ontology_term 196 206	organelles
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0043226	

@@ -1,0 +1,4 @@
+T1	ontology_term 60 73	Photosystem I
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009522	
+T2	ontology_term 101 122	Dehydrogenase Complex
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010240	

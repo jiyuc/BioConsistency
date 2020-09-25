@@ -1,0 +1,4 @@
+T1	ontology_term 36 51	transcriptional
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 220 245	polysaccharide metabolism
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005976	

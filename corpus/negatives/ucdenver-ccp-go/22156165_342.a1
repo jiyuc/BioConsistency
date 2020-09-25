@@ -1,0 +1,6 @@
+T1	ontology_term 18 25	nucleus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005634	
+T2	ontology_term 96 107	chloroplast
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	
+T3	ontology_term 108 123	gene expression
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010467	

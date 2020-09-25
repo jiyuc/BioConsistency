@@ -1,0 +1,4 @@
+T1	ontology_term 35 42	cytosol
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005829	
+T2	ontology_term 117 127	organelles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043226	

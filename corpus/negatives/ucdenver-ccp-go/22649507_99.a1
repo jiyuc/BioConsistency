@@ -1,0 +1,8 @@
+T1	ontology_term 26 36	transcript
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 147 158	transcripts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	
+T3	ontology_term 174 184	transcript
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006351	
+T4	ontology_term 258 268	transcript
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006351	

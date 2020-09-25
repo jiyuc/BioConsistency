@@ -1,0 +1,6 @@
+T1	ontology_term 16 35	signal transduction
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007165	
+T2	ontology_term 41 53	cell-surface
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009986	
+T3	ontology_term 82 103	transcription factors
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000981	

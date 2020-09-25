@@ -1,0 +1,8 @@
+T1	ontology_term 31 40	endosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005768	
+T2	ontology_term 53 62	lysosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005764	
+T3	ontology_term 125 129	yolk
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0060417	
+T4	ontology_term 145 158	fertilization
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009566	

@@ -1,0 +1,6 @@
+T1	ontology_term 25 34	thylakoid
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009579	
+T2	ontology_term 57 69	chloroplasts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	
+T3	ontology_term 115 124	plastidal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009536	

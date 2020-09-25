@@ -1,0 +1,8 @@
+T1	ontology_term 56 63	vacuole
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005773	
+T2	ontology_term 64 73	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	
+T3	ontology_term 81 90	cytoplasm
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005737	
+T4	ontology_term 125 134	cytoplasm
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005737	

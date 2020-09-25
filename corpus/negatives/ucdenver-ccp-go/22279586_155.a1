@@ -1,0 +1,8 @@
+T1	ontology_term 57 73	cold acclimation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009631	
+T2	ontology_term 168 191	fatty acid desaturation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006636	
+T3	ontology_term 210 228	freezing tolerance
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009409	
+T4	ontology_term 210 228	freezing tolerance
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0033637	

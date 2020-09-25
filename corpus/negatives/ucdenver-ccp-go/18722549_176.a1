@@ -1,0 +1,14 @@
+T1	ontology_term 24 40	cold acclimation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009631	
+T2	ontology_term 118 122	AMPK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004691	
+T3	ontology_term 118 122	AMPK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0047322	
+T4	ontology_term 118 122	AMPK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0050405	
+T5	ontology_term 125 129	AMPK
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004691	
+T6	ontology_term 125 129	AMPK
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0047322	
+T7	ontology_term 125 129	AMPK
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0050405	

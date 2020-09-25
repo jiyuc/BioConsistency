@@ -1,0 +1,6 @@
+T1	ontology_term 12 18	signal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 12 18	signal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 45 57	mitochondria
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005739	

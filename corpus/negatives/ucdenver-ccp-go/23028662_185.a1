@@ -1,0 +1,6 @@
+T1	ontology_term 92 103	rhabdomeres
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016028	
+T2	ontology_term 123 132	autophagy
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006914	
+T3	ontology_term 123 132	autophagy
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016236	

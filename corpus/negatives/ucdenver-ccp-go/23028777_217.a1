@@ -1,0 +1,10 @@
+T1	ontology_term 75 86	centromeres
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000775	
+T2	ontology_term 102 110	pupation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0035074	
+T3	ontology_term 174 184	centromere
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000775	
+T4	ontology_term 214 224	chromosome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005694	
+T5	ontology_term 286 297	development
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0032502	

@@ -1,0 +1,4 @@
+T1	ontology_term 43 63	DNA polymerase gamma
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003887	
+T2	ontology_term 88 105	mitochondrial DNA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000262	

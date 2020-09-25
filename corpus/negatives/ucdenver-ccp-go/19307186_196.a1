@@ -1,0 +1,4 @@
+T1	ontology_term 161 173	inflammation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006954	
+T2	ontology_term 175 193	cell proliferation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008283	

@@ -1,0 +1,18 @@
+T1	ontology_term 69 75	mating
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000747	
+T2	ontology_term 69 75	mating
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1990277	
+T3	ontology_term 69 75	mating
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007618	
+T4	ontology_term 164 168	mate
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000747	
+T5	ontology_term 164 168	mate
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_1990277	
+T6	ontology_term 164 168	mate
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0007618	
+T7	ontology_term 186 192	mating
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0000747	
+T8	ontology_term 186 192	mating
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_1990277	
+T9	ontology_term 186 192	mating
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0007618	

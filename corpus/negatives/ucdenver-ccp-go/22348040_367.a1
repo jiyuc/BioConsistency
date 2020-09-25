@@ -1,0 +1,6 @@
+T1	ontology_term 0 26	Membrane hyperpolarization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060081	
+T2	ontology_term 36 47	sensitivity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	
+T3	ontology_term 119 134	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	

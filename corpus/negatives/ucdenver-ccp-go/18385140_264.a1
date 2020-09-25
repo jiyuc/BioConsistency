@@ -1,0 +1,14 @@
+T1	ontology_term 33 41	regulate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 42 61	signaling processes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 42 61	signaling processes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 92 99	cytosol
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005829	
+T5	ontology_term 133 140	cytosol
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005829	
+T6	ontology_term 156 171	phosphorylation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016310	
+T7	ontology_term 222 239	apoptotic process
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0006915	

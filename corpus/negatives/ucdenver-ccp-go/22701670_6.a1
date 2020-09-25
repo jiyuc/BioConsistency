@@ -1,0 +1,4 @@
+T1	ontology_term 166 178	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 197 208	phosphatase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016791	

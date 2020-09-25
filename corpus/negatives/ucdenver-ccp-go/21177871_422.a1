@@ -1,0 +1,10 @@
+T1	ontology_term 36 39	PDE
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004114	
+T2	ontology_term 43 73	protein phosphatase activities
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004721	
+T3	ontology_term 151 166	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 182 185	PKA
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004691	
+T5	ontology_term 182 185	PKA
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005952	

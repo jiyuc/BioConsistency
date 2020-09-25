@@ -1,0 +1,4 @@
+T1	ontology_term 48 54	methyl
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032259	
+T2	ontology_term 85 99	NMDA receptors
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004972	

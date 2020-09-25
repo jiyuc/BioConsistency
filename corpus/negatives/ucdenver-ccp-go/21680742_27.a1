@@ -1,0 +1,4 @@
+T1	ontology_term 42 57	ATPase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016887	
+T2	ontology_term 138 153	ATPase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016887	

@@ -1,0 +1,6 @@
+T1	ontology_term 3 14	chloroplast
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009507	
+T2	ontology_term 20 29	cell wall
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005618	
+T3	ontology_term 35 54	intercellular space
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005615	

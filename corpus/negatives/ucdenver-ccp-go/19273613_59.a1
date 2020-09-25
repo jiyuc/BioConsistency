@@ -1,0 +1,10 @@
+T1	ontology_term 11 15	RNAi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 42 45	SAC
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0071173	
+T3	ontology_term 42 45	SAC
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0035003	
+T4	ontology_term 76 83	mitosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0140014	
+T5	ontology_term 76 83	mitosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000278	

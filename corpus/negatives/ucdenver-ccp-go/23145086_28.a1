@@ -1,0 +1,14 @@
+T1	ontology_term 80 96	seed development
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048316	
+T2	ontology_term 180 188	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 299 318	signalling pathways
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007165	
+T4	ontology_term 299 318	signalling pathways
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007165	
+T5	ontology_term 349 362	embryogenesis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009790	
+T6	ontology_term 349 362	embryogenesis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009793	
+T7	ontology_term 349 362	embryogenesis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0009792	

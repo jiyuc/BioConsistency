@@ -1,0 +1,8 @@
+T1	ontology_term 17 23	region
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003002	
+T2	ontology_term 61 69	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 158 164	region
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0003002	
+T4	ontology_term 188 196	membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016020	

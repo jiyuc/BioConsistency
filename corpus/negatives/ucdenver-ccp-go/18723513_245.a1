@@ -1,0 +1,12 @@
+T1	ontology_term 29 35	spines
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044309	
+T2	ontology_term 116 127	proteasomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000502	
+T3	ontology_term 146 152	spines
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0044309	
+T4	ontology_term 226 241	phosphorylation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016310	
+T5	ontology_term 267 272	local
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051179	
+T6	ontology_term 305 316	degradation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009056	

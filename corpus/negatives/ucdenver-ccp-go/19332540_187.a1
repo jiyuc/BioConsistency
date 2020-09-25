@@ -1,0 +1,4 @@
+T1	ontology_term 75 78	JNK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004705	
+T2	ontology_term 112 127	phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	

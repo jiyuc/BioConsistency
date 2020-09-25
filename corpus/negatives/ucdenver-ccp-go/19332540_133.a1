@@ -1,0 +1,8 @@
+T1	ontology_term 87 128	mitochondrial respiratory chain complex I
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005747	
+T2	ontology_term 172 203	mitochondrial respiratory chain
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005746	
+T3	ontology_term 205 215	complex II
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008177	
+T4	ontology_term 280 305	oxidative phosphorylation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006119	

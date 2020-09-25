@@ -1,0 +1,12 @@
+T1	ontology_term 4 17	transmembrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044214	
+T2	ontology_term 4 17	transmembrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016021	
+T3	ontology_term 26 33	sulfate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051923	
+T4	ontology_term 69 92	focal adhesion assembly
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0048041	
+T5	ontology_term 105 112	binding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005488	
+T6	ontology_term 142 150	PKCalpha
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0004697	

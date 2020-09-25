@@ -1,0 +1,4 @@
+T1	ontology_term 23 33	metabolism
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008152	
+T2	ontology_term 68 77	TCA cycle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006099	

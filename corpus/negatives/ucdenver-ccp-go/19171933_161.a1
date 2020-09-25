@@ -1,0 +1,12 @@
+T1	ontology_term 30 33	ERK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004707	
+T2	ontology_term 159 170	ERK cascade
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070371	
+T3	ontology_term 179 183	MEK1
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004708	
+T4	ontology_term 189 193	ERK1
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	
+T5	ontology_term 206 223	receptor  complex
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0043235	
+T6	ontology_term 250 254	ERK1
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0004707	

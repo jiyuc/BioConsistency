@@ -1,0 +1,16 @@
+T1	ontology_term 23 32	signaling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 23 32	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 84 94	locomotion
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040011	
+T4	ontology_term 96 114	pharyngeal pumping
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0043050	
+T5	ontology_term 116 126	egg laying
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0018991	
+T6	ontology_term 116 126	egg laying
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0018991	
+T7	ontology_term 116 126	egg laying
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0007567	
+T8	ontology_term 128 146	defecation cycling
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0035882	

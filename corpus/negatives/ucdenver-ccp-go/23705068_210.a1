@@ -1,0 +1,10 @@
+T1	ontology_term 48 56	lysosome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005764	
+T2	ontology_term 112 132	membrane microdomain
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098857	
+T3	ontology_term 157 169	localization
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051179	
+T4	ontology_term 185 190	TORC1
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0031931	
+T5	ontology_term 198 206	lysosome
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005764	

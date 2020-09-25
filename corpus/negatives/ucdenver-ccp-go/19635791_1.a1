@@ -1,0 +1,8 @@
+T1	ontology_term 46 79	Phosphoenolpyruvate Carboxykinase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004612	
+T2	ontology_term 46 79	Phosphoenolpyruvate Carboxykinase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004613	
+T3	ontology_term 46 79	Phosphoenolpyruvate Carboxykinase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030585	
+T4	ontology_term 125 142	Insulin Secretion
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0030073	

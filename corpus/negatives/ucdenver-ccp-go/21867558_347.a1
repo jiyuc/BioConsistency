@@ -1,0 +1,4 @@
+T1	ontology_term 22 42	chromosome movements
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051305	
+T2	ontology_term 46 64	meiotic prophase I
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007128	

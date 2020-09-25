@@ -1,0 +1,8 @@
+T1	ontology_term 49 59	cell cycle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007049	
+T2	ontology_term 127 134	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 176 187	phosphatase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016791	
+T4	ontology_term 257 278	centriole duplication
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007099	

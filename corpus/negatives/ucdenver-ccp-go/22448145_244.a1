@@ -1,0 +1,6 @@
+T1	ontology_term 45 50	local
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 99 107	regional
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	
+T3	ontology_term 165 180	DNA replication
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006260	

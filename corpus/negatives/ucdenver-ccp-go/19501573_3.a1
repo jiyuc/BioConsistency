@@ -1,0 +1,12 @@
+T1	ontology_term 0 16	Proteins binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005515	
+T2	ontology_term 33 37	MT-1
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0047152	
+T3	ontology_term 132 146	histidine-tRNA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0033425	
+T4	ontology_term 132 146	histidine-tRNA
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0033426	
+T5	ontology_term 174 178	MT-1
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0047152	
+T6	ontology_term 185 192	binding
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005488	

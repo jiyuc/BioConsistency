@@ -1,0 +1,4 @@
+T1	ontology_term 258 261	FPS
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0047221	
+T2	ontology_term 327 343	seed germination
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009845	

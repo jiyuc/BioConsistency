@@ -1,0 +1,4 @@
+T1	ontology_term 0 3	CAT
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004096	
+T2	ontology_term 4 19	gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010467	

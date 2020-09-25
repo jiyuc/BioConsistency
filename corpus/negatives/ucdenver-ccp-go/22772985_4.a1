@@ -1,0 +1,4 @@
+T1	ontology_term 44 54	methylated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032259	
+T2	ontology_term 107 122	DNA methylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006306	

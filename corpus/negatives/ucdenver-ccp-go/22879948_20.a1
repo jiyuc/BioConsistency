@@ -1,0 +1,8 @@
+T1	ontology_term 87 97	attractive
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042056	
+T2	ontology_term 195 213	signaling pathways
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007165	
+T3	ontology_term 195 213	signaling pathways
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007165	
+T4	ontology_term 241 245	EGFR
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005006	

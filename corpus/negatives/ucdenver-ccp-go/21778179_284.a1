@@ -1,0 +1,8 @@
+T1	ontology_term 33 40	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 73 82	synthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	
+T3	ontology_term 87 98	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	
+T4	ontology_term 102 118	storage proteins
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0045735	

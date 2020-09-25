@@ -1,0 +1,6 @@
+T1	ontology_term 26 31	mtDNA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000262	
+T2	ontology_term 78 87	posterior
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0022001	
+T3	ontology_term 178 183	binds
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	

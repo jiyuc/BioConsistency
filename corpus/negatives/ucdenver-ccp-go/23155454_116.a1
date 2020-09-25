@@ -1,0 +1,6 @@
+T1	ontology_term 36 43	signals
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0023052	
+T2	ontology_term 36 43	signals
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 78 92	vacuolar lumen
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005775	

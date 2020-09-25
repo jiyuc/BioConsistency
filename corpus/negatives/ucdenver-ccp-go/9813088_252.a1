@@ -1,0 +1,8 @@
+T1	ontology_term 81 88	spindle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005819	
+T2	ontology_term 110 116	septum
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030428	
+T3	ontology_term 128 134	septum
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030428	
+T4	ontology_term 135 144	formation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	

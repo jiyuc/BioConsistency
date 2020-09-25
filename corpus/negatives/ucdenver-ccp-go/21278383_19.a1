@@ -1,0 +1,4 @@
+T1	ontology_term 117 124	nucleus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005634	
+T2	ontology_term 197 206	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	

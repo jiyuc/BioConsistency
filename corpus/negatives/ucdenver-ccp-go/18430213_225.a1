@@ -1,0 +1,4 @@
+T1	ontology_term 0 18	Auxin biosynthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009851	
+T2	ontology_term 41 62	tryptophan metabolism
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006568	

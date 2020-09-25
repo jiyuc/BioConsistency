@@ -1,0 +1,16 @@
+T1	ontology_term 125 137	vasodilation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042311	
+T2	ontology_term 237 252	phosphorylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	
+T3	ontology_term 348 357	cytoplasm
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005737	
+T4	ontology_term 419 423	RyRs
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_1990425	
+T5	ontology_term 490 505	plasma membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005886	
+T6	ontology_term 622 637	plasma membrane
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005886	
+T7	ontology_term 655 664	exchanger
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0015297	
+T8	ontology_term 680 695	plasma membrane
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005886	

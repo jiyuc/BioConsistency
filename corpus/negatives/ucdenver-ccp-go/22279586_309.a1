@@ -1,0 +1,8 @@
+T1	ontology_term 39 54	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 123 141	freezing tolerance
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009409	
+T3	ontology_term 123 141	freezing tolerance
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0033637	
+T4	ontology_term 146 161	plasma membrane
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005886	

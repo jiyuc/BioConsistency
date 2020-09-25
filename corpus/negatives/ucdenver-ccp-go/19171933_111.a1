@@ -1,0 +1,4 @@
+T1	ontology_term 92 96	PI3K
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016303	
+T2	ontology_term 175 189	anti-apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043066	

@@ -1,0 +1,6 @@
+T1	ontology_term 170 185	gene expression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 213 222	cell wall
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005618	
+T3	ontology_term 480 486	growth
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0040007	

@@ -1,0 +1,6 @@
+T1	ontology_term 30 41	photoperiod
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009648	
+T2	ontology_term 157 168	photoperiod
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009648	
+T3	ontology_term 177 186	flowering
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010228	

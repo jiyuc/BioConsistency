@@ -1,0 +1,12 @@
+T1	ontology_term 7 15	acrosome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0001669	
+T2	ontology_term 32 50	acrosomal vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0001669	
+T3	ontology_term 74 79	Golgi
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005794	
+T4	ontology_term 133 142	acrosomal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0001669	
+T5	ontology_term 155 163	anchored
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0043495	
+T6	ontology_term 171 187	nuclear envelope
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005635	

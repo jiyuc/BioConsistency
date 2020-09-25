@@ -1,0 +1,4 @@
+T1	ontology_term 26 34	splicing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045292	
+T2	ontology_term 135 163	nonsense mediated mRNA decay
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000184	

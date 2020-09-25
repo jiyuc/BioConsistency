@@ -1,0 +1,14 @@
+T1	ontology_term 0 17	Cell cycle arrest
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007050	
+T2	ontology_term 119 127	G1-phase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051318	
+T3	ontology_term 183 190	S-phase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051320	
+T4	ontology_term 183 190	S-phase
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051320	
+T5	ontology_term 231 239	G2-phase
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051319	
+T6	ontology_term 282 289	M-phase
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000279	
+T7	ontology_term 282 289	M-phase
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0000279	

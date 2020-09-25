@@ -1,0 +1,6 @@
+T1	ontology_term 50 65	signal molecule
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048018	
+T2	ontology_term 211 218	signals
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 211 218	signals
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	

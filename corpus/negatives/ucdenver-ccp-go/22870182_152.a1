@@ -1,0 +1,4 @@
+T1	ontology_term 27 32	LHCII
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009517	
+T2	ontology_term 98 129	post-translational modification
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043687	

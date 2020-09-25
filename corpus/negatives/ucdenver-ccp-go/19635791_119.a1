@@ -1,0 +1,4 @@
+T1	ontology_term 23 38	enzyme activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003824	
+T2	ontology_term 114 127	intracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	

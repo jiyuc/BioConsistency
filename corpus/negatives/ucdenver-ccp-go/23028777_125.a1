@@ -1,0 +1,14 @@
+T1	ontology_term 22 33	centromeric
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000775	
+T2	ontology_term 34 40	signal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 34 40	signal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	
+T4	ontology_term 78 82	RNAi
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016246	
+T5	ontology_term 166 172	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 166 172	signal
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0023052	
+T7	ontology_term 272 283	centromeric
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0000775	

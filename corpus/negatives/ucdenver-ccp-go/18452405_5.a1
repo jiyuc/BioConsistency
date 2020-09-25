@@ -1,0 +1,8 @@
+T1	ontology_term 105 110	Golgi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005794	
+T2	ontology_term 128 149	endoplasmic reticulum
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005783	
+T3	ontology_term 200 211	Golgi stack
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005795	
+T4	ontology_term 220 223	TGN
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005802	

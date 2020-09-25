@@ -1,0 +1,6 @@
+T1	ontology_term 85 97	vasodilation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042311	
+T2	ontology_term 243 258	plasma membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005886	
+T3	ontology_term 263 267	RyRs
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_1990425	

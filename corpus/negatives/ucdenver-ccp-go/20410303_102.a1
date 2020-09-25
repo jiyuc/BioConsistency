@@ -1,0 +1,58 @@
+T1	ontology_term 0 9	Membranes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 57 65	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003823	
+T3	ontology_term 57 65	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 57 65	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 57 65	antibody
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0019815	
+T6	ontology_term 125 133	antibody
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0003823	
+T7	ontology_term 125 133	antibody
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0042571	
+T8	ontology_term 125 133	antibody
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0019814	
+T9	ontology_term 125 133	antibody
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0019815	
+T10	ontology_term 161 169	antibody
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0003823	
+T11	ontology_term 161 169	antibody
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0019815	
+T12	ontology_term 161 169	antibody
+N12	Reference T12 http://purl.obolibrary.org/obo/GO_0042571	
+T13	ontology_term 161 169	antibody
+N13	Reference T13 http://purl.obolibrary.org/obo/GO_0019814	
+T14	ontology_term 200 208	antibody
+N14	Reference T14 http://purl.obolibrary.org/obo/GO_0003823	
+T15	ontology_term 200 208	antibody
+N15	Reference T15 http://purl.obolibrary.org/obo/GO_0042571	
+T16	ontology_term 200 208	antibody
+N16	Reference T16 http://purl.obolibrary.org/obo/GO_0019814	
+T17	ontology_term 200 208	antibody
+N17	Reference T17 http://purl.obolibrary.org/obo/GO_0019815	
+T18	ontology_term 334 342	antibody
+N18	Reference T18 http://purl.obolibrary.org/obo/GO_0003823	
+T19	ontology_term 334 342	antibody
+N19	Reference T19 http://purl.obolibrary.org/obo/GO_0042571	
+T20	ontology_term 334 342	antibody
+N20	Reference T20 http://purl.obolibrary.org/obo/GO_0019814	
+T21	ontology_term 334 342	antibody
+N21	Reference T21 http://purl.obolibrary.org/obo/GO_0019815	
+T22	ontology_term 396 404	antibody
+N22	Reference T22 http://purl.obolibrary.org/obo/GO_0003823	
+T23	ontology_term 396 404	antibody
+N23	Reference T23 http://purl.obolibrary.org/obo/GO_0019815	
+T24	ontology_term 396 404	antibody
+N24	Reference T24 http://purl.obolibrary.org/obo/GO_0042571	
+T25	ontology_term 396 404	antibody
+N25	Reference T25 http://purl.obolibrary.org/obo/GO_0019814	
+T26	ontology_term 440 448	antibody
+N26	Reference T26 http://purl.obolibrary.org/obo/GO_0003823	
+T27	ontology_term 440 448	antibody
+N27	Reference T27 http://purl.obolibrary.org/obo/GO_0019815	
+T28	ontology_term 440 448	antibody
+N28	Reference T28 http://purl.obolibrary.org/obo/GO_0042571	
+T29	ontology_term 440 448	antibody
+N29	Reference T29 http://purl.obolibrary.org/obo/GO_0019814	

@@ -1,0 +1,8 @@
+T1	ontology_term 48 63	plasma membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005886	
+T2	ontology_term 64 74	aquaporins
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015250	
+T3	ontology_term 87 95	regulate
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 114 126	localization
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051179	

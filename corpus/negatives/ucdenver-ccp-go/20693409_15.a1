@@ -1,0 +1,8 @@
+T1	ontology_term 4 21	mitogen-activated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045840	
+T2	ontology_term 38 51	MAPK) cascade
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000165	
+T3	ontology_term 90 103	extracellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005576	
+T4	ontology_term 132 145	intracellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005622	

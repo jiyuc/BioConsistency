@@ -1,0 +1,6 @@
+T1	ontology_term 4 21	Mon1-Ccz1 complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0035658	
+T2	ontology_term 29 32	GEF
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005085	
+T3	ontology_term 40 54	late endosomal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005770	

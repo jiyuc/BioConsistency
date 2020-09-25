@@ -1,0 +1,10 @@
+T1	ontology_term 21 30	apoptosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0097194	
+T2	ontology_term 21 30	apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006915	
+T3	ontology_term 47 53	flight
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0060361	
+T4	ontology_term 63 67	IFMs
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_1990844	
+T5	ontology_term 119 129	Cell Death
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0008219	

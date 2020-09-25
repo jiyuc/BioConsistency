@@ -1,0 +1,6 @@
+T1	ontology_term 15 35	mitochondrial genome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000262	
+T2	ontology_term 91 129	mitochondrial Electron Transport Chain
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005746	
+T3	ontology_term 183 200	respiratory chain
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0070469	

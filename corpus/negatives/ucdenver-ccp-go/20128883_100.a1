@@ -1,0 +1,10 @@
+T1	ontology_term 70 85	kinase activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016301	
+T2	ontology_term 70 85	kinase activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033674	
+T3	ontology_term 127 142	kinase activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016301	
+T4	ontology_term 127 142	kinase activity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0033674	
+T5	ontology_term 200 219	signal transduction
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007165	

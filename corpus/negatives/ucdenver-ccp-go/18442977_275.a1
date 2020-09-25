@@ -1,0 +1,8 @@
+T1	ontology_term 50 66	dendritic shafts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043198	
+T2	ontology_term 71 77	spines
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0044309	
+T3	ontology_term 119 133	NMDA receptors
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004972	
+T4	ontology_term 212 226	NMDA receptors
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004972	

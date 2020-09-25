@@ -1,0 +1,6 @@
+T1	ontology_term 0 15	Ion homeostasis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0050801	
+T2	ontology_term 20 29	apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097194	
+T3	ontology_term 20 29	apoptosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006915	

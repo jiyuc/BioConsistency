@@ -1,0 +1,12 @@
+T1	ontology_term 37 40	FPS
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0047221	
+T2	ontology_term 61 72	peroxisomal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005777	
+T3	ontology_term 61 72	peroxisomal
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005777	
+T4	ontology_term 102 111	localizes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0051179	
+T5	ontology_term 119 130	peroxisomes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005777	
+T6	ontology_term 119 130	peroxisomes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005777	

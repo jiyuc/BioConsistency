@@ -1,0 +1,16 @@
+T1	ontology_term 111 120	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 126 138	cytochrome c
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045155	
+T3	ontology_term 149 159	apoptosome
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043293	
+T4	ontology_term 215 221	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 215 221	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 225 243	caspase activation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0097153	
+T7	ontology_term 225 243	caspase activation
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0006919	
+T8	ontology_term 225 243	caspase activation
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0004197	

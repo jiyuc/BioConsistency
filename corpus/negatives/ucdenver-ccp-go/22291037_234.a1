@@ -1,0 +1,6 @@
+T1	ontology_term 64 72	exchange
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015297	
+T2	ontology_term 157 176	membrane tubulation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097749	
+T3	ontology_term 157 176	membrane tubulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0097320	

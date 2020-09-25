@@ -1,0 +1,4 @@
+T1	ontology_term 4 19	gene expression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010467	
+T2	ontology_term 120 129	posterior
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0022001	

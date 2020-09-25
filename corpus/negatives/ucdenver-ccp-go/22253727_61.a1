@@ -1,0 +1,4 @@
+T1	ontology_term 45 51	ovules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030728	
+T2	ontology_term 98 108	fertilized
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009566	

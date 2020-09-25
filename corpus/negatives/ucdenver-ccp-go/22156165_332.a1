@@ -1,0 +1,4 @@
+T1	ontology_term 10 28	mRNA transcription
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009299	
+T2	ontology_term 36 47	chloroplast
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	

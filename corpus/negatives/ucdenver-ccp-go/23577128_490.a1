@@ -1,0 +1,4 @@
+T1	ontology_term 20 33	Gap Junctions
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005921	
+T2	ontology_term 100 118	Forward Locomotion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043056	

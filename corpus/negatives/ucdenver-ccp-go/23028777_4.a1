@@ -1,0 +1,14 @@
+T1	ontology_term 4 14	centromere
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000775	
+T2	ontology_term 29 35	region
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	
+T3	ontology_term 43 53	chromosome
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005694	
+T4	ontology_term 100 122	chromosome segregation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007059	
+T5	ontology_term 130 143	cell division
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051301	
+T6	ontology_term 190 211	kinetochore formation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051382	
+T7	ontology_term 216 223	spindle
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005819	

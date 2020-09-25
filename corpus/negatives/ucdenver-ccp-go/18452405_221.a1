@@ -1,0 +1,6 @@
+T1	ontology_term 78 89	sequestered
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051235	
+T2	ontology_term 106 115	organelle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043226	
+T3	ontology_term 172 177	Golgi
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005794	

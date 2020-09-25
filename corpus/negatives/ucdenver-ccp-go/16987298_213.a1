@@ -1,0 +1,10 @@
+T1	ontology_term 65 82	cell-cycle arrest
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007050	
+T2	ontology_term 120 149	regulation of gene expression
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010468	
+T3	ontology_term 164 170	cyclin
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016538	
+T4	ontology_term 171 174	CDK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004693	
+T5	ontology_term 179 189	cell cycle
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007049	

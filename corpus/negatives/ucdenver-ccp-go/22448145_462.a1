@@ -1,0 +1,4 @@
+T1	ontology_term 14 50	regulation of cell cycle progression
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051726	
+T2	ontology_term 58 69	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

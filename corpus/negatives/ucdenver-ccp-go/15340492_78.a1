@@ -1,0 +1,8 @@
+T1	ontology_term 40 50	locomotion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040011	
+T2	ontology_term 52 70	pharyngeal pumping
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043050	
+T3	ontology_term 97 107	chemotaxis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006935	
+T4	ontology_term 124 135	sensitivity
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0046960	

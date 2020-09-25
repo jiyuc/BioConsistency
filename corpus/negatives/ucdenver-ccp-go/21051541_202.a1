@@ -1,0 +1,12 @@
+T1	ontology_term 28 39	transcripts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 67 77	neuroligin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0042043	
+T3	ontology_term 101 118	pre-mRNA splicing
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000398	
+T4	ontology_term 140 164	trans-synaptic signaling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0099537	
+T5	ontology_term 251 261	transcript
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006351	
+T6	ontology_term 302 324	neuron differentiation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0030182	

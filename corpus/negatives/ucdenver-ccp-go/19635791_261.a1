@@ -1,0 +1,10 @@
+T1	ontology_term 14 23	synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 97 112	gluconeogenesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006094	
+T3	ontology_term 134 143	cytosolic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005829	
+T4	ontology_term 201 214	GTP synthesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006183	
+T5	ontology_term 218 221	SCS
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004776	

@@ -1,0 +1,8 @@
+T1	ontology_term 114 118	RNAi
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016246	
+T2	ontology_term 242 247	TORC1
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031931	
+T3	ontology_term 252 257	TORC2
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031932	
+T4	ontology_term 438 444	growth
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0040007	

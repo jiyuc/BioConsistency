@@ -1,0 +1,6 @@
+T1	ontology_term 80 85	MAPKK
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004708	
+T2	ontology_term 152 162	apoplastic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0048046	
+T3	ontology_term 293 303	apoplastic
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0048046	

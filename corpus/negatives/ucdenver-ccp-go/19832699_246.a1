@@ -1,0 +1,22 @@
+T1	ontology_term 96 103	cytosol
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005829	
+T2	ontology_term 147 156	apoptosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097194	
+T3	ontology_term 147 156	apoptosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006915	
+T4	ontology_term 181 188	nucleus
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005634	
+T5	ontology_term 198 216	caspase activation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0097153	
+T6	ontology_term 198 216	caspase activation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0006919	
+T7	ontology_term 198 216	caspase activation
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0004197	
+T8	ontology_term 281 302	endoplasmic reticulum
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005783	
+T9	ontology_term 315 324	apoptosis
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0097194	
+T10	ontology_term 315 324	apoptosis
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0006915	
+T11	ontology_term 375 385	metabolism
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0008152	

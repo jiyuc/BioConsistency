@@ -1,0 +1,10 @@
+T1	ontology_term 4 12	learning
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007612	
+T2	ontology_term 316 321	mated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000747	
+T3	ontology_term 316 321	mated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_1990277	
+T4	ontology_term 316 321	mated
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007618	
+T5	ontology_term 340 348	behavior
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007610	

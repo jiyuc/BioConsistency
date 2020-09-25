@@ -1,0 +1,10 @@
+T1	ontology_term 116 133	protein synthesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006412	
+T2	ontology_term 217 221	bind
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	
+T3	ontology_term 225 237	localization
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051179	
+T4	ontology_term 238 245	signals
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 238 245	signals
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	

@@ -1,0 +1,6 @@
+T1	ontology_term 38 56	glucose metabolism
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006006	
+T2	ontology_term 214 228	vesicle fusion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006906	
+T3	ontology_term 238 253	plasma membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005886	

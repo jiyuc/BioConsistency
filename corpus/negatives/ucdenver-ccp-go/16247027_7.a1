@@ -1,0 +1,12 @@
+T1	ontology_term 3 14	cytokinesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000910	
+T2	ontology_term 40 59	microtubule bundles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097427	
+T3	ontology_term 40 59	microtubule bundles
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0001578	
+T4	ontology_term 80 87	spindle
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005819	
+T5	ontology_term 88 95	midbody
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0030496	
+T6	ontology_term 105 132	contractile ring constricts
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000916	

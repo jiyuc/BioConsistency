@@ -1,0 +1,4 @@
+T1	ontology_term 10 18	learning
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007612	
+T2	ontology_term 71 92	reproductive behavior
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019098	

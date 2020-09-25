@@ -1,0 +1,4 @@
+T1	ontology_term 16 30	lipid droplets
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005811	
+T2	ontology_term 34 41	pigment
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043473	

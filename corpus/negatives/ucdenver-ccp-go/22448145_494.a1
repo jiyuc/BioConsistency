@@ -1,0 +1,6 @@
+T1	ontology_term 0 13	Cytochrome b2
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004460	
+T2	ontology_term 18 30	cytochrome c
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045155	
+T3	ontology_term 90 102	mitochondria
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005739	

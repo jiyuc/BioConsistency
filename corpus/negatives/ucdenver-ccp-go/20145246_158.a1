@@ -1,0 +1,4 @@
+T1	ontology_term 74 99	gamma-secretase complexes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070765	
+T2	ontology_term 373 380	binding
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	

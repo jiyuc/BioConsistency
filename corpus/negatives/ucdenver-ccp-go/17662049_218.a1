@@ -1,0 +1,10 @@
+T1	ontology_term 86 90	IL-6
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005138	
+T2	ontology_term 91 100	secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046903	
+T3	ontology_term 105 120	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 124 153	cAMP response element-binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0035497	
+T5	ontology_term 124 153	cAMP response element-binding
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0035497	

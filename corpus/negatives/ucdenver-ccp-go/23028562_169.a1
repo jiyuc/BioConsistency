@@ -1,0 +1,14 @@
+T1	ontology_term 0 9	Autophagy
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006914	
+T2	ontology_term 0 9	Autophagy
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016236	
+T3	ontology_term 39 46	digests
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007586	
+T4	ontology_term 71 79	regulate
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0065007	
+T5	ontology_term 93 111	cellular processes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0042995	
+T6	ontology_term 93 111	cellular processes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009987	
+T7	ontology_term 142 161	signal transduction
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0007165	

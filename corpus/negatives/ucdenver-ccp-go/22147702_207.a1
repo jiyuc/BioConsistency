@@ -1,0 +1,6 @@
+T1	ontology_term 53 62	lysosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005764	
+T2	ontology_term 102 111	cytoplasm
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005737	
+T3	ontology_term 139 158	cellular components
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005575	

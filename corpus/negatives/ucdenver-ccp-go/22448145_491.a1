@@ -1,0 +1,4 @@
+T1	ontology_term 61 69	secreted
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0046903	
+T2	ontology_term 85 91	ligand
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005488	

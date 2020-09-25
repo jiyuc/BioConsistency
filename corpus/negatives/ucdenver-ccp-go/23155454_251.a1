@@ -1,0 +1,8 @@
+T1	ontology_term 119 126	ER body
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010168	
+T2	ontology_term 127 136	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	
+T3	ontology_term 207 214	ER body
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010168	
+T4	ontology_term 215 224	formation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	

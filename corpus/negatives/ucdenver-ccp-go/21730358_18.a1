@@ -1,0 +1,4 @@
+T1	ontology_term 70 81	photoperiod
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009648	
+T2	ontology_term 134 138	apex
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097683	

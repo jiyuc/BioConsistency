@@ -1,0 +1,6 @@
+T1	ontology_term 25 37	mitochondria
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005739	
+T2	ontology_term 42 53	peroxisomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005777	
+T3	ontology_term 42 53	peroxisomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005777	

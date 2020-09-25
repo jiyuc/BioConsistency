@@ -1,0 +1,6 @@
+T1	ontology_term 32 64	phosphatidylethanolamine-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0008429	
+T2	ontology_term 103 112	Flowering
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010228	
+T3	ontology_term 167 171	apex
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0097683	

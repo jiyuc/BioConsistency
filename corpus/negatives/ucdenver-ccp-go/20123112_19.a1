@@ -1,0 +1,4 @@
+T1	ontology_term 97 105	cellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007349	
+T2	ontology_term 118 127	metabolic
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008152	

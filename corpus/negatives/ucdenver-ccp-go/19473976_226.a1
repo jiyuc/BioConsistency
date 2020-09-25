@@ -1,0 +1,6 @@
+T1	ontology_term 32 39	lactate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007595	
+T2	ontology_term 81 92	transporter
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006810	
+T3	ontology_term 164 177	intracellular
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005622	

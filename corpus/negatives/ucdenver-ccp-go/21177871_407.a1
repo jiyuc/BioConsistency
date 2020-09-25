@@ -1,0 +1,8 @@
+T1	ontology_term 38 41	PKA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004691	
+T2	ontology_term 38 41	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005952	
+T3	ontology_term 42 57	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 71 92	response to forskolin
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_1904321	

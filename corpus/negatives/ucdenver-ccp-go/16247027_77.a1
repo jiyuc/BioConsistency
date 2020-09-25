@@ -1,0 +1,6 @@
+T1	ontology_term 17 29	spindle pole
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000922	
+T2	ontology_term 81 89	anaphase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051322	
+T3	ontology_term 91 98	spindle
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005819	

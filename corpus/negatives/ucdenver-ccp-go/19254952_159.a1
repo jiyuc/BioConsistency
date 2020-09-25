@@ -1,0 +1,8 @@
+T1	ontology_term 42 46	EGFR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005006	
+T2	ontology_term 47 63	kinase  activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016301	
+T3	ontology_term 47 63	kinase  activity
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0033674	
+T4	ontology_term 143 146	ERK
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	

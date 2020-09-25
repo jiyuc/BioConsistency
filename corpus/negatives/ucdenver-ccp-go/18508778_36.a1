@@ -1,0 +1,10 @@
+T1	ontology_term 44 53	regulated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 57 77	response to activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0014823	
+T3	ontology_term 173 182	regulates
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	
+T4	ontology_term 196 200	core
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019013	
+T5	ontology_term 201 211	exocytosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0006887	

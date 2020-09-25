@@ -1,0 +1,4 @@
+T1	ontology_term 35 41	region
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003002	
+T2	ontology_term 151 164	glycosylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0070085	

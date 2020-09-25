@@ -1,0 +1,12 @@
+T1	ontology_term 61 70	localized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 74 88	late endosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005770	
+T3	ontology_term 89 98	lysosomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005764	
+T4	ontology_term 147 155	lysosome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005764	
+T5	ontology_term 182 192	regulation
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0065007	
+T6	ontology_term 196 205	lysosomes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0005764	

@@ -1,0 +1,4 @@
+T1	ontology_term 57 81	vacuolar protein sorting
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006623	
+T2	ontology_term 86 104	vacuole biogenesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007033	

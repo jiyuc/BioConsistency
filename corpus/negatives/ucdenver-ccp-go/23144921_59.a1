@@ -1,0 +1,8 @@
+T1	ontology_term 51 72	transcription factors
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000981	
+T2	ontology_term 115 133	signaling pathways
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007165	
+T3	ontology_term 115 133	signaling pathways
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007165	
+T4	ontology_term 156 178	camalexin biosynthesis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0010120	

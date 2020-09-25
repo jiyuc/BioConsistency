@@ -1,0 +1,6 @@
+T1	ontology_term 38 48	PKCepsilon
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004697	
+T2	ontology_term 233 243	PKCepsilon
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004697	
+T3	ontology_term 321 331	regulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

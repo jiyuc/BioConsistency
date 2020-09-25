@@ -1,0 +1,4 @@
+T1	ontology_term 18 46	adenine nucleotide transport
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051503	
+T2	ontology_term 63 75	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	

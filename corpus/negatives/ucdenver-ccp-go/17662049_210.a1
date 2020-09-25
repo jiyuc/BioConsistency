@@ -1,0 +1,4 @@
+T1	ontology_term 35 45	microvilli
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005902	
+T2	ontology_term 51 71	membrane projections
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031253	

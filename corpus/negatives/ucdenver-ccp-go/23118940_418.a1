@@ -1,0 +1,4 @@
+T1	ontology_term 51 67	starch breakdown
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005983	
+T2	ontology_term 128 140	chloroplasts
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009507	

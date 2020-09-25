@@ -1,0 +1,12 @@
+T1	ontology_term 0 15	Photoprotective
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0010117	
+T2	ontology_term 16 34	energy dissipation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009765	
+T3	ontology_term 66 80	photosystem II
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009523	
+T4	ontology_term 81 107	light-harvesting complexes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0030076	
+T5	ontology_term 121 130	membranes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016020	
+T6	ontology_term 142 154	chloroplasts
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0009507	

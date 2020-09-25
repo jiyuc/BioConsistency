@@ -1,0 +1,4 @@
+T1	ontology_term 12 31	astral microtubules
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000235	
+T2	ontology_term 65 72	regions
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	

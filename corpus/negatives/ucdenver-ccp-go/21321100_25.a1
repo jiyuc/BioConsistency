@@ -1,0 +1,10 @@
+T1	ontology_term 68 79	melanosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042470	
+T2	ontology_term 93 111	lysosomal membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005765	
+T3	ontology_term 93 111	lysosomal membrane
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005765	
+T4	ontology_term 155 164	formation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	
+T5	ontology_term 168 176	exosomes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0070062	

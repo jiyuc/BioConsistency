@@ -1,0 +1,4 @@
+T1	ontology_term 14 40	flap endonuclease activity
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048256	
+T2	ontology_term 88 104	replication fork
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005657	

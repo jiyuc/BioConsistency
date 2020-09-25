@@ -1,0 +1,10 @@
+T1	ontology_term 3 10	fertile
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009566	
+T2	ontology_term 73 84	chromosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005694	
+T3	ontology_term 98 106	prophase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051324	
+T4	ontology_term 181 188	meiosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0140013	
+T5	ontology_term 181 188	meiosis
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051321	

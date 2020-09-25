@@ -1,0 +1,20 @@
+T1	ontology_term 96 102	methyl
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0032259	
+T2	ontology_term 137 151	AMPA  receptor
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032281	
+T3	ontology_term 161 167	methyl
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032259	
+T4	ontology_term 192 206	NMDA  receptor
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004972	
+T5	ontology_term 208 211	LTP
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0060291	
+T6	ontology_term 213 235	long term potentiation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0060291	
+T7	ontology_term 237 240	LTD
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0060292	
+T8	ontology_term 242 262	long term depression
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0060292	
+T9	ontology_term 373 380	binding
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0005488	
+T10	ontology_term 396 422	glutamate receptor-binding
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0035254	

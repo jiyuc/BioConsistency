@@ -1,0 +1,18 @@
+T1	ontology_term 12 19	meiosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0140013	
+T2	ontology_term 12 19	meiosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051321	
+T3	ontology_term 35 46	chromosomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005694	
+T4	ontology_term 68 77	formation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0009058	
+T5	ontology_term 85 105	synaptonemal complex
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0000795	
+T6	ontology_term 132 139	meiosis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0140013	
+T7	ontology_term 132 139	meiosis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0051321	
+T8	ontology_term 140 148	prophase
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0051324	
+T9	ontology_term 172 181	formation
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0009058	

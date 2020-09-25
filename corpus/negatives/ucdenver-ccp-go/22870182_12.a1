@@ -1,0 +1,4 @@
+T1	ontology_term 104 122	energy dissipative
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009765	
+T2	ontology_term 202 217	photoprotection
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010117	

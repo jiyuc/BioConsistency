@@ -1,0 +1,4 @@
+T1	ontology_term 115 118	FPS
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0047221	
+T2	ontology_term 236 254	isoprenoid pathway
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0010142	

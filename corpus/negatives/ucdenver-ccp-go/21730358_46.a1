@@ -1,0 +1,4 @@
+T1	ontology_term 80 90	fertilized
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009566	
+T2	ontology_term 138 148	fertilizer
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009566	

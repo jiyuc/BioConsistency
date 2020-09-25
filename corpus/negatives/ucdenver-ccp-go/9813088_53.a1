@@ -1,0 +1,4 @@
+T1	ontology_term 91 102	centrosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005813	
+T2	ontology_term 146 176	microtubule-organizing centers
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005815	

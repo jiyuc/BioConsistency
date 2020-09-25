@@ -1,0 +1,4 @@
+T1	ontology_term 262 280	cellular processes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042995	
+T2	ontology_term 262 280	cellular processes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009987	

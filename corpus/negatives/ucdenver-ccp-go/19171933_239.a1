@@ -1,0 +1,6 @@
+T1	ontology_term 38 52	anti-apoptosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043066	
+T2	ontology_term 111 120	signaling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0023052	
+T3	ontology_term 111 120	signaling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0023052	

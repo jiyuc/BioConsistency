@@ -1,0 +1,4 @@
+T1	ontology_term 102 126	microtubule cytoskeleton
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015630	
+T2	ontology_term 177 200	microtubule-stabilizing
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007026	

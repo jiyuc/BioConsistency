@@ -1,0 +1,8 @@
+T1	ontology_term 178 187	anchoring
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0043495	
+T2	ontology_term 192 200	acrosome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0001669	
+T3	ontology_term 208 224	nuclear envelope
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005635	
+T4	ontology_term 255 270	actin filaments
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005884	

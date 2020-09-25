@@ -1,0 +1,4 @@
+T1	ontology_term 93 103	regulation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 107 125	beta-adrenoceptors
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004939	

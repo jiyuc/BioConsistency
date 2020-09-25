@@ -1,0 +1,4 @@
+T1	ontology_term 0 29	Actin cytoskeleton remodeling
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031532	
+T2	ontology_term 59 70	endocytosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006897	

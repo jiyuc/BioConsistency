@@ -1,0 +1,8 @@
+T1	ontology_term 145 157	cytoskeleton
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005856	
+T2	ontology_term 187 194	nucleus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005634	
+T3	ontology_term 212 232	chromatin-remodeling
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006338	
+T4	ontology_term 212 232	chromatin-remodeling
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0006338	

@@ -1,0 +1,4 @@
+T1	ontology_term 66 84	nodule development
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009877	
+T2	ontology_term 109 119	transcript
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

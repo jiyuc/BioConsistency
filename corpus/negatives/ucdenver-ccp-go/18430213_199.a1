@@ -1,0 +1,4 @@
+T1	ontology_term 20 24	TSAs
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0033984	
+T2	ontology_term 49 69	secondary metabolism
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019748	

@@ -1,0 +1,4 @@
+T1	ontology_term 20 28	membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 82 99	biomineralization
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0110148	

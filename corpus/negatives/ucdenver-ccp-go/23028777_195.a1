@@ -1,0 +1,4 @@
+T1	ontology_term 52 61	nucleolus
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005730	
+T2	ontology_term 158 168	centromere
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000775	

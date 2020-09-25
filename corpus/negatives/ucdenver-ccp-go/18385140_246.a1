@@ -1,0 +1,10 @@
+T1	ontology_term 82 90	localize
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 94 106	mitochondria
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005739	
+T3	ontology_term 138 164	mitochondrial localization
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051646	
+T4	ontology_term 165 171	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 165 171	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	

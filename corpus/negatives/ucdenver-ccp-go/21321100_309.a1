@@ -1,0 +1,12 @@
+T1	ontology_term 14 32	lysosomal membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005765	
+T2	ontology_term 14 32	lysosomal membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005765	
+T3	ontology_term 33 44	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	
+T4	ontology_term 46 54	Cellular
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007349	
+T5	ontology_term 84 93	lysosomal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0005764	
+T6	ontology_term 94 111	lipid degradation
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016042	

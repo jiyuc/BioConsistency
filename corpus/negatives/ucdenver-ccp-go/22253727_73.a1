@@ -1,0 +1,6 @@
+T1	ontology_term 5 15	pollinated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009856	
+T2	ontology_term 195 201	ovules
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030728	
+T3	ontology_term 202 211	developed
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	

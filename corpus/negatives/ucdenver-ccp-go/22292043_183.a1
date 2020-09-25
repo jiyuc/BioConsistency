@@ -1,0 +1,4 @@
+T1	ontology_term 8 23	cytochrome P450
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0019825	
+T2	ontology_term 41 69	brassinosteroid biosynthesis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016132	

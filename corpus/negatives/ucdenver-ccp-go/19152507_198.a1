@@ -1,0 +1,4 @@
+T1	ontology_term 15 35	nitric oxide signals
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007263	
+T2	ontology_term 41 49	cellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007349	

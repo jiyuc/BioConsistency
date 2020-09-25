@@ -1,0 +1,10 @@
+T1	ontology_term 33 43	interphase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051325	
+T2	ontology_term 113 123	proteasome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000502	
+T3	ontology_term 133 144	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	
+T4	ontology_term 166 173	binding
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005488	
+T5	ontology_term 178 192	ubiquitination
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0031386	

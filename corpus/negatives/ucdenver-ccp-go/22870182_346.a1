@@ -1,0 +1,6 @@
+T1	ontology_term 17 22	LHCII
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009517	
+T2	ontology_term 23 40	protease activity
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008233	
+T3	ontology_term 57 66	regulates
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0065007	

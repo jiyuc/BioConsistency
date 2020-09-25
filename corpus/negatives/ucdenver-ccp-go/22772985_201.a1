@@ -1,0 +1,8 @@
+T1	ontology_term 105 120	DNA methylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006306	
+T2	ontology_term 151 160	regulator
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 187 202	gene expression
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010467	
+T4	ontology_term 304 308	RdDM
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0080188	

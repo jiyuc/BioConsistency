@@ -1,0 +1,4 @@
+T1	ontology_term 0 11	RNA editing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009451	
+T2	ontology_term 69 79	transcript
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006351	

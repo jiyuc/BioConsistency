@@ -1,0 +1,4 @@
+T1	ontology_term 45 61	limit dextrinase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051060	
+T2	ontology_term 45 61	limit dextrinase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004574	

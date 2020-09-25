@@ -1,0 +1,4 @@
+T1	ontology_term 24 37	gene silenced
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016458	
+T2	ontology_term 56 71	DNA methylation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006306	

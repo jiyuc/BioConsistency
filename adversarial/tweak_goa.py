@@ -1,8 +1,14 @@
+import os
+import sys
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 from obj.goa import GOA
 import glob
 from tqdm import tqdm
 from obj.instance import Instance
 import random
+from tool.command_parse import parse_goa_command
 
 def swap_go_regulation(instances):
     """
@@ -144,10 +150,13 @@ def save_processed_totxt(processed,file_directory):
     print("directory location:{}".format(file_directory))
 
 if __name__ == '__main__':
-    positive_document_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/positives/*.txt'
-    swapped_negative_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/go_swapped_negatives/{}.txt'
-    go_replaced_negative_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/go_replaced_negatives/{}.txt'
-    ec_replaced_negative_path = '/Users/jiyuc/Documents/GitHub/bio/corpus/ec_replaced_negatives/{}.txt'
+
+    args = parse_goa_command()
+    positive_document_path = args.pos+'*.txt'
+    swapped_negative_path = args.swap
+    go_replaced_negative_path = args.specificity
+    ec_replaced_negative_path = args.evicode
+
     instances = list()
     pos_files = glob.glob(positive_document_path)
     # load positives instances
@@ -156,7 +165,7 @@ if __name__ == '__main__':
             for line in fp:
                 instances.append(Instance().fromstring(line))
 
-    """# swap positive & negative regulations in go terms
+    # swap positive & negative regulations in go terms
     processes = swap_go_regulation(instances)
 
     # save the swapped instance as negatives
@@ -166,7 +175,7 @@ if __name__ == '__main__':
     processes = replace_with_go_child(instances)
 
     # save go replaced instances as negatives
-    save_processed_totxt(processes,go_replaced_negative_path)"""
+    save_processed_totxt(processes,go_replaced_negative_path)
 
     # replace evidence code according to decision tree
     processes = replace_exp_evidence_code(instances)

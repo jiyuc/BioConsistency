@@ -1,0 +1,4 @@
+T1	ontology_term 38 44	RhoGEF
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005089	
+T2	ontology_term 164 170	RhoGEF
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005089	

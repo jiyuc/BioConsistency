@@ -1,0 +1,6 @@
+T1	ontology_term 11 22	ER membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005789	
+T2	ontology_term 23 32	localized
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051179	
+T3	ontology_term 75 98	ribonuclease activities
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004540	

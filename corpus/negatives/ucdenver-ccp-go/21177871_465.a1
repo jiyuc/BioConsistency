@@ -1,0 +1,16 @@
+T1	ontology_term 35 38	PKA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004691	
+T2	ontology_term 35 38	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005952	
+T3	ontology_term 88 91	PKA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004691	
+T4	ontology_term 88 91	PKA
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005952	
+T5	ontology_term 92 101	anchoring
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0043495	
+T6	ontology_term 186 189	PKA
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0004691	
+T7	ontology_term 186 189	PKA
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0005952	
+T8	ontology_term 206 213	binding
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0005488	

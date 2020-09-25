@@ -1,0 +1,4 @@
+T1	ontology_term 60 68	splicing
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0045292	
+T2	ontology_term 69 79	regulation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	

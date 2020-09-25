@@ -1,0 +1,4 @@
+T1	ontology_term 121 137	replication fork
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005657	
+T2	ontology_term 168 178	ICL repair
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0036297	

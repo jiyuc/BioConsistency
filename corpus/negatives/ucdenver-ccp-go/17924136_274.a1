@@ -1,0 +1,6 @@
+T1	ontology_term 39 47	regulate
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 56 62	efflux
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0140352	
+T3	ontology_term 56 62	efflux
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0140115	

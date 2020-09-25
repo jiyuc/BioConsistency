@@ -1,0 +1,4 @@
+T1	ontology_term 16 25	regulates
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 37 43	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	

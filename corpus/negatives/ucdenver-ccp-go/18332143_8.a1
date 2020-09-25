@@ -1,0 +1,12 @@
+T1	ontology_term 74 82	membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 92 123	transcription factor (activated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003700	
+T3	ontology_term 172 216	endoplasmic reticulum-associated degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0036503	
+T4	ontology_term 298 315	polyubiquitinated
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0000209	
+T5	ontology_term 316 324	membrane
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016020	
+T6	ontology_term 325 331	anchor
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0043495	

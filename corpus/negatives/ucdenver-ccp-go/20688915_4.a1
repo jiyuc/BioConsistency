@@ -1,0 +1,12 @@
+T1	ontology_term 44 53	regulator
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0065007	
+T2	ontology_term 57 69	neurotrophin
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005163	
+T3	ontology_term 57 69	neurotrophin
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005165	
+T4	ontology_term 70 79	secretion
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0046903	
+T5	ontology_term 106 137	positive regulator of secretion
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0051047	
+T6	ontology_term 164 170	growth
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0040007	

@@ -1,0 +1,20 @@
+T1	ontology_term 60 68	necrosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070265	
+T2	ontology_term 60 68	necrosis
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019835	
+T3	ontology_term 60 68	necrosis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0008219	
+T4	ontology_term 60 68	necrosis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0001906	
+T5	ontology_term 98 109	calcineurin
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004722	
+T6	ontology_term 98 109	calcineurin
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0004723	
+T7	ontology_term 359 367	necrosis
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0070265	
+T8	ontology_term 359 367	necrosis
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0008219	
+T9	ontology_term 359 367	necrosis
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0001906	
+T10	ontology_term 359 367	necrosis
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0019835	

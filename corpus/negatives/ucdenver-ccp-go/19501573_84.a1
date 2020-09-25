@@ -1,0 +1,8 @@
+T1	ontology_term 29 40	transcripts
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 83 97	histidine-tRNA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0033425	
+T3	ontology_term 83 97	histidine-tRNA
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0033426	
+T4	ontology_term 124 127	RNP
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_1990904	

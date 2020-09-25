@@ -1,0 +1,4 @@
+T1	ontology_term 80 92	contact site
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044289	
+T2	ontology_term 149 155	prenyl
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0097354	

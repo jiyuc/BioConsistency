@@ -1,5 +1,6 @@
 import bioc
 import glob
+from collections import defaultdict
 import os
 import sys
 curPath = os.path.abspath(os.path.dirname(__file__))
@@ -82,6 +83,7 @@ class PositiveEx:
         files = glob.glob(self.bioc_annotation_xml_path)
 
         for filename in tqdm(files):
+            visited = defaultdict(list)
             with bioc.BioCXMLDocumentReader(filename) as collections:
                 for doc in collections:
                     docid = doc.id # extract document id (PMID)
@@ -93,7 +95,9 @@ class PositiveEx:
 
                             if not instance: # not a GO annotation
                                 continue
-
+                            if instance.goa.go_id in visited[instance.evidence.text]:
+                                continue # duplicate annotation
+                            visited[instance.evidence.text] = visited.get(instance.evidence.text,[])+[instance.goa.go_id]
                             instance.evidence.text_type = text_type
                             file_path = self.output_txt_path+docid+'.txt'
                             self.save_positive_to_txt(instance,file_path,appending=True)

@@ -1,0 +1,6 @@
+T1	ontology_term 0 26	Tuberous sclerosis complex
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0033596	
+T2	ontology_term 50 59	autosomal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0030849	
+T3	ontology_term 122 138	tumor suppressor
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0051726	

@@ -1,0 +1,10 @@
+T1	ontology_term 65 71	growth
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040007	
+T2	ontology_term 110 116	growth
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0040007	
+T3	ontology_term 300 309	developed
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0032502	
+T4	ontology_term 506 512	growth
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0040007	
+T5	ontology_term 517 526	fertility
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0009566	

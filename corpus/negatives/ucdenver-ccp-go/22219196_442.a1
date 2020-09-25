@@ -1,0 +1,4 @@
+T1	ontology_term 15 26	RNA-binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003723	
+T2	ontology_term 46 80	negative regulator of axon pruning
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_1904800	

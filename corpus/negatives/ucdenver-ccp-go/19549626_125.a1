@@ -1,0 +1,4 @@
+T1	ontology_term 8 14	rhythm
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048511	
+T2	ontology_term 35 44	secretion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046903	

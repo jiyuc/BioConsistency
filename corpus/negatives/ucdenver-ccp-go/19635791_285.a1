@@ -1,0 +1,12 @@
+T1	ontology_term 57 69	malic enzyme
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004471	
+T2	ontology_term 57 69	malic enzyme
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004473	
+T3	ontology_term 73 90	insulin secretion
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0030073	
+T4	ontology_term 177 189	malic enzyme
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004471	
+T5	ontology_term 177 189	malic enzyme
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0004473	
+T6	ontology_term 193 210	insulin secretion
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0030073	

@@ -1,0 +1,4 @@
+T1	ontology_term 68 77	cell body
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0044297	
+T2	ontology_term 116 126	rhabdomere
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016028	

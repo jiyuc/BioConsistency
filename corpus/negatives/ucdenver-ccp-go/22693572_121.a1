@@ -1,0 +1,6 @@
+T1	ontology_term 61 72	peroxisomes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005777	
+T2	ontology_term 61 72	peroxisomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005777	
+T3	ontology_term 105 117	chloroplasts
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009507	

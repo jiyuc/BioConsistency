@@ -1,0 +1,8 @@
+T1	ontology_term 0 18	Glucose metabolism
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006006	
+T2	ontology_term 40 46	uptake
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098739	
+T3	ontology_term 40 46	uptake
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0098657	
+T4	ontology_term 126 133	regions
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0003002	

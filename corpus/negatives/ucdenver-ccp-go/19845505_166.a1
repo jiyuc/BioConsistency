@@ -1,0 +1,4 @@
+T1	ontology_term 0 27	Signal recognition particle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0048500	
+T2	ontology_term 42 55	translational
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0006412	

@@ -1,0 +1,4 @@
+T1	ontology_term 0 18	Proteins important
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0017038	
+T2	ontology_term 27 38	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

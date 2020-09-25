@@ -1,0 +1,6 @@
+T1	ontology_term 0 27	Cortical granule exocytosis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0060471	
+T2	ontology_term 45 54	regulated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0065007	
+T3	ontology_term 58 68	cell cycle
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007049	

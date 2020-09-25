@@ -1,0 +1,14 @@
+T1	ontology_term 41 52	cytokinesis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000910	
+T2	ontology_term 104 119	central spindle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0051233	
+T3	ontology_term 128 139	cell cortex
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005938	
+T4	ontology_term 153 159	signal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0023052	
+T5	ontology_term 153 159	signal
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0023052	
+T6	ontology_term 165 176	cytokinesis
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0000910	
+T7	ontology_term 195 210	central spindle
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0051233	

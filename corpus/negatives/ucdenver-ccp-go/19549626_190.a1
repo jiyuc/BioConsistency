@@ -1,0 +1,8 @@
+T1	ontology_term 12 18	ligand
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 19 27	exchange
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0015297	
+T3	ontology_term 35 41	uptake
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0098739	
+T4	ontology_term 35 41	uptake
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0098657	

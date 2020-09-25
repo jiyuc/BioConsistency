@@ -1,0 +1,4 @@
+T1	ontology_term 69 74	mtDNA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000262	
+T2	ontology_term 75 90	helicase active
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004386	

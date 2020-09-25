@@ -1,0 +1,4 @@
+T1	ontology_term 9 12	RyR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_1990425	
+T2	ontology_term 43 56	intracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	

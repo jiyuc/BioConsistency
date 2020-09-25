@@ -1,0 +1,10 @@
+T1	ontology_term 44 53	endosomal
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005768	
+T2	ontology_term 70 88	receptor recycling
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0001881	
+T3	ontology_term 154 168	ubiquitination
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0031386	
+T4	ontology_term 251 260	endosomal
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0005768	
+T5	ontology_term 295 309	muscle atrophy
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0014889	

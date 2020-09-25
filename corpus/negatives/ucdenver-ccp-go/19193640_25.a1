@@ -1,0 +1,22 @@
+T1	ontology_term 172 182	antibodies
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 172 182	antibodies
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 172 182	antibodies
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 172 182	antibodies
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	
+T5	ontology_term 324 334	antibodies
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0003823	
+T6	ontology_term 324 334	antibodies
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0019815	
+T7	ontology_term 324 334	antibodies
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0042571	
+T8	ontology_term 324 334	antibodies
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0019814	
+T9	ontology_term 355 365	conjugated
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0000746	
+T10	ontology_term 393 400	F-actin
+N10	Reference T10 http://purl.obolibrary.org/obo/GO_0031941	
+T11	ontology_term 401 413	cytoskeleton
+N11	Reference T11 http://purl.obolibrary.org/obo/GO_0005856	

@@ -1,0 +1,4 @@
+T1	ontology_term 74 91	vesicle-tethering
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0099022	
+T2	ontology_term 107 122	Golgi apparatus
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005794	

@@ -1,0 +1,4 @@
+T1	ontology_term 18 27	formation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0009058	
+T2	ontology_term 266 276	behavioral
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007610	

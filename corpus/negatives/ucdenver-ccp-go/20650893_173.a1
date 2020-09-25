@@ -1,0 +1,4 @@
+T1	ontology_term 112 121	ubiquitin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031386	
+T2	ontology_term 188 202	ubiquitination
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031386	

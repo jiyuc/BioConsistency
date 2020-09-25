@@ -1,0 +1,4 @@
+T1	ontology_term 16 26	conjugated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000746	
+T2	ontology_term 159 168	ionophore
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0022809	

@@ -1,0 +1,4 @@
+T1	ontology_term 68 73	triad
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0030315	
+T2	ontology_term 169 175	region
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	

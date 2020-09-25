@@ -1,0 +1,6 @@
+T1	ontology_term 50 59	localizes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 69 83	late endosomal
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005770	
+T3	ontology_term 150 169	recycling endosomes
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0055037	

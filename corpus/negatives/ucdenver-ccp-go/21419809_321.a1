@@ -1,0 +1,4 @@
+T1	ontology_term 70 78	exchange
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0015297	
+T2	ontology_term 198 205	regions
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	

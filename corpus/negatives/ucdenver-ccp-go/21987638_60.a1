@@ -1,0 +1,6 @@
+T1	ontology_term 22 32	centrioles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005814	
+T2	ontology_term 75 86	degradation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009056	
+T3	ontology_term 170 181	degradation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0009056	

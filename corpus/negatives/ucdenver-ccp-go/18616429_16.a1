@@ -1,0 +1,6 @@
+T1	ontology_term 2 15	glycosylation
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0070085	
+T2	ontology_term 19 32	P2X receptors
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004931	
+T3	ontology_term 77 92	protein folding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006457	

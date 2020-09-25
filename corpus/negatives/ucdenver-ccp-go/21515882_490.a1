@@ -1,0 +1,4 @@
+T1	ontology_term 196 207	nascent HDL
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0034365	
+T2	ontology_term 233 241	secreted
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046903	

@@ -1,0 +1,4 @@
+T1	ontology_term 85 92	Activin
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005160	
+T2	ontology_term 124 141	brain development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007420	

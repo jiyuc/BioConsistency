@@ -1,0 +1,6 @@
+T1	ontology_term 33 49	cells, activated
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0001775	
+T2	ontology_term 77 92	phosphorylating
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016310	
+T3	ontology_term 114 129	transcriptional
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0006351	

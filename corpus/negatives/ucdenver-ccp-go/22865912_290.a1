@@ -1,0 +1,8 @@
+T1	ontology_term 0 6	CaMKII
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004683	
+T2	ontology_term 0 6	CaMKII
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005954	
+T3	ontology_term 41 56	phosphorylation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	
+T4	ontology_term 60 64	ERK1
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0004707	

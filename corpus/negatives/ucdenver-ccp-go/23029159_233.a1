@@ -1,0 +1,4 @@
+T1	ontology_term 110 133	tracheal cell migration
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007427	
+T2	ontology_term 148 157	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

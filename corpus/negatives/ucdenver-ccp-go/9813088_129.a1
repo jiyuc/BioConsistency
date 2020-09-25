@@ -1,0 +1,6 @@
+T1	ontology_term 81 91	centrosome
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005813	
+T2	ontology_term 92 100	behavior
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007610	
+T3	ontology_term 159 170	cytokinesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0000910	

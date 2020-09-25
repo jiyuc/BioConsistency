@@ -1,0 +1,12 @@
+T1	ontology_term 76 82	uptake
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0098739	
+T2	ontology_term 76 82	uptake
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0098657	
+T3	ontology_term 89 95	uptake
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0098739	
+T4	ontology_term 89 95	uptake
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0098657	
+T5	ontology_term 101 123	noradrenergic synapses
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0098692	
+T6	ontology_term 197 223	catecholamine transporters
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0051937	

@@ -1,0 +1,8 @@
+T1	ontology_term 9 26	short-term memory
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007614	
+T2	ontology_term 171 176	mated
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0000747	
+T3	ontology_term 171 176	mated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_1990277	
+T4	ontology_term 171 176	mated
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007618	

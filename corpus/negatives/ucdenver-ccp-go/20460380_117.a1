@@ -1,0 +1,4 @@
+T1	ontology_term 4 13	exogenous
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0042638	
+T2	ontology_term 104 110	M-line
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031430	

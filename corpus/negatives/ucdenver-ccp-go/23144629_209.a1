@@ -1,0 +1,8 @@
+T1	ontology_term 10 19	pachytene
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0000239	
+T2	ontology_term 20 31	chromosomes
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005694	
+T3	ontology_term 81 89	synapsis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007129	
+T4	ontology_term 133 141	synapsis
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007129	

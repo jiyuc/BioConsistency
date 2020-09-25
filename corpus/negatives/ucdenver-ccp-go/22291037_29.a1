@@ -1,0 +1,8 @@
+T1	ontology_term 89 97	antibody
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003823	
+T2	ontology_term 89 97	antibody
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0019815	
+T3	ontology_term 89 97	antibody
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0042571	
+T4	ontology_term 89 97	antibody
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0019814	

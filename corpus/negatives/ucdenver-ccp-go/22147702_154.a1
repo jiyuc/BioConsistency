@@ -1,0 +1,8 @@
+T1	ontology_term 35 43	cellular
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007349	
+T2	ontology_term 71 80	organelle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0043226	
+T3	ontology_term 104 120	sterol synthesis
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016126	
+T4	ontology_term 182 192	cell death
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0008219	

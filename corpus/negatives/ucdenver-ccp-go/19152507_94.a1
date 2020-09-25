@@ -1,0 +1,12 @@
+T1	ontology_term 95 104	membranes
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 186 196	proteinase
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004175	
+T3	ontology_term 249 259	proteinase
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004175	
+T4	ontology_term 270 279	membranes
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016020	
+T5	ontology_term 295 304	membranes
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0016020	
+T6	ontology_term 323 332	membranes
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0016020	

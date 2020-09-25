@@ -1,0 +1,10 @@
+T1	ontology_term 0 5	PI3Ks
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016303	
+T2	ontology_term 38 51	intracellular
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005622	
+T3	ontology_term 115 119	PI3K
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016303	
+T4	ontology_term 130 148	signaling pathways
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0007165	
+T5	ontology_term 130 148	signaling pathways
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0007165	

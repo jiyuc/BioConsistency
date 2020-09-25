@@ -1,0 +1,4 @@
+T1	ontology_term 20 31	phosphatase
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016791	
+T2	ontology_term 82 106	fibroblast proliferation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0048144	

@@ -1,0 +1,4 @@
+T1	ontology_term 14 18	EGFR
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005006	
+T2	ontology_term 19 23	RNAi
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016246	

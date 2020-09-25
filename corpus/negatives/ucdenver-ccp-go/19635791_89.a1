@@ -1,0 +1,4 @@
+T1	ontology_term 23 33	glycolysis
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006096	
+T2	ontology_term 49 60	metabolized
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0008152	

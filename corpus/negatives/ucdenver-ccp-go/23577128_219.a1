@@ -1,0 +1,6 @@
+T1	ontology_term 184 194	locomotion
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0040011	
+T2	ontology_term 241 258	spicule insertion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0034609	
+T3	ontology_term 266 276	copulation
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0007620	

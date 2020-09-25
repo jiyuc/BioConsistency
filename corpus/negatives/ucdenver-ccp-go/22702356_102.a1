@@ -1,0 +1,4 @@
+T1	ontology_term 124 137	transcription
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0006351	
+T2	ontology_term 150 156	region
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0003002	

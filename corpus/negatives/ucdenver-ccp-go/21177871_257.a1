@@ -1,0 +1,6 @@
+T1	ontology_term 50 53	PKA
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0004691	
+T2	ontology_term 50 53	PKA
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005952	
+T3	ontology_term 76 83	binding
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005488	

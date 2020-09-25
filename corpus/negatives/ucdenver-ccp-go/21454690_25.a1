@@ -1,0 +1,6 @@
+T1	ontology_term 56 64	vesicles
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0031982	
+T2	ontology_term 109 117	vesicles
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0031982	
+T3	ontology_term 123 137	phosphorylated
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0016310	

@@ -1,0 +1,8 @@
+T1	ontology_term 68 80	localization
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0051179	
+T2	ontology_term 85 89	SAPK
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0004707	
+T3	ontology_term 90 93	JNK
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0004705	
+T4	ontology_term 94 111	dephosphorylation
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0016311	

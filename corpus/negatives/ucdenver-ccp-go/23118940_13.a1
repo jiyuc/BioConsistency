@@ -1,0 +1,18 @@
+T1	ontology_term 34 41	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 85 95	cytochrome
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0045153	
+T3	ontology_term 85 95	cytochrome
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0045157	
+T4	ontology_term 85 95	cytochrome
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0045154	
+T5	ontology_term 85 95	cytochrome
+N5	Reference T5 http://purl.obolibrary.org/obo/GO_0045155	
+T6	ontology_term 85 95	cytochrome
+N6	Reference T6 http://purl.obolibrary.org/obo/GO_0045158	
+T7	ontology_term 85 95	cytochrome
+N7	Reference T7 http://purl.obolibrary.org/obo/GO_0045156	
+T8	ontology_term 109 119	metabolism
+N8	Reference T8 http://purl.obolibrary.org/obo/GO_0008152	
+T9	ontology_term 177 200	penicillin biosynthesis
+N9	Reference T9 http://purl.obolibrary.org/obo/GO_0042318	

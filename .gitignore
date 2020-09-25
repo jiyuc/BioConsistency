@@ -4,8 +4,13 @@ __pycache__/
 *$py.class
 
 # in-the-middle data
-corpus/positives
-corpus/negatives
+corpus/positives/*.txt
+corpus/negatives/*.txt
+corpus/ec_replaced_negatives
+corpus/go_replaced_negatives
+corpus/go_swapped_negatives
+corpus/sent2vec_pairs
+corpus/ucdenver-ccp-dict
 
 # intelliJ
 .idea

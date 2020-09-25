@@ -1,0 +1,6 @@
+T1	ontology_term 74 93	signalling pathways
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007165	
+T2	ontology_term 74 93	signalling pathways
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007165	
+T3	ontology_term 116 131	thermotolerance
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0010286	

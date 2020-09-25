@@ -1,0 +1,4 @@
+T1	ontology_term 14 26	procentriole
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0120098	
+T2	ontology_term 27 36	formation
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0009058	

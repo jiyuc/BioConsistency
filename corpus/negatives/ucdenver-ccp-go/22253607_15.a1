@@ -1,0 +1,8 @@
+T1	ontology_term 64 75	cytoplasmic
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005737	
+T2	ontology_term 100 108	membrane
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0016020	
+T3	ontology_term 109 117	anchored
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0043495	
+T4	ontology_term 138 154	Kinase Inhibitor
+N4	Reference T4 http://purl.obolibrary.org/obo/GO_0033673	

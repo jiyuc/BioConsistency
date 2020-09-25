@@ -1,0 +1,6 @@
+T1	ontology_term 85 92	spindle
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005819	
+T2	ontology_term 165 172	spindle
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0005819	
+T3	ontology_term 187 196	cytoplasm
+N3	Reference T3 http://purl.obolibrary.org/obo/GO_0005737	

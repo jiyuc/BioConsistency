@@ -1,0 +1,4 @@
+T1	ontology_term 38 54	synapse assembly
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0007416	
+T2	ontology_term 59 72	axon guidance
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007411	

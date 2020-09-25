@@ -1,0 +1,4 @@
+T1	ontology_term 120 131	RNA binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0003723	
+T2	ontology_term 166 177	development
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0032502	

@@ -1,0 +1,4 @@
+T1	ontology_term 4 11	binding
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0005488	
+T2	ontology_term 98 107	sensitive
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0046960	

@@ -1,0 +1,4 @@
+T1	ontology_term 40 48	membrane
+N1	Reference T1 http://purl.obolibrary.org/obo/GO_0016020	
+T2	ontology_term 120 128	eclosion
+N2	Reference T2 http://purl.obolibrary.org/obo/GO_0007562	
