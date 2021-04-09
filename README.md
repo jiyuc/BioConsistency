@@ -3,6 +3,7 @@
 ## Directories for data repositories
 - The BC4GO corpus are stored within /corpus/annotation/*.xml and /corpus/annotation/*.txt
 - Consistent instances are stored within /corpus/positives/*.txt
+- Each *.txt file corresponds to an individual article in BC4GO named by it's PMID
 
 ## Term inconsistent instances
 - (A) Contradictory inconsistencies are stored within /corpus/go_swapped_negatives/*.txt
