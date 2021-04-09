@@ -58,8 +58,11 @@ def evidence2go_index(instances):
 def select_go_child(children, ignore):
     if not children or len(children) == 0:
         return None
+    
+    # uncomment following line of code to apply training set optimisation strategy
+    #children = sorted([(count_go_term_overlap(node,child),child) for child in children],key=lambda x:x[0], reverse=False)
 
-    random.shuffle(children)
+    random.shuffle(children) # comment this line when applying training set optimisation strategy
     for child in children:
         if child not in ignore:
             return child
@@ -67,6 +70,12 @@ def select_go_child(children, ignore):
             continue
     return None
 
+def count_go_term_overlap(term1, term2):
+    term1 = set(term1.split(' '))
+    #print(term2.go_term)
+    term2 = set(term2.go_term.split(' '))
+    distance = len(term1-term2)
+    return distance
 
 
 def replace_with_go_child(instances):
