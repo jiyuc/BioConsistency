@@ -1,8 +1,8 @@
 # BioConsistency
 
 Full description of the adversarial data generation is illustrated in paper:
-`Automatic Consistency Assurance for Literature-based Gene Ontology Annotation (currently under peer review)`
-Jiyu Chen, Nicholas Geard, Justin Zobel, Karin Verspoor
+### <Automatic Consistency Assurance for Literature-based Gene Ontology Annotation> (under peer review)
+
 
 ## Directories for data repositories
 - The BC4GO corpus are stored within /corpus/annotation/*.xml and /corpus/annotation/*.txt
